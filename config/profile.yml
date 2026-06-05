@@ -1,0 +1,68 @@
+candidate:
+  full_name: "Mahlab Maniar"
+  email: "mahlab.maniar@gmail.com"
+  phone: "+974 50671973"
+  location: "Doha, Qatar"
+  linkedin: "linkedin.com/in/mahlab-maniar"
+
+target_roles:
+  primary:
+    - "Strategy Manager"
+    - "Head of Strategy"
+    - "Chief of Staff"
+    - "Strategy and Operations Lead"
+  archetypes:
+    - name: "In-house Strategy"
+      level: "Manager / Senior Manager"
+      fit: "primary"
+    - name: "Operations Leadership"
+      level: "Manager / Senior Manager"
+      fit: "primary"
+    - name: "Chief of Staff"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Business Development"
+      level: "Manager"
+      fit: "secondary"
+    - name: "Product Operations / Strategy & Ops"
+      level: "Senior"
+      fit: "adjacent"
+
+narrative:
+  headline: "Ex-BCG consultant with operator roots — strategy, ops, and execution across MENA"
+  exit_story: "5+ years spanning BCG consulting, Alibaba/Daraz, and a Series A logistics startup. I've built financial models for $12B portfolios, owned regional planning for 5-country operations, and rolled up my sleeves as an ops lead. Transitioning out of BCG to take a leadership role where I can own strategy end-to-end and drive it into execution."
+  superpowers:
+    - "Structuring complex problems and translating them into executive-ready frameworks"
+    - "Building financial and operational models from scratch (capital allocation, logistics, forecasting)"
+    - "Bridging strategy and execution — equally comfortable in Steering Committee presentations and in the data"
+    - "Cross-functional stakeholder management and workshop facilitation at senior levels"
+    - "Logistics, supply chain, and marketplace operations depth"
+  proof_points:
+    - name: "Capital allocation strategy — $12B family conglomerate (BCG)"
+      hero_metric: "Integrated financial model from asset-level to shareholder impact; enabled Steering Committee decisions on dividends, reinvestment, and portfolio diversification"
+    - name: "FDI attraction framework — national industrial city, KSA (BCG)"
+      hero_metric: "Screened 30K+ companies; prioritized 1,100+ high-potential investors targeting $500M in FDI"
+    - name: "University repositioning strategy — national flagship GCC university (BCG)"
+      hero_metric: "Benchmarked 20+ global institutions; enabled leadership alignment on long-term positioning as national anchor university"
+    - name: "CRM functional blueprint — national O&G company (BCG)"
+      hero_metric: "40+ functionalities defined across 5 business areas; implementation-ready blueprint endorsed by senior management"
+    - name: "Regional logistics & workforce planning — Daraz, 5 countries"
+      hero_metric: "~5% cost reduction; 57% faster business planning cycle (7 to 3 days)"
+    - name: "Backhauling & truck utilization pilot — Trella"
+      hero_metric: "~4% increase in truck utilization; reduced dead miles across 9 shipper combos"
+    - name: "Demand forecasting overhaul — Trella"
+      hero_metric: "Replaced qualitative AM estimates with automated data-backed dashboards; improved visibility across all business verticals"
+
+compensation:
+  currency: "USD"
+  target_range: "$80K-130K"
+  location_flexibility: "Open to Qatar, UAE, KSA, and select remote roles"
+
+location:
+  country: "Qatar"
+  city: "Doha"
+  timezone: "AST (UTC+3)"
+  visa_status: "Qatar resident; open to relocation within GCC"
+
+cv:
+  output_format: "html"

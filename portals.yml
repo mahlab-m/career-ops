@@ -1,0 +1,835 @@
+# Portal Scanner Configuration — Mahlab Maniar
+# Target: Strategy & Ops, BizOps, Chief of Staff, Corporate Strategy, GTM Ops, Founder Associate
+# Markets: UK (primary), Germany, Netherlands, France, rest of EU, MENA (secondary)
+# Seniority: IC and Manager. Excludes intern/junior/graduate/VP/Director/C-level.
+# Visa: UK and EU roles require sponsorship — smaller companies without licences filtered out.
+
+# -- Title filter --
+title_filter:
+  positive:
+    - "Strategy"
+    - "Operations"
+    - "Chief of Staff"
+    - "Founder Associate"
+    - "BizOps"
+    - "Business Operations"
+    - "Corporate Strategy"
+    - "GTM"
+    - "Go-to-Market"
+    - "Revenue Operations"
+    - "RevOps"
+    - "Growth Operations"
+    - "Strategy & Operations"
+    - "Strategy and Operations"
+    - "Head of Operations"
+    - "Head of Strategy"
+    - "Transformation"
+    - "Strategic Planning"
+    - "Commercial Operations"
+    - "Business Development"
+    - "Growth"
+    - "Planning"
+    - "Special Projects"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Graduate"
+    - "Apprentice"
+    - "Trainee"
+    - "Entry Level"
+    - "Entry-Level"
+    - "Vice President"
+    - "VP,"
+    - "VP "
+    - "SVP"
+    - "EVP"
+    - "C-Level"
+    - "Chief Executive"
+    - "Chief Financial"
+    - "Chief Operating"
+    - "Chief Revenue"
+    - "Chief Marketing"
+    - "Chief People"
+    - "Director,"
+    - "Director "
+    - "Managing Director"
+    - "Account Manager"
+    - "Account Executive"
+    - "Customer Success Manager"
+    - "Sales Manager"
+    - "Sales Representative"
+    - "Sales Executive"
+    - "Marketing Manager"
+    - "HR "
+    - "Recruiter"
+    - "Legal"
+    - "Finance Manager"
+    - "Accountant"
+    - "Software Engineer"
+    - "Data Engineer"
+    - "ML Engineer"
+    - "DevOps"
+    - "Frontend"
+    - "Backend"
+    - "Full Stack"
+    - "iOS"
+    - "Android"
+  seniority_boost:
+    - "Senior"
+    - "Lead"
+    - "Manager"
+    - "Associate"
+    - "Principal"
+
+# -- Search queries --
+# Wide-net discovery across ATS platforms and job boards.
+# These find companies you don't know yet — the tracked_companies list is just the seed.
+
+search_queries:
+
+  # ── Greenhouse: Strategy & Ops roles ──
+  - name: Greenhouse — Strategy & Operations
+    query: 'site:job-boards.greenhouse.io "Strategy" "Operations" OR "Strategy & Operations" OR "BizOps" London OR Berlin OR Amsterdam OR Paris OR Remote'
+    enabled: true
+
+  - name: Greenhouse — Chief of Staff / Founder Associate
+    query: 'site:job-boards.greenhouse.io "Chief of Staff" OR "Founder Associate" OR "Special Projects" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  - name: Greenhouse — Corporate Strategy / GTM Ops
+    query: 'site:job-boards.greenhouse.io "Corporate Strategy" OR "GTM" OR "Go-to-Market" OR "Revenue Operations" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  - name: Greenhouse — Business Operations / Growth
+    query: 'site:job-boards.greenhouse.io "Business Operations" OR "Growth Operations" OR "Strategic Planning" London OR Berlin OR Amsterdam OR Paris OR Remote'
+    enabled: true
+
+  # ── Ashby: Strategy & Ops roles ──
+  - name: Ashby — Strategy & Ops / Chief of Staff
+    query: 'site:jobs.ashbyhq.com "Strategy" OR "Chief of Staff" OR "BizOps" OR "Business Operations" London OR Berlin OR Amsterdam OR Paris OR Remote'
+    enabled: true
+
+  - name: Ashby — GTM / RevOps / Growth
+    query: 'site:jobs.ashbyhq.com "GTM" OR "Revenue Operations" OR "Go-to-Market" OR "Growth Operations" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  - name: Ashby — Founder Associate / Special Projects
+    query: 'site:jobs.ashbyhq.com "Founder Associate" OR "Special Projects" OR "Corporate Strategy" OR "Transformation"'
+    enabled: true
+
+  # ── Lever: Strategy & Ops roles ──
+  - name: Lever — Strategy & Ops / Chief of Staff
+    query: 'site:jobs.lever.co "Strategy" "Operations" OR "Chief of Staff" OR "BizOps" London OR Berlin OR Amsterdam OR Paris OR Remote'
+    enabled: true
+
+  - name: Lever — Corporate Strategy / GTM
+    query: 'site:jobs.lever.co "Corporate Strategy" OR "GTM" OR "Go-to-Market" OR "Revenue Operations" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  # ── Workable: UK/EU tech scaleups ──
+  - name: Workable — Strategy & Ops UK/EU
+    query: 'site:apply.workable.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London OR Berlin OR Amsterdam OR Paris OR Remote'
+    enabled: true
+
+  # ── LinkedIn broad discovery ──
+  - name: LinkedIn — Strategy & Ops UK
+    query: 'site:linkedin.com/jobs "Strategy and Operations" OR "Strategy & Operations" OR "BizOps" London OR "United Kingdom" "Manager" OR "Associate" OR "Lead"'
+    enabled: true
+
+  - name: LinkedIn — Chief of Staff UK/EU
+    query: 'site:linkedin.com/jobs "Chief of Staff" OR "Founder Associate" London OR Berlin OR Amsterdam OR Paris "tech" OR "startup" OR "scaleup"'
+    enabled: true
+
+  - name: LinkedIn — Corporate Strategy UK/EU
+    query: 'site:linkedin.com/jobs "Corporate Strategy" OR "Strategic Planning" OR "Corporate Development" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  - name: LinkedIn — GTM / RevOps UK/EU
+    query: 'site:linkedin.com/jobs "GTM Strategy" OR "Revenue Operations" OR "Go-to-Market Operations" London OR Berlin OR Amsterdam OR Paris'
+    enabled: true
+
+  - name: LinkedIn — MENA Strategy Roles
+    query: 'site:linkedin.com/jobs "Strategy" OR "Operations" OR "Chief of Staff" OR "Corporate Strategy" Dubai OR Doha OR Riyadh OR "Saudi Arabia" OR "UAE" "tech" OR "scaleup"'
+    enabled: true
+
+  # ── Welcome to the Jungle: EU/UK ──
+  - name: Welcome to the Jungle — Strategy & Ops
+    query: 'site:welcometothejungle.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London OR Paris OR Berlin OR Amsterdam OR Remote'
+    enabled: true
+
+  - name: Welcome to the Jungle — GTM / Corporate Strategy
+    query: 'site:welcometothejungle.com "Corporate Strategy" OR "GTM" OR "Revenue Operations" OR "Founder Associate"'
+    enabled: true
+
+  # ── Himalayas: remote-friendly EU roles ──
+  - name: Himalayas — Strategy & Ops Remote EU
+    query: 'site:himalayas.app "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Europe OR UK OR Remote'
+    enabled: true
+
+  # ── euremotejobs.com ──
+  - name: EU Remote Jobs — Strategy & Ops
+    query: 'site:euremotejobs.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" OR "GTM"'
+    enabled: true
+
+  # ── YC / Work at a Startup ──
+  - name: YC Work at a Startup — Ops & Strategy
+    query: 'site:workatastartup.com "Strategy" OR "Operations" OR "Chief of Staff" OR "Founder Associate" OR "BizOps" Europe OR UK OR Remote'
+    enabled: true
+
+  # ── Remotive: remote EU/UK ──
+  - name: Remotive — Strategy & Ops
+    query: 'site:remotive.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Europe OR UK'
+    enabled: true
+
+  # ── EFinancialCareers: fintech/finance-adjacent ──
+  - name: eFinancialCareers — Strategy & Corp Dev
+    query: 'site:efinancialcareers.com "Strategy" OR "Corporate Development" OR "Corporate Strategy" OR "Chief of Staff" London OR "United Kingdom" OR Frankfurt OR Amsterdam'
+    enabled: true
+
+  # ── HN Who's Hiring ──
+  - name: HN Who's Hiring — Strategy / CoS / Ops
+    query: 'site:news.ycombinator.com "Chief of Staff" OR "Strategy and Operations" OR "Founder Associate" OR "BizOps" Europe OR UK OR Remote'
+    enabled: true
+
+# -- Tracked companies --
+# Known visa-sponsoring employers with strategy/ops teams.
+# These are a seed — search_queries above discover the long tail.
+
+tracked_companies:
+
+  # ── AI Labs & Frontier Model (UK/EU) ──
+
+  - name: Google DeepMind
+    careers_url: https://job-boards.greenhouse.io/deepmind
+    api: https://boards-api.greenhouse.io/v1/boards/deepmind/jobs
+    notes: "London. Google's AI research lab. Large strategy/ops org."
+    enabled: true
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    notes: "London office. Strategy & Ops, Policy, BizOps roles."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. Fast-growing EU AI lab. Ops & Strategy roles."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "London office. Enterprise AI. Strategy & Ops roles."
+    enabled: true
+
+  - name: Aleph Alpha
+    careers_url: https://jobs.ashbyhq.com/AlephAlpha
+    notes: "Heidelberg DE. Sovereign European LLM. Ops & BD roles."
+    enabled: true
+
+  - name: Helsing
+    careers_url: https://job-boards.greenhouse.io/helsing
+    api: https://boards-api.greenhouse.io/v1/boards/helsing/jobs
+    notes: "Munich / Berlin / London. Defence AI unicorn. Strategy & ops roles."
+    enabled: true
+
+  - name: Wayve
+    careers_url: https://job-boards.greenhouse.io/wayve
+    api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
+    notes: "London. Embodied AI for autonomous vehicles."
+    enabled: true
+
+  - name: Stability AI
+    careers_url: https://job-boards.greenhouse.io/stabilityai
+    api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
+    notes: "London. Generative AI lab."
+    enabled: true
+
+  - name: Synthesia
+    careers_url: https://jobs.ashbyhq.com/synthesia
+    notes: "London. AI video generation. $1B+ valuation."
+    enabled: true
+
+  - name: Faculty AI
+    careers_url: https://jobs.ashbyhq.com/faculty
+    notes: "London. Applied AI consultancy/product. Ops & Strategy roles."
+    enabled: true
+
+  - name: PolyAI
+    careers_url: https://job-boards.eu.greenhouse.io/polyai
+    api: https://boards-api.greenhouse.io/v1/boards/polyai/jobs
+    notes: "London. Voice AI for enterprise. Series C."
+    enabled: true
+
+  - name: Photoroom
+    careers_url: https://jobs.ashbyhq.com/photoroom
+    notes: "Paris. AI photo editor unicorn."
+    enabled: true
+
+  - name: Poolside
+    careers_url: https://jobs.ashbyhq.com/poolside
+    notes: "Paris / SF. Code generation AI. $500M+ raised."
+    enabled: true
+
+  - name: ElevenLabs
+    careers_url: https://jobs.ashbyhq.com/elevenlabs
+    notes: "London / global. Voice AI unicorn $1B+. GTM S&O and Strategy roles."
+    enabled: true
+
+  - name: Harvey
+    careers_url: https://jobs.ashbyhq.com/harvey
+    notes: "London / NYC. AI for legal work. Series C $300M+. GTM S&O roles."
+    enabled: true
+
+  - name: Omnea
+    careers_url: https://jobs.ashbyhq.com/omnea
+    notes: "London. B2B procurement automation. YC-backed, Series A. CoS and BizOps roles."
+    enabled: true
+
+  - name: Qdrant
+    careers_url: https://jobs.ashbyhq.com/qdrant.tech
+    notes: "Berlin. Vector search database for AI. Series B. Strategy & Ops roles."
+    enabled: true
+
+  # ── Big Tech (UK/EU offices) ──
+
+  - name: Airwallex
+    careers_url: https://jobs.ashbyhq.com/airwallex
+    notes: "London / Amsterdam / Frankfurt. Cross-border payments unicorn $5.5B. Strategy & Ops, BizOps."
+    enabled: true
+
+  - name: Deel
+    careers_url: https://jobs.ashbyhq.com/Deel
+    notes: "Dublin / London / Amsterdam. Global payroll & HR $12B valuation. GTM S&O."
+    enabled: true
+
+  - name: Palantir
+    careers_url: https://jobs.lever.co/palantir
+    notes: "London. Strategy & Ops, Forward Deployed, BizOps."
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    notes: "Dublin / London. Fintech infra. Large BizOps and Strategy org."
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "London / Stockholm. Strategy & Ops, Corporate Strategy roles."
+    enabled: true
+
+  - name: Booking.com
+    careers_url: https://jobs.booking.com
+    scan_method: websearch
+    scan_query: 'site:jobs.booking.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps"'
+    notes: "Amsterdam. Large corporate strategy and ops org."
+    enabled: true
+
+  - name: Uber
+    careers_url: https://www.uber.com/us/en/careers
+    scan_method: websearch
+    scan_query: 'site:uber.com/careers "Strategy" OR "Operations" OR "Chief of Staff" London OR Amsterdam OR Berlin'
+    notes: "London / Amsterdam. Strategy & Ops is a core Uber career track."
+    enabled: true
+
+  # ── Key Contacts (priority tracking) ──
+
+  - name: Relay Technologies
+    careers_url: https://jobs.ashbyhq.com/relay
+    notes: "London. AI logistics platform. Series A. Key contact: Savio Chopra (Hiring Manager). Priority."
+    enabled: true
+
+  - name: Apron
+    careers_url: https://jobs.ashbyhq.com/apron
+    notes: "London. B2B payments / bill pay. Series B. Key contacts: Gaby Byrne (Recruiter), Suleman Arif (Referral). Priority."
+    enabled: true
+
+  # ── UK Fintech Scaleups (visa sponsors) ──
+
+  - name: Revolut
+    careers_url: https://jobs.lever.co/revolut
+    notes: "London. Neobank unicorn. Strategy & Ops, BizOps roles."
+    enabled: true
+
+  - name: Wise
+    careers_url: https://jobs.lever.co/wise
+    notes: "London. Fintech scale-up. Uses Lever (via wise.jobs)."
+    enabled: true
+
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+    api: https://boards-api.greenhouse.io/v1/boards/monzo/jobs
+    notes: "London. Neobank. Strategy, BizOps, and CoS roles."
+    enabled: true
+
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+    api: https://boards-api.greenhouse.io/v1/boards/gocardless/jobs
+    notes: "London. Payments infra. Strategy & Ops roles."
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://www.checkout.com/jobs
+    scan_method: websearch
+    scan_query: '"Checkout.com" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
+    notes: "London. Global payments. Uses private Ashby instance (not public API). Websearch fallback."
+    enabled: true
+
+  - name: Starling Bank
+    careers_url: https://apply.workable.com/starling-bank/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/starling-bank "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
+    notes: "London. Neobank. Now on Workable (scan.mjs doesn't support Workable — websearch fallback)."
+    enabled: true
+
+  - name: BVNK
+    careers_url: https://job-boards.greenhouse.io/bvnk
+    api: https://boards-api.greenhouse.io/v1/boards/bvnk/jobs
+    notes: "London. Crypto/stablecoin payments infrastructure. Series B. Strategy & Ops roles."
+    enabled: true
+
+  - name: Dojo
+    careers_url: https://job-boards.greenhouse.io/dojo
+    api: https://boards-api.greenhouse.io/v1/boards/dojo/jobs
+    notes: "London. Card payments for SMBs. Series B+. Strategy & Ops roles."
+    enabled: true
+
+  - name: Tide
+    careers_url: https://job-boards.greenhouse.io/tide
+    api: https://boards-api.greenhouse.io/v1/boards/tide/jobs
+    notes: "London. SMB banking platform. Series B. 127+ active jobs. Strategy & Ops."
+    enabled: true
+
+  - name: Zopa
+    careers_url: https://jobs.lever.co/zopa
+    notes: "London. Digital bank + lending. Series F. Strategy & Ops."
+    enabled: true
+
+  - name: Marshmallow
+    careers_url: https://jobs.ashbyhq.com/marshmallow
+    notes: "London. Insurtech unicorn. Ops & Strategy roles. Moved from Greenhouse → Ashby."
+    enabled: true
+
+  - name: Multiverse
+    careers_url: https://jobs.ashbyhq.com/multiverse
+    notes: "London. EdTech / workforce development. CoS and Ops roles. Moved from Greenhouse → Ashby."
+    enabled: true
+
+  - name: Tractable
+    careers_url: https://jobs.ashbyhq.com/tractable
+    notes: "London. AI for insurance claims. Series E."
+    enabled: true
+
+  - name: ComplyAdvantage
+    careers_url: https://job-boards.greenhouse.io/complyadvantage
+    api: https://boards-api.greenhouse.io/v1/boards/complyadvantage/jobs
+    notes: "London. Financial crime intelligence. Strategy & Ops."
+    enabled: true
+
+  - name: Quantexa
+    careers_url: https://apply.workable.com/quantexa/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/quantexa "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
+    notes: "London. Decision intelligence AI. Series E. Now on Workable (scan.mjs doesn't support Workable — websearch fallback)."
+    enabled: true
+
+  - name: Thought Machine
+    careers_url: https://jobs.ashbyhq.com/thought-machine
+    notes: "London. Cloud-native core banking. Strategy & Ops. Moved from Greenhouse → Ashby."
+    enabled: true
+
+  - name: Cleo
+    careers_url: https://job-boards.greenhouse.io/cleo
+    api: https://boards-api.greenhouse.io/v1/boards/cleo/jobs
+    notes: "London. AI financial assistant. Confirmed on Greenhouse."
+    enabled: true
+
+  - name: Zego
+    careers_url: https://apply.workable.com/zego/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/zego "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
+    notes: "London. Commercial insurtech. Now on Workable (scan.mjs doesn't support Workable — websearch fallback)."
+    enabled: true
+
+  - name: iwoca
+    careers_url: https://jobs.ashbyhq.com/iwoca.co.uk
+    notes: "London. SMB lending fintech. Strategy & Ops roles. Moved from Greenhouse → Ashby (slug: iwoca.co.uk)."
+    enabled: true
+
+  - name: Featurespace
+    careers_url: https://job-boards.greenhouse.io/featurespace
+    api: https://boards-api.greenhouse.io/v1/boards/featurespace/jobs
+    notes: "London / Cambridge. Fraud detection AI. Confirmed on Greenhouse."
+    enabled: true
+
+  - name: Paddle
+    careers_url: https://jobs.ashbyhq.com/paddle
+    notes: "London. Revenue delivery platform for SaaS. BizOps & Strategy. Moved from Greenhouse → Ashby."
+    enabled: true
+
+  - name: Deliveroo
+    careers_url: https://jobs.smartrecruiters.com/Deliveroo
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Deliveroo "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" OR "Planning"'
+    notes: "London. Food delivery. Confirmed on SmartRecruiters (scan.mjs doesn't support SR — websearch fallback)."
+    enabled: true
+
+  - name: Farfetch
+    careers_url: https://jobs.lever.co/farfetch
+    notes: "London / Lisbon. Luxury e-commerce (acquired by Coupang 2024). Confirmed on Lever."
+    enabled: true
+
+  # ── UK AI-native SaaS ──
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    notes: "London. AI-native CRM. Series B."
+    enabled: true
+
+  - name: Behavox
+    careers_url: https://job-boards.greenhouse.io/behavox
+    api: https://boards-api.greenhouse.io/v1/boards/behavox/jobs
+    notes: "London. AI compliance/surveillance. Confirmed on Greenhouse."
+    enabled: true
+
+  - name: Legl
+    careers_url: https://www.legl.com/careers
+    scan_method: websearch
+    scan_query: '"Legl" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
+    notes: "London. Legal tech SaaS. Series B. Ashby slug broken — switched to websearch."
+    enabled: true
+
+  # ── German scaleups (DE/EU) ──
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin. Neobank. Strategy & Ops roles. Visa sponsor."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin. Neobroker unicorn. Strategy roles."
+    enabled: true
+
+  - name: Personio
+    careers_url: https://www.personio.com/about-personio/careers
+    scan_method: websearch
+    scan_query: '"Personio" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Munich OR London'
+    notes: "Munich / London. HR SaaS unicorn. BizOps & Strategy. Greenhouse API broken — switched to websearch."
+    enabled: true
+
+  - name: Oura
+    careers_url: https://job-boards.greenhouse.io/oura
+    api: https://boards-api.greenhouse.io/v1/boards/oura/jobs
+    notes: "Helsinki / remote. Smart ring health tech. Series D. Strategy & Ops roles."
+    enabled: true
+
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+    notes: "Munich. Process intelligence. Strategy & Ops, CoS roles."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin / London. Payments fintech. Strategy & Ops."
+    enabled: true
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin. Headless CMS. BizOps & Strategy."
+    enabled: true
+
+  - name: Leapsome
+    careers_url: https://jobs.ashbyhq.com/leapsome
+    notes: "Berlin. HR/people enablement SaaS. Series B."
+    enabled: true
+
+  - name: DeepL
+    careers_url: https://jobs.ashbyhq.com/DeepL
+    notes: "Cologne DE. Language AI. Strategy & Ops roles."
+    enabled: true
+
+  - name: Forto
+    careers_url: https://forto.com/en/careers
+    scan_method: websearch
+    scan_query: '"Forto" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Berlin OR Remote'
+    notes: "Berlin. Digital freight forwarder. Ops & Strategy — strong fit given logistics background. Lever slug broken — switched to websearch."
+    enabled: true
+
+  - name: Taxfix
+    careers_url: https://jobs.smartrecruiters.com/Taxfix
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Taxfix "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Berlin'
+    notes: "Berlin. Tax filing SaaS. Confirmed on SmartRecruiters (scan.mjs doesn't support SR — websearch fallback)."
+    enabled: true
+
+  - name: Moss
+    careers_url: https://jobs.ashbyhq.com/moss
+    notes: "Berlin. Spend management SaaS. Strategy & Ops."
+    enabled: true
+
+  # ── Netherlands scaleups ──
+
+  - name: Adyen
+    careers_url: https://job-boards.greenhouse.io/adyen
+    api: https://boards-api.greenhouse.io/v1/boards/adyen/jobs
+    notes: "Amsterdam. Global payments. Confirmed on Greenhouse."
+    enabled: true
+
+  - name: Mollie
+    careers_url: https://jobs.ashbyhq.com/mollie
+    notes: "Amsterdam. Payments scaleup. Strategy & Ops roles."
+    enabled: true
+
+  - name: Miro
+    careers_url: https://job-boards.greenhouse.io/realtimeboardglobal
+    api: https://boards-api.greenhouse.io/v1/boards/realtimeboardglobal/jobs
+    notes: "Amsterdam / London. Collaboration platform. Greenhouse slug: realtimeboardglobal."
+    enabled: true
+
+  - name: MessageBird
+    careers_url: https://job-boards.greenhouse.io/bird
+    api: https://boards-api.greenhouse.io/v1/boards/bird/jobs
+    notes: "Amsterdam. Omnichannel comms platform (rebranded to Bird). Greenhouse slug: bird."
+    enabled: true
+
+  - name: Catawiki
+    careers_url: https://job-boards.greenhouse.io/catawiki
+    api: https://boards-api.greenhouse.io/v1/boards/catawiki/jobs
+    notes: "Amsterdam. Online auction marketplace. Ops & Strategy."
+    enabled: true
+
+  # ── French scaleups ──
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris. SMB neobank. Strategy & BizOps roles."
+    enabled: true
+
+  - name: Alan
+    careers_url: https://jobs.ashbyhq.com/alan
+    notes: "Paris. Health insurance tech. Strategy & Ops, CoS. Moved from Lever → Ashby."
+    enabled: true
+
+  - name: BlaBlaCar
+    careers_url: https://jobs.lever.co/blablacar
+    notes: "Paris. Mobility platform. Strategy & Ops."
+    enabled: true
+
+  - name: Pigment
+    careers_url: https://jobs.lever.co/pigment
+    notes: "Paris / London. AI-powered FP&A. Strategy & BizOps."
+    enabled: true
+
+  - name: 360Learning
+    careers_url: https://jobs.lever.co/360learning
+    notes: "Paris. Collaborative learning platform. Series C+. Strategy & RevOps roles."
+    enabled: true
+
+  - name: Pennylane
+    careers_url: https://jobs.lever.co/pennylane
+    notes: "Paris. Accounting/finance SaaS for SMEs. Series C. BizOps & Strategy."
+    enabled: true
+
+  - name: Agicap
+    careers_url: https://jobs.lever.co/agicap
+    notes: "Lyon/Paris. Cash flow management SaaS. Series C. Strategy & Ops."
+    enabled: true
+
+  - name: Swile
+    careers_url: https://jobs.lever.co/swile
+    notes: "Paris. Employee benefits SaaS. Strategy & Ops."
+    enabled: true
+
+  - name: Contentsquare
+    careers_url: https://jobs.lever.co/contentsquare
+    notes: "Paris / London. Digital analytics unicorn. Confirmed on Lever."
+    enabled: true
+
+  - name: PlayPlay
+    careers_url: https://jobs.lever.co/playplay
+    notes: "Paris / NYC. AI video creation platform. Series B. Strategy & CoS roles."
+    enabled: true
+
+  - name: Veepee
+    careers_url: https://jobs.lever.co/veepee
+    notes: "Paris / Amsterdam / Barcelona. E-commerce flash sales platform. Transformation & Strategy ops."
+    enabled: true
+
+  - name: Mirakl
+    careers_url: https://job-boards.greenhouse.io/mirakl
+    api: https://boards-api.greenhouse.io/v1/boards/mirakl/jobs
+    notes: "Paris. B2B marketplace platform. Strategy & Ops."
+    enabled: true
+
+  - name: Doctolib
+    careers_url: https://job-boards.greenhouse.io/doctolib
+    api: https://boards-api.greenhouse.io/v1/boards/doctolib/jobs
+    notes: "Paris. Health tech unicorn. Strategy & Ops, CoS roles."
+    enabled: true
+
+  # ── Multi-market EU scaleups ──
+
+  - name: Klarna
+    careers_url: https://jobs.lever.co/klarna
+    notes: "Stockholm / London / Berlin. BNPL fintech. Confirmed on Lever."
+    enabled: true
+
+  - name: Factorial
+    careers_url: https://jobs.smartrecruiters.com/Factorial
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Factorial "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Barcelona OR Remote'
+    notes: "Barcelona. HR SaaS unicorn. Confirmed on SmartRecruiters (scan.mjs doesn't support SR — websearch fallback)."
+    enabled: true
+
+  - name: Travelperk
+    careers_url: https://www.travelperk.com/careers
+    scan_method: websearch
+    scan_query: '"TravelPerk" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Barcelona OR London'
+    notes: "Barcelona / London. Business travel platform. Strategy & Ops — strong fit. Ashby slug broken — switched to websearch."
+    enabled: true
+
+  - name: SonarSource
+    careers_url: https://jobs.lever.co/sonarsource
+    notes: "Geneva / Bochum / Paris. Dev tools (SonarQube). Series D. CoS and Strategy roles."
+    enabled: true
+
+  - name: n8n
+    careers_url: https://jobs.ashbyhq.com/n8n
+    notes: "Berlin / Remote EU. Workflow automation. Ops & Strategy."
+    enabled: true
+
+  - name: Vinted
+    careers_url: https://job-boards.eu.greenhouse.io/vintedes
+    api: https://boards-api.eu.greenhouse.io/v1/boards/vintedes/jobs
+    notes: "Vilnius / Berlin. C2C marketplace unicorn. Confirmed on Greenhouse EU (slug: vintedes)."
+    enabled: true
+
+  - name: Pleo
+    careers_url: https://jobs.ashbyhq.com/pleo
+    notes: "Copenhagen / London. Spend management. BizOps & Strategy. Moved from Lever → Ashby."
+    enabled: true
+
+  - name: Spendesk
+    careers_url: https://jobs.ashbyhq.com/spendesk
+    notes: "Paris. Spend management SaaS. Strategy & Ops. Moved from Lever → Ashby."
+    enabled: true
+
+  - name: Multiline / Lovable
+    careers_url: https://jobs.ashbyhq.com/lovable
+    notes: "Stockholm. AI app builder. Ops & Growth roles."
+    enabled: true
+
+  # ── Overnight batch additions (verified ATS endpoints) ──
+
+  - name: Form3
+    careers_url: https://job-boards.greenhouse.io/form3
+    api: https://boards-api.greenhouse.io/v1/boards/form3/jobs
+    notes: "London. Cloud payments infrastructure. Series C. Strategy & Ops."
+    enabled: true
+
+  - name: TrueLayer
+    careers_url: https://job-boards.greenhouse.io/truelayer
+    api: https://boards-api.greenhouse.io/v1/boards/truelayer/jobs
+    notes: "London. Open banking payments. Series E. Strategy & Ops, BizOps."
+    enabled: true
+
+  - name: Salary Finance
+    careers_url: https://job-boards.greenhouse.io/salaryfinance
+    api: https://boards-api.greenhouse.io/v1/boards/salaryfinance/jobs
+    notes: "London. Financial wellbeing fintech. Strategy & Ops."
+    enabled: true
+
+  - name: HelloFresh
+    careers_url: https://job-boards.greenhouse.io/hellofresh
+    api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
+    notes: "Berlin. Meal-kit unicorn (public). Large Strategy & Ops org."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel experiences marketplace. Series F. BizOps & Strategy."
+    enabled: true
+
+  - name: Raisin
+    careers_url: https://job-boards.greenhouse.io/raisin
+    api: https://boards-api.greenhouse.io/v1/boards/raisin/jobs
+    notes: "Berlin. Savings/deposits marketplace. Strategy & Ops."
+    enabled: true
+
+  - name: Solaris
+    careers_url: https://job-boards.greenhouse.io/solarisbank
+    api: https://boards-api.greenhouse.io/v1/boards/solarisbank/jobs
+    notes: "Berlin. Banking-as-a-service platform. Strategy & Ops."
+    enabled: true
+
+  - name: Cabify
+    careers_url: https://job-boards.greenhouse.io/cabify
+    api: https://boards-api.greenhouse.io/v1/boards/cabify/jobs
+    notes: "Madrid. Ride-hailing/mobility platform. Strategy & Ops — strong ops fit."
+    enabled: true
+
+  - name: Ledger
+    careers_url: https://jobs.lever.co/ledger
+    notes: "Paris. Crypto hardware wallet unicorn. Strategy & Ops."
+    enabled: true
+
+  # ── MENA (lower priority — include but deprioritised) ──
+
+  - name: Careem
+    careers_url: https://job-boards.greenhouse.io/careem
+    api: https://boards-api.greenhouse.io/v1/boards/careem/jobs
+    notes: "Dubai. Super app (Uber subsidiary). Confirmed on Greenhouse."
+    enabled: true
+
+  - name: Tabby
+    careers_url: https://tabby.ai/careers
+    scan_method: websearch
+    scan_query: '"Tabby" tabby.ai careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Dubai OR Riyadh'
+    notes: "Dubai/Riyadh. BNPL fintech. Series D. Ashby slug broken — switched to websearch."
+    enabled: true
+
+  - name: Tamara
+    careers_url: https://job-boards.greenhouse.io/tamara
+    api: https://boards-api.greenhouse.io/v1/boards/tamara/jobs
+    notes: "Riyadh. BNPL / fintech. Series C. Strategy & Ops."
+    enabled: true
+
+  - name: Lean Technologies
+    careers_url: https://jobs.ashbyhq.com/leantech
+    notes: "Dubai. Open banking infrastructure. Strategy & Ops. Fixed Ashby slug to leantech."
+    enabled: true
+
+  - name: Kitopi
+    careers_url: https://jobs.smartrecruiters.com/Kitopi
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Kitopi "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Dubai OR Remote'
+    notes: "Dubai. Cloud kitchens unicorn. Confirmed on SmartRecruiters (scan.mjs doesn't support SR — websearch fallback)."
+    enabled: true
+
+  - name: Noon
+    careers_url: https://careers.noon.com
+    scan_method: websearch
+    scan_query: 'site:careers.noon.com OR "noon.com" "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps"'
+    notes: "Dubai. E-commerce marketplace. Strategy & Ops."
+    enabled: true
+
+  - name: talabat
+    careers_url: https://careers.talabat.com
+    scan_method: websearch
+    scan_query: '"talabat" careers "Strategy" OR "Operations" OR "Chief of Staff" site:linkedin.com OR site:job-boards.greenhouse.io'
+    notes: "Dubai. Food delivery (Delivery Hero). Strategy & Ops — strong fit."
+    enabled: true
+
+  - name: Floward
+    careers_url: https://www.floward.com/en-kw/careers
+    scan_method: websearch
+    scan_query: '"Floward" careers "Strategy" OR "Operations" OR "Chief of Staff" Dubai OR Kuwait OR Remote'
+    notes: "Kuwait / Dubai. Gifting and flowers marketplace. Ops & Strategy. Ashby slug broken — switched to websearch."
+    enabled: true

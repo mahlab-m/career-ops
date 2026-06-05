@@ -1,8 +1,8 @@
 # Personal data (user fills these)
-cv.md
-data/applications.md
-data/pipeline.md
-data/scan-history.tsv
+# cv.md — committed in private repo
+# data/applications.md — committed in private repo
+# data/pipeline.md — committed in private repo
+# data/scan-history.tsv — committed in private repo (needed for nightly agent dedup)
 data/parser-output/**/*.json
 !data/parser-output/.gitkeep
 !data/parser-output/**/.gitkeep
@@ -24,9 +24,9 @@ writing-samples/*
 !writing-samples/README.md
 
 # User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# config/profile.yml — committed in private repo
+# portals.yml — committed in private repo (required for scan.mjs)
+# modes/_profile.md — committed in private repo (required for scoring)
 .update-dismissed
 .update-lock
 
