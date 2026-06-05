@@ -1,0 +1,723 @@
+# Pipeline — Pending URLs
+
+## Pending
+
+## Processed
+
+- [x] Anthropic | Finance & Strategy, EMEA GTM | Low | 3.4/5 | Consider (brand + comp play) | Notion ✅
+- [x] Aleph Alpha | Chief of Staff to the CRO | Medium | 3.5/5 | Consider | Notion ✅
+- [x] n8n | Customer Org Strategy & Planning Manager | Medium | 3.5/5 | Consider | Notion ✅
+- [x] Lovable | Chief of Staff, CEO | Medium | 3.8/5 | Consider (stretch) | Notion ✅
+- [x] Spotify | Lead Growth Manager UK/IE/NL | Low | 3.2/5 | Monitor | Notion ✅
+- [x] Spotify | Markets Strategy & Operations Manager | High | 4.2/5 | Apply | Notion ✅
+- [x] Qonto | Growth Project Manager | High | 4.0/5 | Apply | Notion ✅
+- [x] Pleo | GTM Operations Manager (Sales Ops) | Medium | 3.9/5 | Consider | Notion ✅
+- [x] SumUp | Chief of Staff | Medium | 3.9/5 | Consider | Notion ✅
+- [x] Mistral AI | Solution Operations Manager, Revenue Growth | Medium | 3.8/5 | Consider | Notion ✅
+- [x] Mistral AI | Solution Operations Manager, People Growth | Medium | 3.8/5 | Consider | Notion ✅
+- [x] Doctolib | Sales Operations Senior Lead | Medium | 3.6/5 | Consider | Notion ✅
+- [x] Pigment | Global Head of Sales Operations | Medium | 3.6/5 | Consider | Notion ✅
+- [x] Helsing | Transformation PMO Lead | Medium | 3.5/5 | Consider | Notion ✅
+- [x] Anthropic | Finance & Strategy, Deal Desk - EMEA | Low | 3.4/5 | Consider (brand play) | Notion ✅
+- [x] ComplyAdvantage | Manager, Revenue Operations Strategy | Low | 3.3/5 | Monitor | Notion ✅
+- [x] Anthropic | Finance & Strategy, Deal Operations - EMEA | Low | 3.2/5 | Monitor | Notion ✅
+- [x] Celonis | Strategy & Operations Manager | Low | 3.2/5 | Pass (NY-based)
+- [x] Spotify | Senior Program Analyst, Revenue Growth | Low | 3.2/5 | Pass (apply to Markets S&O instead)
+- [x] SumUp | Business Operations Manager | Low | 3.2/5 | Monitor | Notion ✅
+- [x] iwoca | Strategy Lead - Acquisition (Germany) | Low | 3.2/5 | Monitor (German language likely required) | Notion ✅
+- [x] Mistral AI | Research Operations Manager | Low | 3.0/5 | Monitor | Notion ✅
+- [x] Doctolib | Partner Operations Lead | Low | 3.0/5 | Monitor | Notion ✅
+- [x] Mistral AI | Product Operations Manager | Medium | 3.6/5 | Consider | Notion ✅
+- [x] Stripe | Finance & Strategy Partner | High | 4.0/5 | Apply | Notion ✅
+- [x] Adyen | Senior Manager, Commercial Strategy - Payment Performance | Medium | 3.8/5 | Consider | Notion ✅
+
+## Skipped (title mismatch / wrong level / location blocker)
+
+- [-] https://wayve.firststage.co/jobs?gh_jid=8487173002 | Wayve | Robotaxi Technical Operations — technical ops
+- [-] https://wayve.firststage.co/jobs?gh_jid=8549413002 | Wayve | Talent Operations Associate — junior HR ops
+- [-] https://wayve.firststage.co/jobs?gh_jid=8546579002 | Wayve | Technical Operations Manager — technical ops
+- [-] https://wayve.firststage.co/jobs?gh_jid=8558692002 | Wayve | Operations Delivery Manager — US-based fleet workforce ops
+- [-] https://wayve.firststage.co/jobs?gh_jid=8563208002 | Wayve | Technical Program Manager, Product Planning — US-based, AV/technical
+- [-] https://helsing.ai/jobs/4837837101?gh_jid=4837837101 | Helsing | Talent Operations Coordinator - 12 month FTC — HR/coordinator
+- [-] https://helsing.ai/jobs/4823241101?gh_jid=4823241101 | Helsing | Operations Manager (Stockholm) — actually a workplace coordinator
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5215052008 | Anthropic | Amazon GTM Partnership, Startups — BD IC, not strategy leadership
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5186199008 | Anthropic | Business Development Representative — BDR, too junior
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5074052008 | Anthropic | Commercial Counsel, GTM — legal
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5205884008 | Anthropic | Commercial Counsel, Networking & Datacenter Operations — legal
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5179769008 | Anthropic | Community Operations & Executive Escalations Manager — CS ops
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5207302008 | Anthropic | Contracts Manager, Research & Operations — legal/procurement
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5218181008 | Anthropic | Data Center Facility Operations Lead — facilities
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5218186008 | Anthropic | Data Center Hardware Operations Lead — technical infra
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5188939008 | Anthropic | Data Center Portfolio Planning & Execution Lead — infra capital
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5194835008 | Anthropic | Finance & Strategy, Compute — infra finance
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5194829008 | Anthropic | Finance & Strategy, Datacenter / Infrastructure Finance — infra finance
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5079133008 | Anthropic | Finance & Strategy, GTM - Korea — Korea-based
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5176442008 | Anthropic | GTM Compensation Partner — HR comp
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5209661008 | Anthropic | Manager, Commercial Counsel, GTM — legal
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/4976328008 | Anthropic | Manager Growth Sales (AI-Native) — sales IC
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5216208008 | Anthropic | Operations Sourcing Manager, Data Center — procurement
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5181852008 | Anthropic | Product Manager, API Growth — PM
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5153924008 | Anthropic | Product Manager, Multi-Cloud Growth - Google — PM
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5194302008 | Anthropic | Program Operations Manager, Human Data — data labeling ops
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5188237008 | Anthropic | Research Operations, Discovery — research ops
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5208278008 | Anthropic | Research Operations, External Artifacts — research ops
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5199633008 | Anthropic | Revenue Strategy & Operations — Seoul, Korea-based
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5016171008 | Anthropic | Revenue Strategy & Operations Lead, Japan — Japan-based
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5178467008 | Anthropic | Senior Treasury Operations — treasury/finance
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5184585008 | Anthropic | Analytics, Finance & Strategy — data engineering (SQL/dbt/Python, SF-based)
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5226694008 | Anthropic | Protective Services Strategy & Operations Lead — corporate security, US-based
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5202462008 | Anthropic | Workforce Planning Lead, People Analytics — HR analytics (SQL/Python/R, SF-based)
+- [-] https://job-boards.eu.greenhouse.io/polyai/jobs/4874048101 | PolyAI | Partner & GTM Enablement Program Manager — US-based, B2B SaaS enablement
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7959774 | Monzo | Chief of Staff, Design — design domain mismatch
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7962905 | Monzo | Finance Operations Senior Analyst — analyst level
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7962678 | Monzo | Head of Credit Strategy Oversight — credit risk
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7963253 | Monzo | People Partner, Operations — HRBP
+- [-] https://job-boards.greenhouse.io/monzo/jobs/6930501 | Monzo | Senior Data Scientist - Marketing and Growth — data science
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7938209 | GoCardless | AML&E Operations Analyst III — compliance ops
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7699286 | GoCardless | Growth Analyst — analyst
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7275704 | GoCardless | Growth Marketing Analyst — marketing analyst
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7899317 | GoCardless | People Operations Manager — HR
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7619146 | GoCardless | Growth Marketing Analyst — marketing analyst (new posting)
+- [-] https://jobs.lever.co/mistral/41262cfd-5a86-4645-b059-1de4ee9b9ccb | Mistral AI | Talent Acquisition - EMEA — TA
+- [-] https://jobs.lever.co/mistral/c7a25da7-87e4-4a14-a50e-ef3222550136 | Mistral AI | Technical Program Manager, Science Operations, Code — technical
+- [-] https://jobs.lever.co/mistral/31f7a68c-15f7-43ec-9900-8feb842b9242 | Mistral AI | Solution Operations Manager - Singapore — Singapore-based
+- [-] https://complyadvantage.com/careers/jobs/8539273002 | ComplyAdvantage | Business Development Representative — BDR
+- [-] https://complyadvantage.com/careers/jobs/8506541002 | ComplyAdvantage | Manager, Marketing Operations — marketing ops
+- [-] https://complyadvantage.com/careers/jobs/8527804002 | ComplyAdvantage | Marketing Operations Specialist — marketing
+- [-] https://complyadvantage.com/careers/jobs/8503927002 | ComplyAdvantage | Technology Operations Analyst — tech ops
+- [-] https://jobs.lever.co/spotify/e1f0f313-5188-455c-af18-8de01dd1a699 | Spotify | Billing Operations Lead — billing/finance ops
+- [-] https://jobs.lever.co/spotify/973b0b71-e8d2-4d7d-9c4b-1c716bd45c8b | Spotify | Business Development Senior Manager, APAC — APAC-based
+- [-] https://jobs.lever.co/spotify/27038bc5-ae38-4c5c-b1f5-447242f6d596 | Spotify | Growth Manager, Japan — Japan-based
+- [-] https://jobs.lever.co/spotify/a16e1738-56f4-489d-8964-3cb249351ca8 | Spotify | Lead, User Growth Optimization — product growth PM
+- [-] https://jobs.lever.co/spotify/7d4e94b7-ca5f-41a0-9222-5d6bb24e4950 | Spotify | Manager, Growth Creative Strategy & Optimization — marketing
+- [-] https://jobs.lever.co/spotify/b6e58287-4355-4f1d-9b56-3add5509b8e8 | Spotify | Principal Product Manager - ML / Subscriptions Growth — PM
+- [-] https://jobs.lever.co/spotify/d30af7c7-67aa-404a-a1a5-b8b3838e08c3 | Spotify | Senior Product Manager - ML / Subscriptions Growth — PM
+- [-] https://jobs.lever.co/spotify/a69512de-6754-411c-a83f-1f944820e559 | Spotify | Senior Product Manager – Partner Growth — PM
+- [-] https://jobs.lever.co/spotify/15b92be4-402a-460b-a773-1d8110dd09d4 | Spotify | Systems Manager - Financial Systems Operations — IT/systems
+- [-] https://jobs.lever.co/spotify/a49ce894-2048-420c-894e-bcb2c6d05083 | Spotify | Technical Operations Lead — technical ops
+- [-] https://jobs.lever.co/spotify/36f9ad26-f827-463a-9737-3c9acf374500 | Spotify | Manager - Monetized Policy Operations, Global Lead — policy/legal ops
+- [-] https://jobs.lever.co/spotify/1f0ccb2c-bf5f-49ee-936d-4a22e8725c2b | Spotify | Senior Program Analyst - GTM Ops — data/analytics engineering
+- [-] https://jobs.lever.co/palantir/8c59a77a-1a57-4a2b-9d03-0b757b719015 | Palantir | Deal Operations Administrator — admin/junior
+- [-] https://jobs.lever.co/palantir/49c32534-fa61-4331-a6e8-2d26bf9a4e64 | Palantir | People Operations Specialist — HR
+- [-] https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63 | Palantir | Production Engineer - Database Operations — engineering
+- [-] https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94 | Palantir | Site Reliability Operations Analyst - Commercial — SRE
+- [-] https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576 | Palantir | Site Reliability Operations Analyst - UK Government — SRE
+- [-] https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a | Palantir | Site Reliability Operations Analyst - US Government — SRE
+- [-] https://n26.com/en-eu/careers/positions/7758692 | N26 | Audit Operations Senior Manager — audit
+- [-] https://n26.com/en-eu/careers/positions/7806657 | N26 | Banking Operations Analyst — junior
+- [-] https://n26.com/en-eu/careers/positions/7941727 | N26 | Operations Manager - Complaints Management (German Market) — complaints ops
+- [-] https://n26.com/en-eu/careers/positions/7941731 | N26 | Operations Manager - Complaints Management (Germany) - Madrid — complaints ops
+- [-] https://traderepublic.com/en-de/about?jobId=7699949003 | Trade Republic | Market Operations Associate — associate level
+- [-] https://traderepublic.com/en-de/about?jobId=7709865003 | Trade Republic | Operations Associate (Localization) — localization ops
+- [-] https://traderepublic.com/en-de/about?jobId=7592587003 | Trade Republic | People Operations Associate — HR
+- [-] https://traderepublic.com/en-de/about?jobId=7719522003 | Trade Republic | Process Operations Associate (AFC) — compliance ops
+- [-] https://traderepublic.com/en-de/about?jobId=7599040003 | Trade Republic | Process Operations Associate - Clearing & Settlement — settlement ops
+- [-] https://traderepublic.com/en-de/about?jobId=7746892003 | Trade Republic | Process Operations Associate - Customer Resolution — CS ops
+- [-] https://traderepublic.com/en-de/about?jobId=7323003003 | Trade Republic | Product Growth Manager — PM
+- [-] https://traderepublic.com/en-de/about?jobId=7735387003 | Trade Republic | Settlement Operations SME — settlement ops
+- [-] https://traderepublic.com/en-de/about?jobId=7548600003 | Trade Republic | Working Student – Corporate IT & Operations — student role
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7719380003 | Celonis | Business Development Manager — BDM/sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7722853003 | Celonis | Client Account Lead - AI-Driven Transformation — sales/CS
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7696087003 | Celonis | Client Engagement Partner - AI-Driven Transformation — sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7714520003 | Celonis | Client Value Partner - AI-Driven Transformation — sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7669258003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation — sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7712529003 | Celonis | Manager, Value Engineering - Public Sector Transformation — value engineering/sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7741514003 | Celonis | Strategy & Operations Manager — NY-based, US relocation required
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7683568003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence — sales
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7544126003 | Celonis | Manager, Value Engineering - Public Sector Transformation — value engineering/sales (Munich)
+- [-] https://job-boards.greenhouse.io/celonis/jobs/7739087003 | Celonis | Strategy & Operations Manager — Raleigh NC, US-only
+- [-] https://job-boards.greenhouse.io/contentful/jobs/7390097 | Contentful | Business Development Representative — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/6137574 | Contentful | Business Development Representative, Commercial - French speaking — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/5853004 | Contentful | Business Development Representative, Enterprise - French speaking — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/5853009 | Contentful | Business Development Representative, Enterprise - German speaking — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/6671440 | Contentful | Business Development Representative, Enterprise - Italian Speaking — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/6696223 | Contentful | Business Development Representative, Enterprise - Spanish speaking — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/5852946 | Contentful | Business Development Representative, Mid Market UKI — BDR
+- [-] https://job-boards.greenhouse.io/contentful/jobs/7752248 | Contentful | Senior Product Operations Manager — B2B SaaS product ops (older posting, superceded)
+- [-] https://sumup.com/careers/positions/8557439002 | SumUp | Head of US Operations — US-based
+- [-] https://sumup.com/careers/positions/8544902002 | SumUp | Sr. Growth Analyst – Marketing & Comms — marketing analyst
+- [-] https://sumup.com/careers/positions/8537240002 | SumUp | Working Student - People Operations — student role
+- [-] https://sumup.com/careers/positions/8566489002 | SumUp | Team Lead AML Operations — compliance/AML ops
+- [-] https://jobs.ashbyhq.com/photoroom/4ffac594-0f94-4bb8-a2fb-95544e31ca78 | Photoroom | Marketing Operations Manager — marketing ops function, comp €60-75K (below target)
+- [-] https://jobs.ashbyhq.com/photoroom/d6462fdd-0eeb-409e-995d-d9e976bed102 | Photoroom | Growth Operations Manager — PLG product analytics, comp €60-75K (below target)
+- [-] https://job-boards.greenhouse.io/contentful/jobs/7776379 | Contentful | Senior Product Operations Manager — product org ops (Jira/Confluence heavy), Dublin relocation, not core archetype
+- [-] https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1 | Lovable | Finance & BizOps, Marketing — finance BP to marketing org, requires 4+ yrs marketing finance (gap)
+- [-] https://jobs.ashbyhq.com/cohere/06d46bfd-1aa3-4778-b5dc-119c1525f237 | Cohere | Senior Manager, People Operations — HR/people ops, wrong function
+- [-] https://jobs.ashbyhq.com/moss/88fdfa31-feec-4f32-85f1-0d2f34433069 | Moss | AI Operations Specialist — AI automation execution role, not strategy
+- [-] https://job-boards.greenhouse.io/catawiki/jobs/7835409 | Catawiki | Commercial Operations Project Manager — lower priority
+- [-] https://job-boards.greenhouse.io/catawiki/jobs/7835396 | Catawiki | Commercial Operations Project Manager — duplicate posting, lower priority
+- [-] https://job-boards.greenhouse.io/catawiki/jobs/7715902 | Catawiki | Shipping Operations Project Manager — logistics ops, lower priority
+- [-] https://jobs.lever.co/qonto/04044157-cf4a-4a73-8452-c40181186941 | Qonto | Growth Ops Engineer — Salesforce — technical/engineering
+- [-] https://jobs.lever.co/qonto/9136056b-0cd7-4009-989a-4ff01f7264f4 | Qonto | Senior Growth Sales Analyst — sales analyst
+- [-] https://jobs.lever.co/qonto/9c5af6c8-fc6b-4021-bc9a-1b6078a91307 | Qonto | Team Lead Sales (Account Growth) — sales lead
+- [-] https://jobs.lever.co/blablacar/18c413ec-44e7-439a-ae18-13e9325a87e2 | BlaBlaCar | Growth Lead - Ukraine — Ukraine-based
+- [-] https://jobs.lever.co/blablacar/1e143dd8-84f4-4e57-9ac3-ad5cd02843b7 | BlaBlaCar | Marketing Growth & Lifecycle Analyst - Brazil — Brazil-based, marketing
+- [-] https://jobs.lever.co/blablacar/86b6c5fb-b365-409e-9fd5-bd5cef4b47f9 | BlaBlaCar | People Operations Specialist - France — HR
+- [-] https://job-boards.greenhouse.io/mirakl/jobs/5977919004 | Mirakl | Enterprise Business Development Representative, Mirakl Ads — BDR
+- [-] https://job-boards.greenhouse.io/mirakl/jobs/6008043004 | Mirakl | Growth Marketing Director — marketing
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7629444003 | Doctolib | Head of Talent Acquisition, Sales & Operations — TA/HR
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7720461003 | Doctolib | Partner Operations Lead - München — duplicate
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7730040003 | Doctolib | Praktikum Go-to-Market Strategy — internship
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7687366003 | Doctolib | Praktikum Sales Strategy & Business Operations — internship
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7614769003 | Doctolib | Stage - Stratégie et Operations — internship
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7569660003 | Doctolib | Werkstudent - Product Strategy & Business Analytics — student role
+- [-] https://job-boards.greenhouse.io/doctolib/jobs/7741369003 | Doctolib | Working Student Operations & Analytics — student role
+- [-] https://jobs.lever.co/pigment/50386f0b-b957-48e4-a8d7-cb1ec47634f0 | Pigment | Business Development Manager — BDM/sales
+- [-] https://jobs.lever.co/pigment/3ad3e4c6-33f2-49ef-8e97-a39abf812113 | Pigment | Business Development Representative — BDR
+- [-] https://jobs.lever.co/pigment/dc39fde7-ba3b-4f78-9697-f90e9c081f74 | Pigment | Business Development Representative (DACH) — BDR
+- [-] https://jobs.lever.co/pigment/3c436918-9e0c-41d5-aa1a-fa6ca62cbfcd | Pigment | EPM Presales Operations - Marketing — presales
+- [-] https://jobs.lever.co/pigment/2461a213-41c1-4dee-8bba-4ee210461dbf | Pigment | EPM Presales Operations - Product Innovation — presales
+- [-] https://jobs.lever.co/pigment/fcf8094a-8356-43c1-b3ef-a58e35feb665 | Pigment | Growth Manager (GTM Engineer) — technical GTM
+- [-] https://jobs.lever.co/pigment/81809282-5684-4ca1-82a8-19b22a08d938 | Pigment | People Operations Specialist — HR
+- [-] https://jobs.lever.co/pigment/b3483219-d576-40a5-8c05-f2dfe93a59f3 | Pigment | RPO - Talent Acquisition Manager GTM — TA
+- [-] https://jobs.lever.co/pigment/19125f5d-b3b2-43f1-bc9f-ca60ff3e0e2d | Pigment | Talent Acquisition Manager GTM - Contract — TA
+- [-] https://jobs.lever.co/pigment/1b87e2f6-31f0-467e-9f90-ab97dfe503f5 | Pigment | Talent Acquisition Manager GTM - Paris — TA
+- [-] https://job-boards.eu.greenhouse.io/tamara/jobs/4862142101 | Tamara | Strategy and Operations Analyst - Builders Program — entry level (up to 2 years exp)
+- [-] https://jobs.ashbyhq.com/synthesia/87fc1f29-e018-4ce7-aa5d-ece47f933061 | Synthesia | Engineering Manager, Growth — engineering management
+- [-] https://jobs.ashbyhq.com/synthesia/eb06b813-b691-45fa-884e-abc06c674390 | Synthesia | Product Designer, Growth (Staff/Principal-level) — design
+- [-] https://jobs.ashbyhq.com/synthesia/474ccf6f-388d-4ab8-a37d-b130585e41c8 | Synthesia | Deal Strategy Analyst - EMEA — analyst level
+- [-] https://jobs.ashbyhq.com/cohere/929b6c8e-a47c-4512-bb17-99fa9581f23e | Cohere | Technical Program Manager, North Delivery & Release Operations — technical
+- [-] https://jobs.ashbyhq.com/cohere/686ef280-eea8-4012-b9e6-9cb23c0c22ab | Cohere | IT Operations Specialist (12 month contract) — IT/systems
+- [-] https://jobs.ashbyhq.com/cohere/d9d2740b-8869-462d-85df-21c1941bc13d | Cohere | Product Manager, Native Experience & Growth — PM
+- [-] https://jobs.ashbyhq.com/cohere/5585a326-9ec0-488d-b395-45e6f9eee596 | Cohere | Security Operations Manager — security
+- [-] https://jobs.ashbyhq.com/cohere/9dddbce5-5cf8-41e9-b016-d801fb3ce5d8 | Cohere | Senior Security Operations Engineer — security
+- [-] https://jobs.ashbyhq.com/cohere/d277180e-6528-4745-99e8-328c17530412 | Cohere | Security Operations Engineer, EMEA — security
+- [-] https://jobs.ashbyhq.com/cohere/8a5be85b-4185-46ae-bccb-a7fb20f0b84e | Cohere | Senior Financial Analyst - Workforce Planning & Forecasting — financial analyst (Toronto)
+- [-] https://jobs.ashbyhq.com/cohere/5adf044a-a601-467a-bb92-807850b4f7ec | Cohere | Senior Manager of Financial Planning & Analysis — FP&A (SF-based)
+- [-] https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0 | Cohere | Chief of Staff — New York, US-only
+- [-] https://jobs.ashbyhq.com/cohere/64c12340-0f1d-4320-9b5a-9bcb44150a1d | Cohere | Senior Manager, Revenue Operations — Toronto, not target location
+- [-] https://job-boards.greenhouse.io/gocardless/jobs/7619146 | GoCardless | Growth Marketing Analyst — marketing analyst
+- [-] https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af | Photoroom | Business Development Representative — BDR
+- [-] https://jobs.ashbyhq.com/photoroom/321aa19e-bd58-4ac2-bd65-da23aea6299b | Photoroom | Senior Growth Marketing — marketing
+- [-] https://jobs.ashbyhq.com/photoroom/b75841ab-f3de-468c-893a-256d58b00c60 | Photoroom | Senior Product Manager, SMB E-commerce Growth — PM
+- [-] https://jobs.ashbyhq.com/leapsome/5a084ab8-c6ed-4eaf-9854-85fc0a45d504 | Leapsome | Head of Growth Marketing and Lifecycle (NYC or Berlin) — marketing, NYC primary
+- [-] https://jobs.ashbyhq.com/leapsome/19760a50-c111-4dae-8fa3-ab15a4ac4290 | Leapsome | Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin — marketing (duplicate)
+- [-] https://jobs.ashbyhq.com/DeepL/d76e8fbf-19f4-495b-9e2a-55b7a7ef3fa6 | DeepL | Product GTM Specialist - DeepL Voice — product/marketing (Tokyo)
+- [-] https://jobs.ashbyhq.com/moss/a49e7ac5-da65-420b-93b1-cf964bf48d44 | Moss | Business Development Representative (f/m/d) — BDR
+- [-] https://jobs.ashbyhq.com/mollie/ecb45896-a587-4f62-9edc-16ec72bfe9f5 | Mollie | Business Development Manager - Romania — BDM/sales
+- [-] https://jobs.ashbyhq.com/mollie/06d9431d-2dfb-4bc2-ab41-ef8c88ab9e59 | Mollie | Business Development Manager - full-cycle-sales - DACH (m/w/d) — BDM/sales
+- [-] https://jobs.ashbyhq.com/mollie/ec1b283d-f6ad-4fdf-b99b-c1dae9a47cd6 | Mollie | Senior Business Development Manager (full-cycle sales) - DACH (m/f/d) — BDM/sales
+- [-] https://jobs.ashbyhq.com/mollie/b5351d52-90e4-4919-9e96-cb4e611650c2 | Mollie | Business Development Manager — BDM/sales
+- [-] https://jobs.ashbyhq.com/mollie/ea7d486a-2166-47b7-aa6c-63c8360129d1 | Mollie | Security Operations Engineer I — security
+- [-] https://jobs.ashbyhq.com/mollie/fa9c993c-10a7-4780-bb10-00b565832b3f | Mollie | Sr. Business Development Representative - DACH (Full Sales Cycle) (w/m/d) — BDR
+- [-] https://jobs.ashbyhq.com/mollie/6275c2f2-0f05-4f9a-8ce0-f84bc5279fba | Mollie | Business Development Manager - Czech Republic — BDM/sales
+- [-] https://jobs.ashbyhq.com/n8n/6a370ff8-e069-48ed-bffa-5716a3dbd9d5 | n8n | Sr Growth Engineer (Fullstack TS/Vue/NodeJS) — engineering
+- [-] https://jobs.ashbyhq.com/n8n/a259b31d-3df5-4bc0-9feb-865e85016fba | n8n | GTM (German-speaking) Talent Pool — not a specific role
+- [-] https://jobs.ashbyhq.com/n8n/e77c1fa5-1232-49a3-9db3-b291cd79006b | n8n | Sales Strategy & Operations Manager – US (East Coast-based) — US-only
+- [-] https://jobs.ashbyhq.com/lovable/c8ae0225-d765-447e-8436-0a9a24345a28 | Lovable | Manager, Strategic Partnerships and Business Development — San Francisco, US
+- [-] https://jobs.ashbyhq.com/lovable/30887380-e180-4e2d-a239-00995ca84fcf | Lovable | Finance & BizOps, Strategic Partnerships — San Francisco, US
+- [-] https://jobs.ashbyhq.com/lovable/1030f994-ee6b-4fca-b708-159582c6bafa | Lovable | Chief of Staff, Marketing — San Francisco, US
+- [-] https://jobs.ashbyhq.com/lovable/7a0c1d5a-fd24-4529-9e39-7887e3641dbe | Lovable | Influencer & Creator Program Operations — wrong role type
+- [-] https://jobs.ashbyhq.com/lovable/6e0dd94f-a852-4ce9-8fe8-c6a0ca800901 | Lovable | Community Growth Manager, Ambassador & Partnerships — San Francisco, US
+- [-] https://jobs.ashbyhq.com/lovable/b71bc543-b2c9-49a8-acd1-df59f6c8abfb | Lovable | Community Growth Manager, Campus — San Francisco, US
+- [-] https://jobs.lever.co/pigment/b1f69af7-afab-4980-bb26-0df9dce1b4b8 | Pigment | Business Development Representative — BDR
+- [-] https://jobs.lever.co/palantir/8de3d5d0-8c0a-40ee-9f57-a75165c98689 | Palantir | Deal Operations Administrator — admin/junior
+- [-] https://jobs.lever.co/palantir/4f29fdd0-02ec-4ca7-8dff-eadbc6c68fb4 | Palantir | People Operations Specialist — HR
+- [-] https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2 | Palantir | Production Engineer - Database Operations — engineering
+- [-] https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f | Palantir | Site Reliability Operations Analyst - US Government — SRE
+- [-] https://jobs.ashbyhq.com/marshmallow/9986fafd-530d-481a-8bc0-c31130b6ede6 | Marshmallow | Business Development Manager — BDM/sales
+- [-] https://jobs.ashbyhq.com/marshmallow/6c189704-38a9-4702-acf3-637df0cef656 | Marshmallow | Senior CRM Operations Manager — CRM/marketing ops, not core archetype
+- [-] https://jobs.ashbyhq.com/multiverse/691e54ce-caf2-4648-bb56-48bbd946c5a4 | Multiverse | People Operations Architect — HR
+- [-] https://jobs.ashbyhq.com/multiverse/c95fee9e-3c2d-4c70-b621-3953032e338a | Multiverse | Product Lead, Growth — PM
+- [-] https://jobs.ashbyhq.com/multiverse/81dd362b-56e6-4f29-8e46-d779fee3bec3 | Multiverse | Operations Manager, Delivery (12-Month FTC) — delivery ops, contract
+- [-] https://jobs.ashbyhq.com/multiverse/94bc04dd-a52e-4b8e-96bb-81f5186079e5 | Multiverse | Finance Operations Manager — finance function
+- [-] https://jobs.ashbyhq.com/paddle/6b68f508-9dc4-4d4e-aea5-d52792d757a6 | Paddle | Senior Growth Analyst — analyst level
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/49e8cbe1-f423-442b-8da5-1cba861dc0d6 | iwoca | Senior Business Development Executive — BDM/sales
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/edde18c7-b499-4787-9fd0-ab981461e540 | iwoca | Commercial Strategy Analyst — analyst level
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/c9c38143-b1e0-41eb-8347-ea2c189bafd4 | iwoca | Senior Strategy Analyst - iwocaPay — analyst level
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/4b71e9df-0bc0-48bd-ae3d-dc444857d04b | iwoca | Product Strategy Analyst - DE Lending — analyst level
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/fc7bbb44-ebb3-4b3b-a1bf-29a12c9193f6 | iwoca | Strategy Lead - Acquisition (German Speaking) — German language required, no match
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/b713dc21-3a70-4085-9ccf-4fa8452f195e | iwoca | Business Development Manager — BDM/sales
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/eae808f9-557a-4e48-a8e1-47a20c71bf94 | iwoca | Fraud Strategy Lead - iwocaPay — fraud/risk, not strategy archetype
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/d771906c-66d8-49b9-9c64-73d6cd7829a5 | iwoca | Senior Business Development Manager — BDM/sales
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/e597f2e2-b39b-40e1-9f81-c50502a96bdb | iwoca | Commercial Strategy Analyst (duplicate) — analyst level
+- [-] https://jobs.ashbyhq.com/mollie/b2d8a5aa-0b85-488b-a400-44f84aa864e7 | Mollie | Business Development Manager — BDM/sales
+- [-] https://jobs.ashbyhq.com/mollie/bebe1d80-9118-467d-b805-af3ec4e8ef35 | Mollie | Business Development Manager - Romania — BDM/sales
+- [-] https://jobs.ashbyhq.com/alan/9ac115f4-dc15-41e5-92b0-a2f39d68dbdf | Alan | Growth Marketer — marketing
+- [-] https://jobs.ashbyhq.com/alan/8ec3768e-13cf-4e92-ba14-5d2a9484227c | Alan | IT Operations Specialist — IT
+- [-] https://jobs.ashbyhq.com/alan/3d25542f-258b-4ff9-bf1a-4d38d2326531 | Alan | Insurance Risk & Strategy — actuarial/Solvency 2 risk modeling, not strategy archetype
+- [-] https://jobs.ashbyhq.com/alan/8637aff5-a425-45e3-8e93-5d27a3a282d7 | Alan | Operations Coordinator - Belgian Market — coordinator level
+- [-] https://jobs.ashbyhq.com/alan/9f329375-e5bf-45b5-9d84-1bdb42390ff8 | Alan | AI Growth Associate (SEO/GEO) — SEO/content
+- [-] https://jobs.ashbyhq.com/alan/a276fc03-b1cc-4638-b980-58a2e2801ba0 | Alan | Outbound Growth Ops — outbound sales
+- [-] https://jobs.ashbyhq.com/alan/0264fb87-3876-4daf-9b9c-1b5786a0cf0f | Alan | Operations Coordinator — coordinator level
+- [-] https://jobs.ashbyhq.com/alan/eeefb0c6-5734-43bd-ba20-5fb6d223358e | Alan | Business Development Representative Enterprise — BDR
+- [-] https://jobs.ashbyhq.com/alan/7059bd81-4363-41fd-b7e0-601917195421 | Alan | Product Lead - Growth — PM
+- [-] https://jobs.ashbyhq.com/alan/47d0d2e8-d789-475a-bf8c-6b5ab48625df | Alan | Operations Coordinator - Canadian Market — coordinator + Canada
+- [-] https://jobs.ashbyhq.com/alan/5351a43d-64a8-410d-8434-fa9fca0f80fc | Alan | People Growth ops — HR
+- [-] https://jobs.ashbyhq.com/alan/654c67b6-b6ee-42c8-933a-05d8d8ecd902 | Alan | Product Engineer Lead - Growth — engineering
+- [-] https://jobs.ashbyhq.com/pleo/94d49cfe-0eb0-4991-b195-2a37d2e01e1b | Pleo | GTM Enablement Manager — L&D/enablement, not ops strategy
+- [-] https://jobs.ashbyhq.com/leantech/768ebf46-9115-4524-990e-dd73a28c9076 | Lean Technologies | People Operations Associate — HR, junior
+- [-] https://jobs.lever.co/palantir/98d4f6b7-eca8-46e4-8253-3e6fcb8b4f1b | Palantir | People Operations Specialist — HR
+- [-] https://jobs.lever.co/pigment/cacf27e2-d0ca-4a09-8489-1fe000568eee | Pigment | Business Development Representative — BDR
+- [-] https://wayve.firststage.co/jobs?gh_jid=8571234002 | Wayve | Fleet Operations Coordinator — coordinator level
+- [-] https://wayve.firststage.co/jobs?gh_jid=8572345002 | Wayve | Fleet Operations Delivery Manager EMEA FTC — FTC + fleet ops
+- [-] https://job-boards.greenhouse.io/anthropic/jobs/5230000008 | Anthropic | Data Scientist, GTM — technical, NY-based
+- [-] https://jobs.ashbyhq.com/cohere/revops-analyst | Cohere | RevOps Analyst (Analytics) — analyst level, NY
+- [-] https://jobs.ashbyhq.com/cohere/revops-architect | Cohere | RevOps GTM Systems Architect — technical architect, NY
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7962857 | Monzo | Chief of Staff — already seen/old posting
+- [-] https://job-boards.greenhouse.io/monzo/jobs/7963000 | Monzo | Card Acquiring Business Banking Customer Operations Advisor — CS/advisor
+- [-] https://sumup.com/careers/positions/8570000002 | SumUp | Compliance Operations Analyst with Italian — compliance, Sofia
+- [-] https://jobs.ashbyhq.com/iwoca.co.uk/biz-dev-longtail | iwoca | Business Development Manager - Longtail Broker ×2 — BDM/sales
+- [-] https://jobs.ashbyhq.com/alan/outbound-growth | Alan | Outbound Growth Ops — outbound sales
+- [-] https://jobs.ashbyhq.com/pleo/fraud-analyst | Pleo | Fraud Operations Analyst — fraud analyst, Lisbon
+- [-] https://jobs.lever.co/qonto/265b07c6-4844-4417-98fa-bc2e10d28c81 | Qonto | Head of Business Development Central Europe — too senior (Head level, team-building scope)
+
+
+## Pendientes
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8571408002 | Wayve | Fleet Operations Coordinator
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8571426002 | Wayve | Fleet Operations Delivery Manager – EMEA- FTC 12 Months 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196852008 | Anthropic | Data Scientist, GTM
+- [ ] https://jobs.ashbyhq.com/cohere/cd3eacfe-1169-4df0-8164-93a857d5ddf0 | Cohere | RevOps Analyst (Analytics)
+- [ ] https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f | Cohere | RevOps GTM Systems Architect
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7908745 | Monzo | Card Acquiring, Business Banking Customer Operations Advisor 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7962857 | Monzo | Chief of Staff
+- [ ] https://sumup.com/careers/positions/8526216002?gh_jid=8526216002 | SumUp | Compliance Operations Analyst with Italian
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/c8499001-eb3c-41d8-b480-2df84f59d47e | iwoca | Business Development Manager - Longtail Broker
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/f8ffe0f8-d8e2-46db-83c1-1925149d4ce6 | iwoca | Business Development Manager - Longtail Broker (m/w/d)
+- [ ] https://jobs.ashbyhq.com/alan/43ecbc15-6e97-41ab-b4f5-c030c7606c00 | Alan | Outbound Growth Ops
+- [ ] https://jobs.lever.co/mistral/ef656934-7246-4d93-b341-c907c348c444 | Mistral AI | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/pleo/844938a8-7b64-4d0d-9309-581aa4ede496 | Pleo | Fraud Operations Analyst
+- [ ] https://jobs.lever.co/qonto/265b07c6-4844-4417-98fa-bc2e10d28c81 | Qonto | Head of Business Development Central Europe (Germany, Austria, Netherlands)
+
+
+- [ ] https://jobs.ashbyhq.com/leapsome/1cae3466-d9d0-469b-aa51-7c1ee20ff82f | Leapsome | GTM Engineer (d/f/m)
+- [ ] https://jobs.ashbyhq.com/pleo/7dc15ffc-3e5c-4028-a846-0534bf41a5e0 | Pleo | Fraud Operations Analyst
+
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7786257 | Google DeepMind | Market Insights and Strategy Partner (12 month FTC)
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7728122 | Google DeepMind | Staff AI Product Designer, Growth & Discovery, GeminiApp
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7658008 | Google DeepMind | Talent Management Operations Partner (FTC - 12 Month Contract) - London
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7535915 | Google DeepMind | Tech Strategy Product Manager, Google DeepMind
+- [ ] https://stripe.com/jobs/search?gh_jid=7926728 | Stripe | Accounts Receivable Analyst - Service Strategy Enablement
+- [ ] https://stripe.com/jobs/search?gh_jid=7947074 | Stripe | AI Specialist, Treasury Finance Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7675097 | Stripe | AV Builds and Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7868790 | Stripe | Brand Partnerships & Strategy Lead
+- [ ] https://stripe.com/jobs/search?gh_jid=7179634 | Stripe | Bridge - Operations Associate 
+- [ ] https://stripe.com/jobs/search?gh_jid=7524334 | Stripe | Business Development Manager, Agentic Commerce
+- [ ] https://stripe.com/jobs/search?gh_jid=7521020 | Stripe | Business Development Manager, Training & Certification
+- [ ] https://stripe.com/jobs/search?gh_jid=7584016 | Stripe | Campaign Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7733301 | Stripe | Consumer Operations Associate
+- [ ] https://stripe.com/jobs/search?gh_jid=7941890 | Stripe | Contracting Operations Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7722938 | Stripe | Credit Operations Analyst, Risk Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7456167 | Stripe | Credit Risk Operations Associate (CDMX)
+- [ ] https://stripe.com/jobs/search?gh_jid=7863824 | Stripe | Credit Risk Strategy Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7688358 | Stripe | Engineering Manager, Data Transformation
+- [ ] https://stripe.com/jobs/search?gh_jid=7773553 | Stripe | Engineering Manager - Operations Infrastructure  
+- [ ] https://stripe.com/jobs/search?gh_jid=7463755 | Stripe | Finance and Strategy Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=7576878 | Stripe | Finance & Strategy Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=7597622 | Stripe | Finance & Strategy - Finance Analytics Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=7902126 | Stripe | Finance & Strategy Lead, Payments Product
+- [ ] https://stripe.com/jobs/search?gh_jid=7812163 | Stripe | Finance & Strategy Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=7868815 | Stripe | Financial Crimes Operations Manager, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7651078 | Stripe | Fraud Operations Associate SDC
+- [ ] https://stripe.com/jobs/search?gh_jid=7608396 | Stripe | Fraud Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7685460 | Stripe | Fraud Operations Team Lead
+- [ ] https://stripe.com/jobs/search?gh_jid=7895020 | Stripe | Global AML Lead, Risk Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7739361 | Stripe | Head of Central GTM Finance & Strategy 
+- [ ] https://stripe.com/jobs/search?gh_jid=7736640 | Stripe | Head of Connect & Crypto, Finance & Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7813129 | Stripe | Head of Sales - Large Enterprise, Growth
+- [ ] https://stripe.com/jobs/search?gh_jid=7520686 | Stripe | Implementation Specialist, GTM Accelerate
+- [ ] https://stripe.com/jobs/search?gh_jid=7862772 | Stripe | KYB/KYC Operations Associate, Bridge (CDMX)
+- [ ] https://stripe.com/jobs/search?gh_jid=7943909 | Stripe | Manager, Partner Risk Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7253148 | Stripe | Marketing Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7616135 | Stripe | Marketing Operations Program Manager, Sold Funnel
+- [ ] https://stripe.com/jobs/search?gh_jid=7795191 | Stripe | Monetization Operations Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=7923895 | Stripe | Operations Associate 
+- [ ] https://stripe.com/jobs/search?gh_jid=5902523 | Stripe | Operations Associate, Financial Crimes (AML Investigations)
+- [ ] https://stripe.com/jobs/search?gh_jid=7202953 | Stripe | Operations Associate, Financial Crimes EDD/PEP
+- [ ] https://stripe.com/jobs/search?gh_jid=7393071 | Stripe | Operations Associate, GTM Onboarding Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7544547 | Stripe | Operations Associate, New Grad (Mexico)
+- [ ] https://stripe.com/jobs/search?gh_jid=7813141 | Stripe | Operations Associate - Product Support Operations (CDMX)
+- [ ] https://stripe.com/jobs/search?gh_jid=6891805 | Stripe | Operations Associate, Sanctions
+- [ ] https://stripe.com/jobs/search?gh_jid=7576867 | Stripe | Operations Manager, Enhanced Due Diligence
+- [ ] https://stripe.com/jobs/search?gh_jid=7815794 | Stripe | Operations Program Manager, Capital Collections
+- [ ] https://stripe.com/jobs/search?gh_jid=7812209 | Stripe | Operations Program Manager, Managed Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7858723 | Stripe | Policy Development & Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7809139 | Stripe | Product Manager, Growth AI Outreach Motion 
+- [ ] https://stripe.com/jobs/search?gh_jid=6814190 | Stripe | Product Support Operations Associate, Weekend Shift 
+- [ ] https://stripe.com/jobs/search?gh_jid=7390485 | Stripe | Product Support Operations, Team Lead
+- [ ] https://stripe.com/jobs/search?gh_jid=7858819 | Stripe | Program Manager, Business Practices - Deal Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7656504 | Stripe | Program Manager, GTM Planning
+- [ ] https://stripe.com/jobs/search?gh_jid=7915142 | Stripe | Program Manager, GTM Strategic Programs
+- [ ] https://stripe.com/jobs/search?gh_jid=7089901 | Stripe | Program Manager, People Operations Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7767151 | Stripe | Reserve Operations Deputy
+- [ ] https://stripe.com/jobs/search?gh_jid=7964759 | Stripe | Risk Operations Analyst - SSO
+- [ ] https://stripe.com/jobs/search?gh_jid=7664549 | Stripe | Risk Operations Associate (CDMX) - User Policy Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7815282 | Stripe | Risk Operations Associate, Verifications (CDMX)
+- [ ] https://stripe.com/jobs/search?gh_jid=7594866 | Stripe | Risk Strategist, User Risk Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7790430 | Stripe | Sales Strategy & Operations, Sales Business Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=7325566 | Stripe | SDC Operations Manager, Financial Crimes (AML)
+- [ ] https://stripe.com/jobs/search?gh_jid=7457268 | Stripe | Senior Integration Reliability Engineer, Technical Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=5956528 | Stripe | Strategic Business Performance, Central Strategy & Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7397878 | Stripe | Strategy & Operations Analyst, Customer Success
+- [ ] https://stripe.com/jobs/search?gh_jid=7290256 | Stripe | Team Lead, Risk Operations (PRO)
+- [ ] https://stripe.com/jobs/search?gh_jid=7812235 | Stripe | Tech-Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7718947 | Stripe | Tech Operations Associate, New Grad (Mexico)
+- [ ] https://stripe.com/jobs/search?gh_jid=7645711 | Stripe | Treasury Operations Specialist 
+- [ ] https://www.bird.co/careers?gh_jid=7753182003 | MessageBird | City Operations Manager -  (Michigan)
+- [ ] https://miro.com/careers/vacancy/8488105002?gh_jid=8488105002 | Miro | Business Development Representative
+- [ ] https://miro.com/careers/vacancy/8537822002?gh_jid=8537822002 | Miro | LATAM Business Development Representative (Spanish Speaking)
+- [ ] https://miro.com/careers/vacancy/8440192002?gh_jid=8440192002 | Miro | People Operations Lead
+- [ ] https://miro.com/careers/vacancy/8426830002?gh_jid=8426830002 | Miro | Senior Product Designer - Growth, Monetisation
+- [ ] https://miro.com/careers/vacancy/8444297002?gh_jid=8444297002 | Miro | US People Operations Team Lead
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7912149 | Adyen | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7634041 | Adyen | FinCrime Operations Team Lead
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7699069 | Adyen | Head of Strategy & Business Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7842686 | Adyen | Manager, Enterprise Business Development
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7414468 | Adyen | Payment Risk Operations Lead
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7772884 | Adyen | Project Operations Manager
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7831998 | Adyen | Senior Manager, Commercial Strategy - Payment Performance
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7621704 | Adyen | Team Lead Business Development - Central & Northern Europe
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7960790 | Adyen | Team Lead, Project Operations Management
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7918404 | Adyen | Team Lead, Project Operations Management 
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7743322 | Adyen | Warehouse Strategy Manager
+- [ ] https://jobs.lever.co/farfetch/fc15aea1-0c3d-4418-baaf-f8c164fcd1be | Farfetch | Delivery Operations Analyst
+- [ ] https://jobs.lever.co/farfetch/0fd626f0-dd70-4597-97fa-7c1f778d2b6d | Farfetch | Finance Operations Specialist (AP & AR)
+- [ ] https://jobs.lever.co/farfetch/6d0a45ec-cdb5-40ed-ac0b-24650df2b28b | Farfetch | Head of Business Development
+- [ ] https://jobs.lever.co/farfetch/f4ac67cd-6dfb-4b66-a43e-401d8fe417d1 | Farfetch | Operations Brand Specialist
+- [ ] https://jobs.lever.co/farfetch/330bfe8e-44d8-4a88-8b43-1e328d304ca4 | Farfetch | Partner Operations Manager
+- [ ] https://jobs.lever.co/farfetch/ef09f575-0292-4a9a-9ac2-8777e8ff8d16 | Farfetch | Senior Manager of Consignment Operations
+- [ ] https://jobs.lever.co/farfetch/80af1d2f-6c6c-467c-97bc-1b4e5bc65c6d | Farfetch | Senior Project Manager – Supply Chain & Operations
+- [ ] https://jobs.lever.co/contentsquare/2d6bf655-b33c-45c4-80c1-b8c13c4e8fae | Contentsquare | Customer Success Operations & Strategy
+- [ ] https://jobs.lever.co/contentsquare/0dfccd4f-ccbf-4571-852a-4df407ee60f6 | Contentsquare | Senior Revenue Operations Specialist
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7717412 | Stripe | Finance & Strategy Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=7805386 | Stripe | Marketing Operations Manager
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7776362 | Adyen | Project Operations Manager
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7731858 | Adyen | Senior Manager, Commercial Strategy - Payment Performance
+- [ ] https://miro.com/careers/vacancy/8553078002?gh_jid=8553078002 | Miro | Business Development Representative
+- [ ] https://jobs.lever.co/contentsquare/aeaca87b-8114-4e24-9a79-979f5deca6b4 | Contentsquare | Customer Success Operations & Strategy
+
+- [ ] https://jobs.ashbyhq.com/relay/7e68de8a-ae28-469a-a179-cce13f23de48 | Relay Technologies | Live Operations Agent - Bulgaria Remote
+- [ ] https://jobs.ashbyhq.com/relay/a6293154-1b69-4cec-92d7-806eac6a7dd2 | Relay Technologies | Commercial Strategy and Operations Manager
+- [ ] https://jobs.ashbyhq.com/relay/94b4cf10-9dce-45b8-948a-651e308e8656 | Relay Technologies | Chief of Staff Associate
+- [ ] https://jobs.ashbyhq.com/relay/a0bba3b4-b354-4bbe-aee7-89b9e0f586d2 | Relay Technologies | Chief of Staff to Ops and Engineering
+- [ ] https://jobs.ashbyhq.com/relay/d780b45e-4299-49f2-9074-fd323d41b095 | Relay Technologies | Operations and Strategy Manager
+- [ ] https://jobs.ashbyhq.com/relay/fbfecfe4-f549-4b0b-a260-c5db39940d3c | Relay Technologies | Operations Manager - London Sort Centre
+- [ ] https://jobs.ashbyhq.com/relay/ae07b5f8-a576-4d3e-ae7a-90e586400471 | Relay Technologies | Operations Manager - Nottingham Sort Centre
+- [ ] https://jobs.ashbyhq.com/relay/0a3f935b-fbec-4ac5-aaf1-23835874186d | Relay Technologies | Operations Manager - Birmingham Sort Centre
+- [ ] https://jobs.ashbyhq.com/relay/4d903322-f9fc-4e41-9430-9fe672c0f401 | Relay Technologies | Head of Finance AI Transformation
+- [ ] https://jobs.ashbyhq.com/relay/6ce7fdeb-df6a-4eaa-b7f8-d6beb1dd3a4d | Relay Technologies | Senior Operations Associate - Network
+- [ ] https://jobs.ashbyhq.com/relay/1b97b5a7-aac3-4209-b326-726fced40a8e | Relay Technologies | People Operations Associate | 12-month FTC
+- [ ] https://jobs.ashbyhq.com/apron/acec07a6-93d9-41ca-8884-cdc218c6df6e | Apron | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/apron/e24e3948-22aa-42b6-9d0a-75681e85a662 | Apron | Business Development Representative
+- [ ] https://www.dojo.careers/jobs/4761482101/?gh_jid=4761482101 | Dojo | Business Development Representative (Mid-Market & Enterprise)
+- [ ] https://www.dojo.careers/jobs/4846579101/?gh_jid=4846579101 | Dojo | Finance & Strategy Analyst - GTM
+- [ ] https://www.dojo.careers/jobs/4846581101/?gh_jid=4846581101 | Dojo | Senior Finance and Strategy Analyst - Corporate
+- [ ] https://www.dojo.careers/jobs/4839792101/?gh_jid=4839792101 | Dojo | Senior Lead, Revenue Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7598887003 | Tide | Business Development Executive
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7662397003 | Tide | Business Development Executive (Insurance Sales)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7680530003 | Tide | Business Development Supervisor
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7667361003 | Tide | Business Development Team Lead
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6639886003 | Tide | Inside Sales Team Lead (Fintech / UK SME Growth)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7723437003 | Tide | IT Workplace Operations Engineer
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7485306003 | Tide | Lead Product Operations Manager
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7703860003 | Tide | Operations Manager
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7655275003 | Tide | Operations Manager KYC 
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7515548003 | Tide |  Sales Team Lead (Fintech / UK SME Growth)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7718232003 | Tide | Senior Business Development Representative (Partner Credit Services - Funding Options)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7713112003 | Tide | Senior IT Operations Engineer
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7594400003 | Tide | Senior Operations Analyst
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7652154003 | Tide | Treasury Operations Manager
+- [ ] https://jobs.lever.co/zopa/9fa4f450-f54b-4323-ab40-fe507b6db10e | Zopa | Head of Fraud Operations
+- [ ] https://jobs.lever.co/zopa/981c77d3-a77d-4d95-97ec-a18ab1ab510b | Zopa | Head of Valuations, Credit Strategy
+- [ ] https://jobs.lever.co/zopa/f27694a9-9aed-43a5-8aa5-d0effa612d33 | Zopa | Senior Credit Strategy Analyst
+- [ ] https://jobs.lever.co/zopa/12d25cc0-d57b-4bb9-b213-2ffb71782f0c | Zopa | Technical Product Manager - Membership & Growth
+- [ ] https://jobs.lever.co/qonto/73b520ea-cca1-4b29-a9af-ddce38780c90 | Qonto | Partnerships Growth Ops
+- [ ] https://jobs.lever.co/360learning/8215a83b-9a9e-458d-a8b6-9750fce8eb0e | 360Learning | Business Development Representative
+- [ ] https://jobs.lever.co/360learning/9088bdca-e6a2-499e-8848-86a0f7094418 | 360Learning | Business Development Representative DACH
+- [ ] https://jobs.lever.co/360learning/26eeb262-5d5b-40d1-acba-12bbf6bfc0af | 360Learning | Mid-Market Business Development Representative (BDR)
+- [ ] https://jobs.lever.co/360learning/826ddc7c-7fc2-4506-a83c-aeb1fedcdc5a | 360Learning | Strategic Business Development Lead
+- [ ] https://jobs.lever.co/sonarsource/36542433-0822-4462-b66c-b99d4125a369 | SonarSource | Engineering Manager - Cloud Platform & Operations (f/m/d)
+- [ ] https://jobs.lever.co/sonarsource/b6dd4c51-2a82-4f8f-a13d-cb6a62eb32ba | SonarSource | Manager, Channel Operations
+
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7741360003 | Tide | Business Development Supervisor
+- [ ] https://jobs.lever.co/360learning/be41ff7e-6413-45f0-92a3-00e8356dee85 | 360Learning | Business Development Representative
+- [ ] https://jobs.lever.co/360learning/cde72d51-cabb-4cad-8c4e-aeacf4051b29 | 360Learning | Business Development Representative DACH
+- [ ] https://jobs.lever.co/pennylane/722f6bf7-8933-49d3-bcd4-3752803438a2 | Pennylane | Sales Strategy & Operations Analyst
+- [ ] https://jobs.lever.co/pennylane/2d8c622e-5fa3-4f4f-b1c9-16f19a1a1867 | Pennylane | Strategy & Operations Analyst - Accounting Firms
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03 | ElevenLabs | Full-Stack Growth Engineer 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/33e129a4-b818-4563-932c-719ce49d138a | ElevenLabs | Finance & Strategy
+- [ ] https://jobs.ashbyhq.com/elevenlabs/19d9a7a0-10d9-41d8-b515-a61f1d85f186 | ElevenLabs | Growth Generalist
+- [ ] https://jobs.ashbyhq.com/elevenlabs/78f45556-04cc-4f08-abb2-18e639ed9343 | ElevenLabs | B2B Growth Marketing - Agents
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4d12e97f-e637-49f1-a39c-7f32d6d364bb | ElevenLabs | Data Operations 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/eee2abfb-bd2f-410d-a339-3923e9c95043 | ElevenLabs | GTM Enablement - Expansion
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4bafa4ea-5271-43af-903e-2dfca0123753 | ElevenLabs | B2B Marketing - UKI Growth Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/aec0a22c-243c-4f5a-a90a-51eb12c91f71 | ElevenLabs | B2B Marketing Mandarin Growth Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1e9fc21e-e452-454f-b415-40eee9172d81 | ElevenLabs | B2B Marketing - Spanish Latam Growth Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/55715739-fd15-47e3-a2be-2a6acb6d837a | ElevenLabs | Executive Assistant to Growth Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b9842f34-dba2-4a62-9f0c-e30118dcbb7e | ElevenLabs | Workplace Operations - London
+- [ ] https://jobs.ashbyhq.com/elevenlabs/02c054a0-ef9d-4f38-b44b-ad943955aab6 | ElevenLabs | Creator Community Growth
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3b517d94-7ecc-41ba-b49f-71c0671b27f7 | ElevenLabs | Impact Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/elevenlabs/09d54604-b5eb-498e-9868-e52b25967a66 | ElevenLabs | Mobile Growth Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/da8e86bb-f9a7-4d6c-8699-e2e11779915e | ElevenLabs | Talent Operations Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/abc4a773-7529-497d-90e0-ff60dbf7b14e | ElevenLabs | Talent Operations
+- [ ] https://jobs.ashbyhq.com/elevenlabs/65f83bd7-70da-4a31-a364-28fd0f361ea9 | ElevenLabs | Lead Generation Strategy and Operations
+- [ ] https://jobs.ashbyhq.com/elevenlabs/aec0af09-38e8-4fa4-8a93-f720a90c915e | ElevenLabs | GTM Chief of Staff
+- [ ] https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44 | Harvey | Senior Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/harvey/5f6f2bda-d222-4adf-b09c-13e5f2d78e2f | Harvey | IT Operations Analyst
+- [ ] https://jobs.ashbyhq.com/harvey/bb28fa88-ec30-4865-b24d-3e7f635feda4 | Harvey | Technical User Operations Specialist
+- [ ] https://jobs.ashbyhq.com/harvey/26954747-1019-405f-a6b7-ff454517924f | Harvey | GTM Technology Product Owner — Growth
+- [ ] https://jobs.ashbyhq.com/harvey/6f986300-0c27-44d2-89e6-4f6b3ca674ab | Harvey | Head of Content & Strategy
+- [ ] https://jobs.ashbyhq.com/harvey/5344a1ec-486a-4154-b434-b2e6d2c9aae7 | Harvey | Support Operations Manager, User Operations
+- [ ] https://jobs.ashbyhq.com/harvey/25142ed9-88af-4bc4-b458-22179020b563 | Harvey | User Operations Manager, US
+- [ ] https://jobs.ashbyhq.com/harvey/c284e109-119a-4755-9319-d50239664ec2 | Harvey | User Operations Specialist, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/5dced8b9-8d6a-427c-9b09-a92eb07de87f | Harvey | Business Development Lead, Cloud & AI
+- [ ] https://jobs.ashbyhq.com/harvey/206ba0d8-6484-4b60-8548-c165d51eaae2 | Harvey | Technical User Operations Specialist, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/8511f68d-2dca-40fa-ac3c-79abec10f3e0 | Harvey | Procurement Operations Manager
+- [ ] https://jobs.ashbyhq.com/harvey/5eae0fac-76ad-4058-a6f7-e91e771aa2d0 | Harvey | GTM Strategy & Analytics
+- [ ] https://jobs.ashbyhq.com/harvey/69eb480c-b1a9-4043-ad35-248482e11375 | Harvey | User Operations Specialist
+- [ ] https://jobs.ashbyhq.com/harvey/a150789e-6b01-4780-9325-7ec968252ddc | Harvey | Support Operations Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/e646ca56-2122-4309-b2bb-0be7f26d42cb | Harvey | Head of Product Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/40399368-5370-415a-8c43-3cf772bc7719 | Airwallex | Relationship Manager (New Business Development), Enterprise Business
+- [ ] https://jobs.ashbyhq.com/airwallex/46586b3a-ab75-4f41-b51a-5cf34a7d598b | Airwallex | Head of Commercial Growth, Canada
+- [ ] https://jobs.ashbyhq.com/airwallex/6ebef146-37b8-413f-b806-72f7dd7cf9fe | Airwallex | Senior Manager, Revenue Operations, Americas
+- [ ] https://jobs.ashbyhq.com/airwallex/23da3071-b59f-4db9-b46f-8ad8e27de5f6 | Airwallex | Senior Data Scientist, GTM Analytics
+- [ ] https://jobs.ashbyhq.com/airwallex/ec98d60f-c7cd-4344-a77b-568cdfcd4706 | Airwallex | Sales Development Representative, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/f8d368e7-9d5f-424f-bf3a-b28435172e52 | Airwallex | Manager, Revenue Strategy & Enablement, SG & SEA
+- [ ] https://jobs.ashbyhq.com/airwallex/ca79dd32-6757-478d-8c60-598c7cbf3bce | Airwallex | GTM Partnerships Manager, Canada
+- [ ] https://jobs.ashbyhq.com/airwallex/824d3ae2-0ea3-43dc-9c7c-1c491206d5fd | Airwallex | Senior Associate, Revenue Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/beacc53b-e26c-4c2e-94bc-80da4bfd759d | Airwallex | (Senior) Growth Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/b7239044-3e5f-49eb-a64e-2de83d7b275b | Airwallex | Associate/Manager, Credit Risk Operations (Debt Collections)
+- [ ] https://jobs.ashbyhq.com/airwallex/f22a8795-d79c-4b80-8e92-92f724d3d23f | Airwallex | Growth Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/d1070f2b-354c-453e-b697-ba5e0e3973f8 | Airwallex | Manager, Revenue Strategy Operations, CN
+- [ ] https://jobs.ashbyhq.com/airwallex/e84e3221-4685-4247-b684-b08703dd9021 | Airwallex | Manager, Revenue Strategy, SG
+- [ ] https://jobs.ashbyhq.com/airwallex/15669ded-54ee-46ae-93e1-ba265565d2a8 | Airwallex | Senior / Data Platform Engineer, Growth Data Platform 
+- [ ] https://jobs.ashbyhq.com/airwallex/0c33f286-3f00-4b2b-8f8b-70e1fd7ff7ff | Airwallex | Senior Data Scientist, Growth Analytics 
+- [ ] https://jobs.ashbyhq.com/airwallex/d1d0116d-7edb-4b15-87bc-4dbd74bc83e0 | Airwallex | Business Development Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/d7001cc2-b475-4c76-9e7b-81348d5450a6 | Airwallex | Senior People Strategy Partner
+- [ ] https://jobs.ashbyhq.com/airwallex/6d593547-7ca0-4a7f-9338-617867eb8ed1 | Airwallex | Manager, Revenue Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/59fb147e-d6ca-44ba-babe-008160e5c5af | Airwallex | Senior Manager, Enterprise Strategy & GTM, Americas
+- [ ] https://jobs.ashbyhq.com/airwallex/05bc177f-3c70-452a-bfbb-e60b06c761d9 | Airwallex | Senior Manager, Enterprise Strategy & GTM, APAC
+- [ ] https://jobs.ashbyhq.com/airwallex/480570b1-f4fa-4715-bf99-e41a09565269 | Airwallex | Go-To-Market Partnerships Manager, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/6bc4d976-3573-4e5e-b28c-36055511d2b3 | Airwallex | Revenue Operations Manager, ANZ (Based in Bangalore)
+- [ ] https://jobs.ashbyhq.com/airwallex/e6ef8e6a-abea-4ed5-bffc-f9bebf01473d | Airwallex | Manager, GTM Partnerships and Growth - Travel
+- [ ] https://jobs.ashbyhq.com/airwallex/c3c24538-0a7e-4edc-b3b0-ee9b177049f4 | Airwallex | Engineering Manager, Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/1d4a055d-a7fb-4f4f-b524-d6874c6557f3 | Airwallex | Associate, Account Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/d028d728-2474-41f9-a48f-f9c65ae207a1 | Airwallex | Staff Data Scientist, Growth Analytics
+- [ ] https://jobs.ashbyhq.com/airwallex/f4366514-1eba-420f-82f5-04d12cf1b99e | Airwallex | Manager, Operations Strategy (Market Insights/User Research)
+- [ ] https://jobs.ashbyhq.com/airwallex/d3b1bd21-f5a0-4280-a0c2-02a7e4c42a79 | Airwallex | Sales Development Representative (Founding Team), SME & Growth – France (Paris)
+- [ ] https://jobs.ashbyhq.com/airwallex/dbd75ca9-19b8-4f10-b344-ba1ef04f874f | Airwallex | Operations Manager, Middle East
+- [ ] https://jobs.ashbyhq.com/airwallex/0a2a43a7-28a1-44fa-beeb-0211882b417c | Airwallex | Manager, Growth Innovation
+- [ ] https://jobs.ashbyhq.com/airwallex/db8d408f-a761-4f04-911b-7b01cb87082b | Airwallex | Manager, Growth Innovation (relocate to Singapore)
+- [ ] https://jobs.ashbyhq.com/airwallex/48b5d61d-7d39-4691-b03c-0503ff65d11a | Airwallex | Senior Manager, Global Performance Marketing Strategy, AMER
+- [ ] https://jobs.ashbyhq.com/airwallex/dda7ed56-1f09-4d2b-a42a-4191954a8573 | Airwallex | Senior Analyst, Financial Operations 
+- [ ] https://jobs.ashbyhq.com/airwallex/dc863c3d-b6b3-4dea-8dd0-5e404080a09c | Airwallex | Senior Manager, Operations Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/f3d19928-4781-4de9-a5d2-2597926c6cfa | Airwallex | Associate, Reporting Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/0014706e-279e-4a19-8d55-7dd5cdacc51b | Airwallex | GTM Partnerships Manager (B2B), SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/14b1f785-50f8-4fc3-9964-966ed6d90b23 | Airwallex | Associate, Issuing Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/3b909c48-b8d2-4ef3-946f-2e8fe0385c3f | Airwallex | Senior Analyst/Associate, Operations Quality Assurance (Merchant Fraud/Underwriting)
+- [ ] https://jobs.ashbyhq.com/airwallex/4182ef4d-85b7-4272-8b00-ce6fbf4cb8f1 | Airwallex | Staff Data Scientist, GTM 
+- [ ] https://jobs.ashbyhq.com/airwallex/db223096-8938-4646-a336-865443278617 | Airwallex | Data Scientist, GTM 
+- [ ] https://jobs.ashbyhq.com/airwallex/a25efb5d-bc29-4141-967e-c338a353c9a9 | Airwallex | (Senior) Growth Manager - Relocation to Singapore
+- [ ] https://jobs.ashbyhq.com/airwallex/719b124a-74a6-4ae5-884f-2bca6b81963c | Airwallex | Growth Manager (Relocation to Singapore) 
+- [ ] https://jobs.ashbyhq.com/airwallex/17ebe16c-351a-4537-8ca4-8b3238b01cc1 | Airwallex | Senior Data Scientist, GTM 
+- [ ] https://jobs.ashbyhq.com/airwallex/f30c261a-28e3-4d6f-b53d-155be22db05d | Airwallex | Manager, Sales, SME & Growth 
+- [ ] https://jobs.ashbyhq.com/airwallex/37c976a3-3bde-4b7c-990b-d705cb7a9eea | Airwallex | Senior Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/8e780725-465a-4105-88bd-bae0be2297be | Airwallex | GTM Partnerships Manager, SME & Growth, South Korea
+- [ ] https://jobs.ashbyhq.com/airwallex/f3f5d5ad-1781-4bac-bbc1-7afcec4f2d71 | Airwallex | Manager/Senior Manager, Revenue Strategy & Operations (Korea GTM)
+- [ ] https://jobs.ashbyhq.com/airwallex/7685d72f-4a7f-44c3-b172-9c95f9786aba | Airwallex | Manager, Revenue Operations, SG
+- [ ] https://jobs.ashbyhq.com/airwallex/706b42e2-4a62-448d-96e3-e3f43ff4e576 | Airwallex | Sales Team Lead, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/20ded8cd-8993-4b13-a0fe-f3cfcac2b160 | Airwallex | GTM Partnerships Manager, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/d933a488-64e4-4ef9-af0a-703a68462d5a | Airwallex | Issuing Risk Operations Associate
+- [ ] https://jobs.ashbyhq.com/airwallex/edfb3825-4068-420e-9754-007a3bed58b1 | Airwallex | Staff Product Manager, AI Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/e65a9761-7ff4-40b4-aa6a-fb7eafd567c2 | Airwallex | Senior Manager, Operations Strategy (Risk Operation AI Enablement)
+- [ ] https://jobs.ashbyhq.com/airwallex/d865bd7e-b699-405a-b57a-e724131924d6 | Airwallex | Manager, Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/3722e8f0-41bf-47d0-9b2d-a47b9815d60e | Airwallex | Head of Financial Partnerships Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/6bcc9f8e-8dd6-4c78-b0b9-43e93b164c09 | Airwallex | Senior Manager, Strategy & Operations - CEO Office
+- [ ] https://jobs.ashbyhq.com/airwallex/971599e5-e353-4f88-9a7c-2114251b2d2e | Airwallex | Manager, Global Growth, Lifecycle
+- [ ] https://jobs.ashbyhq.com/airwallex/f79b23ee-6375-4041-ac75-63eed49b7809 | Airwallex | Senior Associate, Operations Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/810d3f46-9b64-4d96-85a0-2302658153ba | Airwallex | Senior Manager, Growth Innovation
+- [ ] https://jobs.ashbyhq.com/airwallex/b9ad7a85-3524-49fe-8bef-2299dbd71944 | Airwallex | Partnerships Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/4edf68b7-6178-4600-91bd-eea4d8e33db9 | Airwallex | Support Analyst, Financial Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/48d3ca5d-e2b1-4e2c-abd9-e58e84942e52 | Airwallex | Sales Development Representative, SME & Growth 
+- [ ] https://jobs.ashbyhq.com/airwallex/6fb704d3-9454-4ad4-b442-9a6db66d253f | Airwallex | Engineering Lead, Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/79cc6de9-aa85-4326-8bd0-ad26d7dcf13d | Airwallex | GTM Partnerships Manager (Partner Marketing), South Korea
+- [ ] https://jobs.ashbyhq.com/airwallex/efbd14a2-c241-404a-afe8-81087dca1da4 | Airwallex | People Operations & Workplace Experience Specialist
+- [ ] https://jobs.ashbyhq.com/airwallex/c74f7165-6a99-4ffe-a063-42e6bec3e231 | Airwallex | Manager, GTM Partnerships and Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/e3b49d62-0935-4b19-8b26-f2e26a1f0f73 | Airwallex | Analyst, KYC Operations 
+- [ ] https://jobs.ashbyhq.com/airwallex/28f09265-db9a-454e-9659-c0a6f5a25adf | Airwallex | Bilingual Sales Development Representative, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/902509eb-b791-4508-9f5b-c695ac77ffab | Airwallex | Manager, People Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/1a0430a3-6692-4bee-bf99-58538d2b9a86 | Airwallex | Senior Manager, Revenue Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/4a9ea45c-7c5f-45c6-aa2a-952f3fdf3b77 | Airwallex | Senior Manager, Growth Marketing, Global Futures
+- [ ] https://jobs.ashbyhq.com/airwallex/23d7563f-87e3-43b9-978e-fece46b37a29 | Airwallex | Manager, Sales, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/5186d31d-35d4-4b48-a6d8-fe5f4ccd9c07 | Airwallex | Growth Operations Specialist
+- [ ] https://jobs.ashbyhq.com/airwallex/4a4154c1-d00e-452e-9d65-5acb2f76c653 | Airwallex | Senior Manager, Revenue Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/8f985779-a113-4737-810a-5908b6499364 | Airwallex | Manager, Marketing Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/c2884189-f802-4653-8481-89d9296dd65c | Airwallex | GTM Partnerships Manager, SME & Growth (Payment Acceptance)
+- [ ] https://jobs.ashbyhq.com/airwallex/f682f840-b50c-446c-a6ed-61afd0500015 | Airwallex | Associate, Credit Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/a570adaf-fb78-4724-bdbf-5c1ef5abac78 | Airwallex | Senior Manager, Product Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/9f08283c-d94a-4e02-9095-5df62cb5e492 | Airwallex | Senior Manager, Risk Operations Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/a6feeac9-12e8-4a51-bddd-a853903c71d3 | Airwallex | Global Head of FCC Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/6e6fbc3d-4193-4b40-ab5b-67c2ae2a1aeb | Airwallex | Associate, Merchant Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/2543d9ac-01d4-44b3-9c34-21d5721c3654 | Airwallex | (Senior) People Operations Partner, ANZ
+- [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/0c83ee52-3ec0-4f93-a073-531844507848 | Airwallex | Manager, Product Strategy
+- [ ] https://jobs.ashbyhq.com/Deel/9095f1e6-7845-428a-b125-49e605ea3020 | Deel | Solutions Architect, GTM Brain
+- [ ] https://jobs.ashbyhq.com/Deel/6ce0bc43-974e-42cd-9624-8331b17d55a8 | Deel | Customer Operations Manager II | French speaking
+- [ ] https://jobs.ashbyhq.com/Deel/f525355a-ba3e-4f6b-9b8d-83087a69f98c | Deel | GTM AI Operator| UK
+- [ ] https://jobs.ashbyhq.com/Deel/071d58cc-e90e-4935-8bd7-c04ae9c5c069 | Deel | Staff Product Designer, Growth
+- [ ] https://jobs.ashbyhq.com/omnea/afa164f5-39ab-4b41-bf2a-1674c3209dd2 | Omnea | Founding GTM Lead
+- [ ] https://jobs.ashbyhq.com/omnea/72a3eb5d-19e5-45e0-a1d5-3037c4ce7759 | Omnea | GTM Systems Engineer
+- [ ] https://jobs.ashbyhq.com/omnea/28ef24eb-8db0-4e9f-957c-24e422393d15 | Omnea | GTM Associate
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4241800009 | Oura | FP&A Manager, Operations & Supply Chain  
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4233392009 | Oura | Logistics Specialist, Retail Operations
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4192949009 | Oura | Recruiting Operations Specialist (Hybrid, 6-12 Months Fixed Term)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4250110009 | Oura | Senior Analyst, Revenue Operations (Strategy & Insights)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4182550009 | Oura | Senior Business Operations Program Manager
+- [ ] https://jobs.lever.co/playplay/22bd3274-29bc-4787-8db8-74819cf79fde | PlayPlay | Business Development Representative - PlayPlay
+- [ ] https://jobs.lever.co/playplay/cc681b3e-5f6c-4a40-b466-21777620fe1e | PlayPlay | Growth and Sale Assistant – Stage 6 mois
+- [ ] https://getyourguide.careers/jobs/7588318?gh_jid=7588318 | GetYourGuide | Business Operations & Strategy Manager - Account Management Operations (Price, Commission, Other)
+- [ ] https://getyourguide.careers/jobs/7950294?gh_jid=7950294 | GetYourGuide | Head of Growth Channels Partnerships
+- [ ] https://getyourguide.careers/jobs/7548701?gh_jid=7548701 | GetYourGuide | Head of Sales Operations
+- [ ] https://getyourguide.careers/jobs/7857001?gh_jid=7857001 | GetYourGuide | New Business Development Manager (Malay Speaker)
+- [ ] https://getyourguide.careers/jobs/7815255?gh_jid=7815255 | GetYourGuide | People Operations Lead Germany
+- [ ] https://getyourguide.careers/jobs/7867343?gh_jid=7867343 | GetYourGuide | Senior Business Operations Manager - AM Operations Planning & Performance
+- [ ] https://getyourguide.careers/jobs/7681938?gh_jid=7681938 | GetYourGuide | Senior Commercial Strategy Manager, New Verticals
+- [ ] https://getyourguide.careers/jobs/7897088?gh_jid=7897088 | GetYourGuide | Senior Go-To-Market Developer (Salesforce)
+- [ ] https://getyourguide.careers/jobs/7668008?gh_jid=7668008 | GetYourGuide | Senior Go-to-Market Manager, New Categories
+- [ ] https://getyourguide.careers/jobs/7340592?gh_jid=7340592 | GetYourGuide | Senior Revenue Operations Manager 
+- [ ] https://getyourguide.careers/jobs/7731706?gh_jid=7731706 | GetYourGuide | Staff Data Scientist, Growth Data Products
+- [ ] https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002 | Form3 | Head of Financial Planning & Analysis (FP&A)
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4844840101 | Raisin | AML/KYC Operations Specialist 
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4791069101 | Raisin | Engineering Lead - Growth Platform Team (m/f/d)
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4770228101 | Raisin | Head of Fraud & Risk Management Operations 
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4863206101 | Raisin | Senior AFC Operations Manager (m/f/d)
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4874087101 | Raisin | Senior Data Analyst - Fraud Strategy & Operations
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4873001101 | Raisin | Senior Fraud Strategy and Analytics Manager
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4856165101 | Raisin | Senior Operations Manager – Third Party Risk and Resilience (m/f/d)
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8570499002 | Cabify | Customer Operations Fleet Analyst - Cabify Logistics
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8498774002 | Cabify | Customer Operations Specialist
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8559454002 | Cabify | Growth Demand Analyst
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8574253002 | Cabify | Growth Manager 
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8572594002 | Cabify | Growth Marketing Specialist
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8558042002 | Cabify | Growth Rider Manager
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8573500002 | Cabify | Head of Operations & Customer Experience
+- [ ] https://careers.hellofresh.com/global/en/job/7811846?gh_jid=7811846 | HelloFresh | Associate Category Manager, Strategy Sourcing
+- [ ] https://careers.hellofresh.com/global/en/job/7940303?gh_jid=7940303 | HelloFresh | Business Development Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7918184?gh_jid=7918184 | HelloFresh | Creative Operations Lead
+- [ ] https://careers.hellofresh.com/global/en/job/7904267?gh_jid=7904267 | HelloFresh | Creative Operations Lead (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7920718?gh_jid=7920718 | HelloFresh | Creative Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7940309?gh_jid=7940309 | HelloFresh | Culinary Operations Associate (6 month contract)
+- [ ] https://careers.hellofresh.com/global/en/job/7775169?gh_jid=7775169 | HelloFresh | Distribution and Transport Planning Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7704315?gh_jid=7704315 | HelloFresh | Downstream Operations Manager (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7931631?gh_jid=7931631 | HelloFresh | Editorial Operations Lead
+- [ ] https://careers.hellofresh.com/global/en/job/7807798?gh_jid=7807798 | HelloFresh | Engineering Manager, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086 | HelloFresh | Fulfillment Operations Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/7930167?gh_jid=7930167 | HelloFresh | Growth Marketeer
+- [ ] https://careers.hellofresh.com/global/en/job/7937338?gh_jid=7937338 | HelloFresh | [HELLOCONNECT] Product Operations Shared Services Center Leader
+- [ ] https://careers.hellofresh.com/global/en/job/7929851?gh_jid=7929851 | HelloFresh | Lead New Social Platforms & Growth Channels (x/f/m)
+- [ ] https://careers.hellofresh.com/global/en/job/7597827?gh_jid=7597827 | HelloFresh | Lead Product Operations (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7905593?gh_jid=7905593 | HelloFresh | Manager, Planning
+- [ ] https://careers.hellofresh.com/global/en/job/7614088?gh_jid=7614088 | HelloFresh | Marketing Growth Analytics Manager, Factor US
+- [ ] https://careers.hellofresh.com/global/en/job/7899144?gh_jid=7899144 | HelloFresh | Office Lead, Workplace Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7748757?gh_jid=7748757 | HelloFresh | Operations Shift Lead – Production (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7592342?gh_jid=7592342 | HelloFresh | Operations Trainer 
+- [ ] https://careers.hellofresh.com/global/en/job/7814150?gh_jid=7814150 | HelloFresh | Outbound Sales / Business Development Lead
+- [ ] https://careers.hellofresh.com/global/en/job/7784787?gh_jid=7784787 | HelloFresh | People Advisor - Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7900855?gh_jid=7900855 | HelloFresh | Product Operations Specialist (12 months contract)
+- [ ] https://careers.hellofresh.com/global/en/job/7896431?gh_jid=7896431 | HelloFresh | Product Strategy Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7862406?gh_jid=7862406 | HelloFresh | React Native Developer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7938990?gh_jid=7938990 | HelloFresh | Schichtleiter Warehouse Operations (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7304212?gh_jid=7304212 | HelloFresh | Senior Applied Scientist, Operations Research 
+- [ ] https://careers.hellofresh.com/global/en/job/7920786?gh_jid=7920786 | HelloFresh | Senior Creative Strategy Manager (Performance Marketing)
+- [ ] https://careers.hellofresh.com/global/en/job/7882306?gh_jid=7882306 | HelloFresh | Senior CRM Strategy Manager - Reactivations (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7627764?gh_jid=7627764 | HelloFresh | Senior Data Scientist, AdTech Tribe, Growth Alliance (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7603810?gh_jid=7603810 | HelloFresh | Senior Data Scientist, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7618799?gh_jid=7618799 | HelloFresh | Senior Data Scientist, Growth Alliance (m/f/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7610158?gh_jid=7610158 | HelloFresh | Senior Data Scientist, Risk and Fraud Management, Growth Alliance
+- [ ] https://careers.hellofresh.com/global/en/job/7874108?gh_jid=7874108 | HelloFresh | Senior Demand Planning Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7775172?gh_jid=7775172 | HelloFresh | Senior Logistics Manager (Transport Planning)
+- [ ] https://careers.hellofresh.com/global/en/job/7744069?gh_jid=7744069 | HelloFresh | Senior Machine Learning Engineer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7759556?gh_jid=7759556 | HelloFresh | Senior Manager, Business Development - Factor for Business
+- [ ] https://careers.hellofresh.com/global/en/job/7926683?gh_jid=7926683 | HelloFresh | Senior Manager, Commercial Innovation & Business Development 
+- [ ] https://careers.hellofresh.com/global/en/job/7800200?gh_jid=7800200 | HelloFresh | Senior Manager, Commercial Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7957494?gh_jid=7957494 | HelloFresh | Senior Manager, Global Pricing & Discount Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/7917927?gh_jid=7917927 | HelloFresh |  Senior Manager of Performance Creative Strategy 
+- [ ] https://careers.hellofresh.com/global/en/job/7619091?gh_jid=7619091 | HelloFresh | Senior Manager Price & Discount Strategy (x/f/m)
+- [ ] https://careers.hellofresh.com/global/en/job/7918582?gh_jid=7918582 | HelloFresh | Senior Manager, Product Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7646125?gh_jid=7646125 | HelloFresh | Senior Manager, Product Strategy & Innovation
+- [ ] https://careers.hellofresh.com/global/en/job/7960625?gh_jid=7960625 | HelloFresh | Senior Manager, Supply Chain Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7920651?gh_jid=7920651 | HelloFresh | Senior Manager - Tech Business Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7872831?gh_jid=7872831 | HelloFresh | Senior Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7960631?gh_jid=7960631 | HelloFresh | Senior Operations Manger
+- [ ] https://careers.hellofresh.com/global/en/job/7784812?gh_jid=7784812 | HelloFresh | Senior Product Operations Specialist (12 Months Contract)
+- [ ] https://careers.hellofresh.com/global/en/job/7563152?gh_jid=7563152 | HelloFresh | Senior Transport Planning Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7905743?gh_jid=7905743 | HelloFresh | Sourcing Strategy Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7918314?gh_jid=7918314 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7722078?gh_jid=7722078 | HelloFresh | Staff Analytics Engineer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7539972?gh_jid=7539972 | HelloFresh | Staff Product Analyst, Growth 
+- [ ] https://careers.hellofresh.com/global/en/job/7594595?gh_jid=7594595 | HelloFresh | Staff Product Manager, Growth 
+- [ ] https://careers.hellofresh.com/global/en/job/7905711?gh_jid=7905711 | HelloFresh | [US DC] Labor Planning Associate
+- [ ] https://careers.hellofresh.com/global/en/job/7905665?gh_jid=7905665 | HelloFresh | [US DC] Senior Analyst, Planning Excellence
+- [ ] https://careers.hellofresh.com/global/en/job/7953929?gh_jid=7953929 | HelloFresh | [US DC] Senior Labor Planning Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7905669?gh_jid=7905669 | HelloFresh | [US DC] Senior Planning Associate
+- [ ] https://careers.hellofresh.com/global/en/job/7955893?gh_jid=7955893 | HelloFresh | Workplace Operations Associate
+- [ ] https://jobs.lever.co/veepee/9b9de47f-cebb-4a80-9a6b-ddbcd51c329c | Veepee | Alternance - Chargé de transformation solutions RH (H/F/X)
+- [ ] https://jobs.lever.co/veepee/cb3f56b6-4102-4f6a-a329-6ffdf136f65c | Veepee | Business Analyst Operations (F/H/X) - CDI
+- [ ] https://jobs.lever.co/veepee/8afb9c88-0576-44a4-a587-b60aba14f669 | Veepee | Business Analyst Operations (W/M/X) - Permanent
+- [ ] https://jobs.lever.co/veepee/c0ff4f9b-c646-43a1-b750-df571985a943 | Veepee | Strategic Delivery Owner - Transformation team (W/M/X)
+- [ ] https://jobs.lever.co/360learning/d0c612ea-a090-43e2-a243-1d294b0a6412 | 360Learning | Business Development Representative DACH
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238460008 | Anthropic | Data Operations Manager, Human Data
+- [ ] https://jobs.ashbyhq.com/photoroom/f7cf95df-3479-49fa-bff6-ce7c31c0c136 | Photoroom | Growth Product Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ca331e5d-19ee-4585-a97e-f1a6224949cb | ElevenLabs | People Operations
+- [ ] https://jobs.ashbyhq.com/elevenlabs/db88ce4f-44a0-425c-88c4-1951c467c627 | ElevenLabs | Developer Community Growth
+- [ ] https://jobs.ashbyhq.com/elevenlabs/73331ff5-0d32-40d6-9f78-894baab7b62b | ElevenLabs | GTM Chief of Staff
+- [ ] https://jobs.ashbyhq.com/omnea/e15b4972-b335-485c-94ce-c4d4aea884ad | Omnea | GTM Associate
+- [ ] https://stripe.com/jobs/search?gh_jid=7954474 | Stripe | AP & T&E Manager — Bangalore Finance Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7979885 | Stripe | Central Engineering Finance & Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7963763 | Stripe | Finance and Strategy Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=7950828 | Stripe | Head of Finance Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7975698 | Stripe | Product Support Operations Associate, Weekend Shift
+- [ ] https://stripe.com/jobs/search?gh_jid=7977676 | Stripe | Program Manager, Operations & GTM Enablement
+- [ ] https://stripe.com/jobs/search?gh_jid=7470827 | Stripe | Program Manager, Solutions Architecture (GTM Transformation)
+- [ ] https://stripe.com/jobs/search?gh_jid=7430332 | Stripe | Risk Operations Analyst, Financial Crimes
+- [ ] https://stripe.com/jobs/search?gh_jid=7430296 | Stripe | Risk Operations Analyst, Financial Crimes Programs
+- [ ] https://stripe.com/jobs/search?gh_jid=7919288 | Stripe | Risk Operations Analyst - PRO
+- [ ] https://stripe.com/jobs/search?gh_jid=7980514 | Stripe | Risk Operations Team Lead, Bridge KYC/KYB
+- [ ] https://stripe.com/jobs/search?gh_jid=7944515 | Stripe | Sales Strategy & Operations Business Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=7977981 | Stripe | User Risk Strategist, Ecosystem Risk Strategy
+- [ ] https://jobs.ashbyhq.com/harvey/4ebfa721-ab27-44fb-8359-6daaede4b43e | Harvey | GTM Technology Product Owner — Growth
+- [ ] https://jobs.ashbyhq.com/harvey/68d54b54-82c5-4430-99c1-37e899b5e29b | Harvey | Head of Content & Strategy
+- [ ] https://jobs.ashbyhq.com/harvey/430a45ad-f66d-48cc-aa75-da657aeb827f | Harvey | GTM Enablement Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/84a2c284-6909-4ea1-ac72-e1227f61a4d1 | Harvey | User Operations Manager, US
+- [ ] https://jobs.ashbyhq.com/harvey/14fdd53e-0a0e-400f-99f3-447f3825710b | Harvey | Technical User Operations Specialist, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/4727eb5e-0ff2-4866-bba2-91bb43796d12 | Harvey | Support Operations Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/cf370c84-a157-4ecb-ae57-9a84953e0d96 | Harvey | Head of Product Operations
+- [ ] https://jobs.ashbyhq.com/harvey/52863958-9c87-4f6e-8325-f479aac3cc4f | Harvey | Practice Lead, Law Firm Transformation
+- [ ] https://jobs.ashbyhq.com/harvey/c7d48cf3-bdee-4ec6-a077-077340667cb6 | Harvey | Practice Lead, In-house Transformation
+- [ ] https://jobs.ashbyhq.com/harvey/dac29262-152e-41db-89ca-08043d288a2d | Harvey | Senior Manager, User Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/873d4806-f12f-44c6-8c9a-ac503b04cb05 | Airwallex | Manager, Growth Innovation (relocate to Singapore)
+- [ ] https://jobs.ashbyhq.com/airwallex/458c1e45-697f-4770-8d0f-ab1d528b3baa | Airwallex | Senior Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/c76d82d0-9b0c-4b02-b85c-1c8a7d0870b5 | Airwallex | Senior Manager, Operations Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/fae51bd0-d69d-40c7-9b4c-a244e162c93e | Airwallex | Staff Product Manager, AI Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/dc3cc2c9-e375-4d0d-be39-21be1d32a50d | Airwallex | Manager, Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/555eeddc-7e50-4fcf-a2a6-5e4c489adc0a | Airwallex | Engineering Manager, Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/881f64b6-aec1-4d7e-a515-51ad298c042a | Airwallex | GTM Partnerships Manager, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/1863891c-ed83-4436-809a-de0313b6107f | Airwallex | Sales Development Representative, SME & Growth 
+- [ ] https://jobs.ashbyhq.com/airwallex/3e8d5abe-972e-4f54-8a9f-340401c23cc5 | Airwallex | Manager, Global Growth, Lifecycle
+- [ ] https://jobs.ashbyhq.com/airwallex/0cc1dd7e-7a43-4094-a1aa-fc6c9af21cfd | Airwallex | Senior Associate, Revenue Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/3448cc2b-52d5-4080-bff9-44c82ef6decd | Airwallex | Talent Acquisition Partner, Business and GTM   
+- [ ] https://jobs.ashbyhq.com/airwallex/c4894a60-2291-4802-8a79-af52b9444bdf | Airwallex | Senior Manager, Strategy & Operations - CEO Office
+- [ ] https://jobs.ashbyhq.com/airwallex/0a27c30a-bedc-42bd-b42b-ad8037d5072d | Airwallex | Senior Technical Program Manager, Solutions Strategy & Programs
+- [ ] https://jobs.ashbyhq.com/airwallex/70a4cf53-2312-48a9-973d-3f55f41ab2d3 | Airwallex | Senior Associate, Credit Risk Operations (Underwriting)
+- [ ] https://job-boards.greenhouse.io/behavox/jobs/7980507 | Behavox | Talent Acquisition Partner 3 (Professional & GTM roles)
+- [ ] https://n26.com/en-eu/careers/positions/7530714?gh_jid=7530714 | N26 | Banking Operations Associate - Excellence and Readiness
+- [ ] https://n26.com/en-eu/careers/positions/7962850?gh_jid=7962850 | N26 | Strategy & Operations Manager - Acquire
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003 | Celonis | Business Development Representative (SaaS Sales)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7640398003?gh_jid=7640398003 | Celonis | Enterprise Business Development Representative (German + Arabic speaker)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7640402003?gh_jid=7640402003 | Celonis | Enterprise Business Development Representative (German speaker)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7640401003?gh_jid=7640401003 | Celonis | Enterprise Business Development Representative (German speaker) | Relocation to Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7762306003 | Doctolib | Senior Strategy Associate – Sales & Customer Operations – Paris (x/f/m)
+- [ ] https://jobs.ashbyhq.com/alan/add3f42b-4e0f-407c-8e11-f850e96a32d3 | Alan | Engineering Manager hands on (x/f/m) - Growth Product
+- [ ] https://sumup.com/careers/positions/8576461002?gh_jid=8576461002 | SumUp | Operations and Fleet Manager Werkstudent  (m/w/d) 
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8547012002 | Cabify | Growth Demand Analyst
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4883830101 | Raisin | Growth Manager B2C DACH (m/f/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7981187?gh_jid=7981187 | HelloFresh | Manager, Menu Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7983415?gh_jid=7983415 | HelloFresh | Operations Manager – Production (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7978885?gh_jid=7978885 | HelloFresh |  Operations Trainer 
+- [ ] https://careers.hellofresh.com/global/en/job/7979529?gh_jid=7979529 | HelloFresh | Senior Manager, Growth Marketing & Partnerships (GC&F)
+- [ ] https://careers.hellofresh.com/global/en/job/7918293?gh_jid=7918293 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
+- [ ] https://jobs.lever.co/contentsquare/63e6be47-93f2-462c-b093-233fb0bcb2c7 | Contentsquare | Growth Engineer
