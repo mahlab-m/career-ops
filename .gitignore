@@ -8,6 +8,7 @@ data/parser-output/**/*.json
 !data/parser-output/**/.gitkeep
 reports/*.md
 !reports/.gitkeep
+!reports/nightly-*.md
 output/*
 !output/.gitkeep
 batch/logs/*

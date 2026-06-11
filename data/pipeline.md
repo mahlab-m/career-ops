@@ -721,3 +721,63 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7979529?gh_jid=7979529 | HelloFresh | Senior Manager, Growth Marketing & Partnerships (GC&F)
 - [ ] https://careers.hellofresh.com/global/en/job/7918293?gh_jid=7918293 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
 - [ ] https://jobs.lever.co/contentsquare/63e6be47-93f2-462c-b093-233fb0bcb2c7 | Contentsquare | Growth Engineer
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1 | ElevenLabs | Tech Operations Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2f121da5-8c9a-401a-9332-3156c5d33113 | ElevenLabs | GTM Enablement - Partnerships
+- [ ] https://jobs.ashbyhq.com/harvey/4a7f764b-45d7-49e9-a05d-48c9ef26d437 | Harvey | Senior Manager, User Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/6bd5bedd-929a-4bb3-bf42-c463253aa1c1 | Airwallex | Director, Product Strategy
+- [ ] https://jobs.ashbyhq.com/airwallex/52f46d59-10a6-415b-8083-522199721f6d | Airwallex | Senior Manager/Associate Director, Strategic Finance
+- [ ] https://jobs.ashbyhq.com/airwallex/92cf5042-4c3a-46e7-a6fa-ba86d184b8ae | Airwallex | Director, Product Strategy Payments
+- [ ] https://jobs.ashbyhq.com/airwallex/30bb8211-4bf2-4975-9d8c-b09fe8a1d7b7 | Airwallex | Manager, Corporate Development & Investor Relations
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8582879002 | Wayve | Technical Operations Lead
+- [ ] https://jobs.ashbyhq.com/relay/35ffed3e-c6ce-4710-a978-d43d2c645457 | Relay Technologies | Senior Data Analyst - Strategic Finance
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7996449 | Monzo | Operations Leadership, Financial Crime (Multilingual) 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7996433 | Monzo | Senior Investigator, Operations Analyst, Financial Crime (Multilingual) 
+- [ ] https://job-boards.eu.greenhouse.io/bvnk/jobs/4890331101 | BVNK | Legal Operations Manager
+- [ ] https://www.dojo.careers/jobs/4888698101/?gh_jid=4888698101 | Dojo | Revenue Operations Lead, Sales Technology
+- [ ] https://jobs.ashbyhq.com/multiverse/9ee5218c-6dfb-4fce-9954-188f61e7d21d | Multiverse | Director, Capacity Planning & Operations
+- [ ] https://jobs.ashbyhq.com/multiverse/0aa12489-e2ce-463a-b1ae-7b0486d9bd13 | Multiverse | Director, Delivery Operations - Learner Acquisition
+- [ ] https://stripe.com/jobs/search?gh_jid=7440963 | Stripe | Data Science Manager, Finance and Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=7932062 | Stripe | Executive Journey Strategy Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7988429 | Stripe | Integration Reliability Engineer, Technical Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7230921 | Stripe | Risk Operations Analyst
+- [ ] https://n26.com/en-eu/careers/positions/7982591?gh_jid=7982591 | N26 | AFC Operations Excellence Associate
+- [ ] https://n26.com/en-eu/careers/positions/7981720?gh_jid=7981720 | N26 | AFC Operations Team Lead
+- [ ] https://n26.com/en-eu/careers/positions/7806652?gh_jid=7806652 | N26 | Banking Operations - Claims Associate German market
+- [ ] https://n26.com/en-eu/careers/positions/7946282?gh_jid=7946282 | N26 | Strategy & Operations Associate - Lending
+- [ ] https://n26.com/en-eu/careers/positions/7913105?gh_jid=7913105 | N26 | Strategy & Operations Associate - Lending 
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4147119009 | Oura | Director, Business Development (Tax Advantage) 
+- [ ] https://jobs.ashbyhq.com/moss/4c5c2cba-9f11-4bb3-b5fc-e63c52c0a9bd | Moss | Customer Operations Associate (f/m/d)
+- [ ] https://jobs.ashbyhq.com/moss/e5113767-6807-463f-8d08-08de024c9a36 | Moss | Business Development Team Lead (m/f/d)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7770073003?gh_jid=7770073003 | Celonis | Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing
+- [ ] https://sumup.com/careers/positions/8581746002?gh_jid=8581746002 | SumUp | Business Development Manager - Iberia
+- [ ] https://sumup.com/careers/positions/8518822002?gh_jid=8518822002 | SumUp | Business Development Manager – Payments & POS
+- [ ] https://sumup.com/careers/positions/8586029002?gh_jid=8586029002 | SumUp | Commercial Planning Senior Associate
+- [ ] https://sumup.com/careers/positions/8576656002?gh_jid=8576656002 | SumUp | Tax Process and Operations Lead
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7645869 | Adyen | Senior GTM Operations Manager
+- [ ] https://jobs.lever.co/mistral/2c55ac3a-50f8-45bd-b2d3-05b2caedc1dc | Mistral AI | Workplace Operations Manager
+- [ ] https://jobs.lever.co/farfetch/5d51fe39-1fbe-41ac-a7bb-72c9267316f0 | Farfetch | Senior Planning Analyst
+- [ ] https://jobs.lever.co/qonto/0cbb618a-3292-4591-b60a-f688eb24d09a | Qonto | It Operations & Network Specialist
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/6020207004 | Mirakl | Director, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7732818003 | Doctolib | Senior Sales Operations Analyst (x/f/m)
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8549355002 | Solaris | Payments Operations Team Lead (f/m/d)
+- [ ] https://getyourguide.careers/jobs/7996643?gh_jid=7996643 | GetYourGuide | Staff Manager, Operations & Strategy (RevOps)
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4866464101 | Bitpanda | Market Operations Manager
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4823555101 | Bitpanda | Specialist, Strategic Finance
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4691242101 | Bitpanda | Specialist, Trading Operations - Night Shift 
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7704742003 | Remote | Benefits Operations Specialist - AMER
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7728848003 | Remote | Benefits Operations Specialist - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7765727003 | Remote | Benefits Operations Specialist - EMEA
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7732784003 | Remote | Director, Revenue Systems Strategy
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725136003 | Remote | Global Time & Attendance Product Strategy Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7764990003 | Remote | Lifecycle Operations Lead, Time & Attendance
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7720986003 | Remote | Manager, Benefits Operations - AMER
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7747902003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7704765003 | Remote | Onboarding Operations Specialist - EMEA
+- [ ] https://job-boards.eu.greenhouse.io/wallapop/jobs/4103777101 | Wallapop | Brand Strategy Research Specialist
+- [ ] https://job-boards.eu.greenhouse.io/wallapop/jobs/4870613101 | Wallapop | CS Transformation & Automation Lead
+- [ ] https://careers.hellofresh.com/global/en/job/7549573?gh_jid=7549573 | HelloFresh | Associate Director of Retail Media Operations & Inventory (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7990136?gh_jid=7990136 | HelloFresh | Lead, Global Pricing Strategy (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7982013?gh_jid=7982013 | HelloFresh | Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7912892?gh_jid=7912892 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
+- [ ] https://jobs.lever.co/agicap/9afed923-959b-416c-b7da-3ae9ff021e70 | Agicap | Expansion Manager DACH (m/f/d)
