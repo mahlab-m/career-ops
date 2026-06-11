@@ -11,25 +11,35 @@ title_filter:
     - "Operations"
     - "Chief of Staff"
     - "Founder Associate"
+    - "Founder's Associate"
     - "BizOps"
     - "Business Operations"
     - "Corporate Strategy"
+    - "Corporate Development"      # added 2026-06 — was invisible (no positive coverage)
+    - "Strategic Finance"          # added 2026-06 — was invisible
     - "GTM"
     - "Go-to-Market"
     - "Revenue Operations"
     - "RevOps"
+    - "Revenue Strategy"           # added 2026-06
+    - "Commercial Strategy"        # added 2026-06
     - "Growth Operations"
+    - "Growth Strategy"            # added 2026-06 — replaces bare "Growth"
     - "Strategy & Operations"
     - "Strategy and Operations"
     - "Head of Operations"
     - "Head of Strategy"
+    - "Market Expansion"           # added 2026-06 — operator/market-entry archetype
+    - "Expansion Manager"          # added 2026-06
     - "Transformation"
     - "Strategic Planning"
     - "Commercial Operations"
     - "Business Development"
-    - "Growth"
     - "Planning"
     - "Special Projects"
+    # NOTE: bare "Growth" REMOVED 2026-06 — it pulled 124 junk roles
+    #   (Growth Engineer/Marketing/PM/Designer). "Growth Operations" +
+    #   "Growth Strategy" keep the real fits.
   negative:
     - "Junior"
     - "Intern"
@@ -50,24 +60,38 @@ title_filter:
     - "Chief Revenue"
     - "Chief Marketing"
     - "Chief People"
-    - "Director,"
-    - "Director "
     - "Managing Director"
+    # "Director," / "Director " REMOVED 2026-06 — killed 30 senior roles incl.
+    #   "Associate Director, Strategy & Operations - CEO Office" (London).
+    #   For an ex-BCG candidate, Director-of-Strategy roles are worth surfacing;
+    #   the JD-read + scoring step rates stretch roles appropriately.
+    #   Narrow negatives below kill the junior-director noise instead:
+    - "Sales Director"
+    - "Engineering Director"
+    - "Marketing Director"
     - "Account Manager"
     - "Account Executive"
     - "Customer Success Manager"
     - "Sales Manager"
     - "Sales Representative"
     - "Sales Executive"
+    - "Sales Development"           # added — kills SDR
+    - "Business Development Representative"  # added — kills BDR, keeps senior BD
     - "Marketing Manager"
+    - "Growth Marketing"           # added — kills growth-marketing junk
+    - "People Operations"          # added — HR-ops leaking via "Operations"
+    - "People Ops"                 # added
     - "HR "
     - "Recruiter"
-    - "Legal"
+    - "Talent Acquisition"         # added
+    - "Legal Counsel"              # CHANGED from "Legal" — keeps "Legal Operations"
     - "Finance Manager"
     - "Accountant"
+    - "Driver"                     # added — kills driver/city-ops
     - "Software Engineer"
     - "Data Engineer"
     - "ML Engineer"
+    - "Growth Engineer"            # added
     - "DevOps"
     - "Frontend"
     - "Backend"
@@ -80,6 +104,96 @@ title_filter:
     - "Manager"
     - "Associate"
     - "Principal"
+
+# -- Location filter --
+# Added 2026-06. Previously ABSENT → all geos passed → ~42% of scan results
+# were US/APAC noise burying the in-target EU/UK/GCC roles.
+# Semantics (see scan.mjs buildLocationFilter): always_allow checked first;
+# empty/non-string location passes; otherwise must match an `allow` keyword.
+# Kept generous (candidate is relocation-flexible). "remote" in always_allow
+# may let "US-Remote" through — that's intentional; the JD-read step catches
+# US-only roles downstream. Better than dropping legit EU "Remote" postings.
+location_filter:
+  always_allow:
+    - "remote"
+    - "emea"
+    - "europe"
+  allow:
+    # UK
+    - "london"
+    - "united kingdom"
+    - "england"
+    - "uk"
+    # DACH
+    - "germany"
+    - "berlin"
+    - "munich"
+    - "münchen"
+    - "cologne"
+    - "frankfurt"
+    - "heidelberg"
+    - "hamburg"
+    - "austria"
+    - "vienna"
+    - "switzerland"
+    - "zurich"
+    - "geneva"
+    # France / Benelux
+    - "france"
+    - "paris"
+    - "lyon"
+    - "bordeaux"
+    - "netherlands"
+    - "amsterdam"
+    - "belgium"
+    - "brussels"
+    - "luxembourg"
+    # Ireland
+    - "ireland"
+    - "dublin"
+    # Iberia
+    - "spain"
+    - "madrid"
+    - "barcelona"
+    - "portugal"
+    - "lisbon"
+    # Nordics
+    - "sweden"
+    - "stockholm"
+    - "denmark"
+    - "copenhagen"
+    - "finland"
+    - "helsinki"
+    # CEE / Baltics
+    - "poland"
+    - "warsaw"
+    - "lithuania"
+    - "vilnius"
+    - "estonia"
+    - "tallinn"
+    - "bulgaria"
+    - "sofia"
+    - "italy"
+    - "milan"
+    # GCC / MENA (candidate is Doha-based)
+    - "dubai"
+    - "abu dhabi"
+    - "uae"
+    - "united arab emirates"
+    - "doha"
+    - "qatar"
+    - "riyadh"
+    - "jeddah"
+    - "saudi"
+    - "ksa"
+    - "kuwait"
+    - "bahrain"
+    - "manama"
+    - "cairo"
+    - "egypt"
+    # APAC (Singapore only — explicit target)
+    - "singapore"
+  block: []
 
 # -- Search queries --
 # Wide-net discovery across ATS platforms and job boards.
@@ -189,6 +303,46 @@ search_queries:
   # ── HN Who's Hiring ──
   - name: HN Who's Hiring — Strategy / CoS / Ops
     query: 'site:news.ycombinator.com "Chief of Staff" OR "Strategy and Operations" OR "Founder Associate" OR "BizOps" Europe OR UK OR Remote'
+    enabled: true
+
+  # ══ Added 2026-06: GCC / Singapore / Remote-EMEA coverage ══
+  # The queries above only covered London/Berlin/Amsterdam/Paris.
+  # Candidate is Doha-based and open to GCC + Singapore + remote — these were blind spots.
+
+  - name: Greenhouse — GCC Strategy & Ops
+    query: 'site:job-boards.greenhouse.io "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" OR "Corporate Development" Dubai OR "Abu Dhabi" OR Riyadh OR Doha OR Qatar OR "Saudi Arabia" OR UAE'
+    enabled: true
+
+  - name: Ashby — GCC Strategy & Ops
+    query: 'site:jobs.ashbyhq.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Dubai OR "Abu Dhabi" OR Riyadh OR Doha OR Qatar OR UAE OR "Saudi Arabia"'
+    enabled: true
+
+  - name: Lever — GCC Strategy & Ops
+    query: 'site:jobs.lever.co "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Dubai OR "Abu Dhabi" OR Riyadh OR Doha OR Qatar OR UAE'
+    enabled: true
+
+  - name: Greenhouse — Singapore Strategy & Ops
+    query: 'site:job-boards.greenhouse.io "Strategy" OR "Operations" OR "Chief of Staff" OR "Revenue Operations" OR "BizOps" Singapore'
+    enabled: true
+
+  - name: Ashby — Singapore Strategy & Ops
+    query: 'site:jobs.ashbyhq.com "Strategy" OR "Operations" OR "Chief of Staff" OR "GTM" OR "BizOps" Singapore'
+    enabled: true
+
+  - name: Greenhouse — Remote EMEA Strategy & Ops
+    query: 'site:job-boards.greenhouse.io "Strategy" OR "Operations" OR "Chief of Staff" OR "Revenue Operations" OR "BizOps" "Remote - EMEA" OR "Remote Europe" OR "Remote, EU"'
+    enabled: true
+
+  - name: Ashby — Remote EMEA Strategy & Ops
+    query: 'site:jobs.ashbyhq.com "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" "Remote - EMEA" OR "Remote Europe" OR "Remote (Europe)"'
+    enabled: true
+
+  - name: Greenhouse — Wider EU cities Strategy & Ops
+    query: 'site:job-boards.greenhouse.io "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Dublin OR Madrid OR Barcelona OR Lisbon OR Munich OR Stockholm OR Copenhagen OR Milan OR Vienna'
+    enabled: true
+
+  - name: LinkedIn — GCC + Singapore Strategy Roles
+    query: '"Strategy" OR "Chief of Staff" OR "BizOps" OR "Corporate Strategy" Dubai OR Doha OR Riyadh OR "Abu Dhabi" OR Singapore site:linkedin.com/jobs'
     enabled: true
 
 # -- Tracked companies --
@@ -832,4 +986,35 @@ tracked_companies:
     scan_method: websearch
     scan_query: '"Floward" careers "Strategy" OR "Operations" OR "Chief of Staff" Dubai OR Kuwait OR Remote'
     notes: "Kuwait / Dubai. Gifting and flowers marketplace. Ops & Strategy. Ashby slug broken — switched to websearch."
+    enabled: true
+
+  # ── Added 2026-06 (slugs verified live before adding) ──
+
+  - name: Remote
+    careers_url: https://job-boards.greenhouse.io/remotecom
+    api: https://boards-api.greenhouse.io/v1/boards/remotecom/jobs
+    notes: "Remote-first (global EOR). 280+ roles incl. BizOps/Strategy. Strong remote fit."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel marketplace. Strategy/BizOps/Ops roles."
+    enabled: true
+
+  - name: Bitpanda
+    careers_url: https://job-boards.greenhouse.io/bitpanda
+    api: https://boards-api.greenhouse.io/v1/boards/bitpanda/jobs
+    notes: "Vienna. Crypto/fintech. Strategy & Ops."
+    enabled: true
+
+  - name: Wallapop
+    careers_url: https://job-boards.greenhouse.io/wallapop
+    api: https://boards-api.greenhouse.io/v1/boards/wallapop/jobs
+    notes: "Barcelona. Marketplace. Strategy/BizOps."
+    enabled: true
+
+  - name: Sorare
+    careers_url: https://jobs.ashbyhq.com/sorare
+    notes: "Paris. Web3 fantasy sports. Strategy/Ops (low volume)."
     enabled: true
