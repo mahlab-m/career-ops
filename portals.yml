@@ -1020,3 +1020,9 @@ tracked_companies:
     careers_url: https://jobs.ashbyhq.com/sorare
     notes: "Paris. Web3 fantasy sports. Strategy/Ops (low volume)."
     enabled: true
+
+  - name: OpenFX
+    careers_url: https://job-boards.greenhouse.io/openfx
+    api: https://boards-api.greenhouse.io/v1/boards/openfx/jobs
+    notes: "Dubai/London. Cross-border payments fintech (Accel/Lightspeed). Found via WebSearch discovery 2026-06-11; slug verified live."
+    enabled: true
