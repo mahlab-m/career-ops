@@ -106,93 +106,95 @@ title_filter:
     - "Principal"
 
 # -- Location filter --
-# Added 2026-06. Previously ABSENT → all geos passed → ~42% of scan results
-# were US/APAC noise burying the in-target EU/UK/GCC roles.
-# Semantics (see scan.mjs buildLocationFilter): always_allow checked first;
-# empty/non-string location passes; otherwise must match an `allow` keyword.
-# Kept generous (candidate is relocation-flexible). "remote" in always_allow
-# may let "US-Remote" through — that's intentional; the JD-read step catches
-# US-only roles downstream. Better than dropping legit EU "Remote" postings.
+# COUNTRY-LED (revised 2026-06 per Mahlab: match countries, not cities, to
+# maximise pool — companies usually list the country, and country tokens catch
+# every city within it). Cities are kept ONLY as a fallback for postings that
+# list a bare city with no country (dropping them would SHRINK the pool, since
+# OR-matching means a city keyword can only ever ADD roles, never exclude).
+# Geo policy: Western Europe wide + Ireland + Sweden + GCC + Singapore + Remote.
+# Semantics (scan.mjs buildLocationFilter): always_allow checked first; empty/
+# non-string location passes; else must contain an `allow` substring.
 location_filter:
   always_allow:
     - "remote"
     - "emea"
     - "europe"
+    - "european"
   allow:
-    # UK
-    - "london"
+    # ── Countries (primary matcher — covers all cities within) ──
+    # UK & Ireland
     - "united kingdom"
-    - "england"
     - "uk"
-    # DACH
+    - "england"
+    - "scotland"
+    - "wales"
+    - "britain"
+    - "ireland"
+    # Western / Central Europe
     - "germany"
+    - "france"
+    - "netherlands"
+    - "belgium"
+    - "luxembourg"
+    - "austria"
+    - "switzerland"
+    # Southern Europe
+    - "spain"
+    - "portugal"
+    - "italy"
+    # Nordics (Sweden is the priority; rest kept — additive, never excludes)
+    - "sweden"
+    - "denmark"
+    - "finland"
+    - "norway"
+    # CEE / Baltics (scaleup hubs)
+    - "poland"
+    - "czech"
+    - "romania"
+    - "estonia"
+    - "lithuania"
+    - "bulgaria"
+    - "greece"
+    # GCC / MENA (candidate is Doha-based)
+    - "united arab emirates"
+    - "uae"
+    - "saudi"
+    - "ksa"
+    - "qatar"
+    - "kuwait"
+    - "bahrain"
+    - "oman"
+    - "egypt"
+    # Singapore (only APAC target)
+    - "singapore"
+    # ── Bare-city fallback (only for postings that omit the country) ──
+    - "london"
+    - "dublin"
     - "berlin"
     - "munich"
     - "münchen"
-    - "cologne"
     - "frankfurt"
-    - "heidelberg"
     - "hamburg"
-    - "austria"
+    - "cologne"
+    - "paris"
+    - "amsterdam"
+    - "brussels"
     - "vienna"
-    - "switzerland"
     - "zurich"
     - "geneva"
-    # France / Benelux
-    - "france"
-    - "paris"
-    - "lyon"
-    - "bordeaux"
-    - "netherlands"
-    - "amsterdam"
-    - "belgium"
-    - "brussels"
-    - "luxembourg"
-    # Ireland
-    - "ireland"
-    - "dublin"
-    # Iberia
-    - "spain"
     - "madrid"
     - "barcelona"
-    - "portugal"
     - "lisbon"
-    # Nordics
-    - "sweden"
-    - "stockholm"
-    - "denmark"
-    - "copenhagen"
-    - "finland"
-    - "helsinki"
-    # CEE / Baltics
-    - "poland"
-    - "warsaw"
-    - "lithuania"
-    - "vilnius"
-    - "estonia"
-    - "tallinn"
-    - "bulgaria"
-    - "sofia"
-    - "italy"
     - "milan"
-    # GCC / MENA (candidate is Doha-based)
+    - "stockholm"
+    - "copenhagen"
+    - "warsaw"
     - "dubai"
     - "abu dhabi"
-    - "uae"
-    - "united arab emirates"
     - "doha"
-    - "qatar"
     - "riyadh"
     - "jeddah"
-    - "saudi"
-    - "ksa"
-    - "kuwait"
-    - "bahrain"
-    - "manama"
     - "cairo"
-    - "egypt"
-    # APAC (Singapore only — explicit target)
-    - "singapore"
   block: []
 
 # -- Search queries --

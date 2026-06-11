@@ -70,17 +70,18 @@ Frame profile as **"Consulting rigor + operator execution depth"** — rare comb
 ## Your Location Policy
 
 **Current base:** Doha, Qatar (AST, UTC+3)
-**Open to:** Qatar, UAE, KSA, UK, EU (Germany, France, Netherlands), select remote
-**Visa:** Qatar resident; open to relocation within GCC; EU/UK would require sponsorship
+**Open to:** GCC (Qatar, UAE, KSA, Kuwait, Bahrain, Egypt), UK + Ireland, Western Europe wide (Germany, France, Netherlands, Belgium, Luxembourg, Austria, Switzerland, Spain, Portugal, Italy), Sweden, and remote (EMEA/Europe). Other Nordics/CEE acceptable but lower priority.
+**Visa:** Qatar resident; open to relocation within GCC; EU/UK/Ireland would require sponsorship
 
 **In forms:**
 - State: "Based in Doha, Qatar; open to relocation to [relevant geography] with appropriate notice"
 - Specify timezone overlap for remote roles (UTC+3, 3-4h overlap with UK/EU)
 
 **In evaluations (scoring):**
-- UK/EU hybrid (2-3 days in office): score **3.5** for location (relocation required but realistic)
-- GCC-based or remote: score **4.5-5.0**
-- US-only or on-site 5 days: score **1.5** (effectively a blocker)
+- GCC-based or remote (EMEA/Europe): score **4.5-5.0**
+- UK / Ireland / Western Europe hybrid (2-3 days in office): score **3.5** (relocation required but realistic)
+- Sweden / other Nordics / CEE: score **3.0-3.5** (acceptable, lower priority)
+- US-only, on-site 5 days, or APAC-except-Singapore: score **1.5** (effectively a blocker)
 
 ## Writing Style
 
