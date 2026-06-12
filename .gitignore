@@ -9,6 +9,9 @@ data/parser-output/**/*.json
 reports/*.md
 !reports/.gitkeep
 !reports/nightly-*.md
+reports/*.log
+reports/nightly-local.md
+config/.notion-token
 output/*
 !output/.gitkeep
 batch/logs/*
