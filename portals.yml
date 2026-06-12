@@ -525,10 +525,8 @@ tracked_companies:
     enabled: true
 
   - name: Checkout.com
-    careers_url: https://www.checkout.com/jobs
-    scan_method: websearch
-    scan_query: '"Checkout.com" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
-    notes: "London. Global payments. Uses private Ashby instance (not public API). Websearch fallback."
+    careers_url: https://jobs.ashbyhq.com/checkout.com
+    notes: "London. Global payments. Ashby slug checkout.com verified live 2026-06-12 (214 jobs)."
     enabled: true
 
   - name: Starling Bank
@@ -583,10 +581,8 @@ tracked_companies:
     enabled: true
 
   - name: Quantexa
-    careers_url: https://apply.workable.com/quantexa/
-    scan_method: websearch
-    scan_query: 'site:apply.workable.com/quantexa "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" London'
-    notes: "London. Decision intelligence AI. Series E. Now on Workable (scan.mjs doesn't support Workable — websearch fallback)."
+    careers_url: https://jobs.ashbyhq.com/quantexa
+    notes: "London. Decision intelligence AI (Series E). Ashby slug quantexa verified live 2026-06-12 (24 jobs)."
     enabled: true
 
   - name: Thought Machine
@@ -624,10 +620,8 @@ tracked_companies:
     enabled: true
 
   - name: Deliveroo
-    careers_url: https://jobs.smartrecruiters.com/Deliveroo
-    scan_method: websearch
-    scan_query: 'site:jobs.smartrecruiters.com/Deliveroo "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" OR "Planning"'
-    notes: "London. Food delivery. Confirmed on SmartRecruiters (scan.mjs doesn't support SR — websearch fallback)."
+    careers_url: https://jobs.ashbyhq.com/deliveroo
+    notes: "London. Food delivery. Ashby slug deliveroo verified live 2026-06-12 (226 jobs)."
     enabled: true
 
   - name: Farfetch
@@ -711,10 +705,8 @@ tracked_companies:
     enabled: true
 
   - name: Forto
-    careers_url: https://forto.com/en/careers
-    scan_method: websearch
-    scan_query: '"Forto" careers "Strategy" OR "Operations" OR "Chief of Staff" OR "BizOps" Berlin OR Remote'
-    notes: "Berlin. Digital freight forwarder. Ops & Strategy — strong fit given logistics background. Lever slug broken — switched to websearch."
+    careers_url: https://jobs.ashbyhq.com/forto
+    notes: "Berlin. Digital freight forwarder. Strong fit (logistics). Ashby slug forto verified live 2026-06-12 (17 jobs)."
     enabled: true
 
   - name: Taxfix
@@ -1025,4 +1017,28 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/openfx
     api: https://boards-api.greenhouse.io/v1/boards/openfx/jobs
     notes: "Dubai/London. Cross-border payments fintech (Accel/Lightspeed). Found via WebSearch discovery 2026-06-11; slug verified live."
+    enabled: true
+
+  # ── Added 2026-06-12 (slugs verified live) ──
+
+  - name: Wolt
+    careers_url: https://job-boards.greenhouse.io/wolt
+    api: https://boards-api.greenhouse.io/v1/boards/wolt/jobs
+    notes: "Helsinki (Delivery Hero). Large EU ops/strategy org. 293 jobs."
+    enabled: true
+
+  - name: Wayflyer
+    careers_url: https://jobs.ashbyhq.com/wayflyer
+    notes: "Dublin. Revenue-based financing fintech. Strategy/BizOps."
+    enabled: true
+
+  - name: Lokalise
+    careers_url: https://job-boards.greenhouse.io/lokalise
+    api: https://boards-api.greenhouse.io/v1/boards/lokalise/jobs
+    notes: "Remote EU. Localization SaaS. Strategy/Ops."
+    enabled: true
+
+  - name: Choco
+    careers_url: https://jobs.ashbyhq.com/choco
+    notes: "Berlin. Food supply-chain SaaS. Ops/Strategy."
     enabled: true
