@@ -781,3 +781,18 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7982013?gh_jid=7982013 | HelloFresh | Operations Manager
 - [ ] https://careers.hellofresh.com/global/en/job/7912892?gh_jid=7912892 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
 - [ ] https://jobs.lever.co/agicap/9afed923-959b-416c-b7da-3ae9ff021e70 | Agicap | Expansion Manager DACH (m/f/d)
+
+- [ ] https://careers.hellofresh.com/global/en/job/7918274?gh_jid=7918274 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7763254003 | Remote | Benefits Operations Specialist - AMER
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7765729003 | Remote | Benefits Operations Specialist - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7732774003 | Remote | Director, Revenue Systems Strategy
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725141003 | Remote | Global Time & Attendance Product Strategy Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7765999003 | Remote | Lifecycle Operations Lead, Time & Attendance
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7704780003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/4823425008 | OpenFX | Business Operations Manager
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5238590008 | OpenFX | Product Operations Manager
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/4777943008 | OpenFX | Treasury Operations Manager
+- [ ] https://sumup.com/careers/positions/8583539002?gh_jid=8583539002 | SumUp | Business Development Manager - Iberia
+- [ ] https://sumup.com/careers/positions/7789384002?gh_jid=7789384002 | SumUp | Business Development Manager – Payments & POS
+- [ ] https://sumup.com/careers/positions/8587363002?gh_jid=8587363002 | SumUp | Commercial Planning Senior Associate
+- [ ] https://sumup.com/careers/positions/8587511002?gh_jid=8587511002 | SumUp | Tax Process and Operations Lead
