@@ -796,3 +796,84 @@
 - [ ] https://sumup.com/careers/positions/7789384002?gh_jid=7789384002 | SumUp | Business Development Manager – Payments & POS
 - [ ] https://sumup.com/careers/positions/8587363002?gh_jid=8587363002 | SumUp | Commercial Planning Senior Associate
 - [ ] https://sumup.com/careers/positions/8587511002?gh_jid=8587511002 | SumUp | Tax Process and Operations Lead
+
+- [ ] https://jobs.ashbyhq.com/omnea/a47148f9-f0a5-4234-8ae8-a12bd0681d4e | Omnea | GTM Associate
+- [ ] https://stripe.com/jobs/search?gh_jid=7994541 | Stripe | Fraud Operations Manager (Mandarin-speaking)
+- [ ] https://jobs.ashbyhq.com/checkout.com/89d8260f-cffa-4292-9dbe-9322e0c8d443 | Checkout.com | Senior Specialist, Product Partnerships - Merchant Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/e23dc607-38d6-4738-8f76-f1b5a37ae36f | Checkout.com | Associate, Revenue and Billing Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/2a1e7fbe-9c7a-4071-809c-ef43a6896f57 | Checkout.com | Senior Associate, Revenue and Billing Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/dcee7834-efa0-4d21-adf5-272d43d94b93 | Checkout.com | Senior Business Development Lead
+- [ ] https://jobs.ashbyhq.com/checkout.com/80e93236-ba1d-4d38-a6d6-72f250c26c29 | Checkout.com | Manager, FP&A - Workday Adaptive Planning 
+- [ ] https://jobs.ashbyhq.com/checkout.com/3d117262-9004-49d2-83c8-0e9f5c2ede19 | Checkout.com | Senior Specialist, Issuing Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/f0d111c3-888c-456f-a8da-0c622ed8daee | Checkout.com | Manager, Operations and Strategy (CEO Office)
+- [ ] https://jobs.ashbyhq.com/checkout.com/50cf27e1-2dfc-4ba5-97f7-eb9b710e6a7b | Checkout.com | Senior Manager, Marketing Operations & Lifecycle
+- [ ] https://jobs.ashbyhq.com/checkout.com/9b0c8785-6c02-4388-aa65-a2a45ab44969 | Checkout.com | Forward Deployed AI Accelerator, Operations
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7769408003 | Tide | Senior Operations Analyst
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7770013003 | Tide | Senior Operations Manager - KYC Commercials & BizOps
+- [ ] https://jobs.ashbyhq.com/quantexa/d1f9f988-e95f-4e06-ab62-1ea6992272da | Quantexa | Senior Partner Operations Consultant 
+- [ ] https://sumup.com/careers/positions/8587512002?gh_jid=8587512002 | SumUp | Tax Process and Operations Lead
+- [ ] https://jobs.ashbyhq.com/deliveroo/c9fe2f1a-b3dc-4fbd-9772-10084ed81011 | Deliveroo | Business Development Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/55398c56-552e-4f8a-9f5f-79132e8df4fb | Deliveroo | Business Development Manager - Strasbourg
+- [ ] https://jobs.ashbyhq.com/deliveroo/65bd8db0-93be-4fcd-86f4-57105370a7a8 | Deliveroo | Head of Platform Product Operations, Drive
+- [ ] https://jobs.ashbyhq.com/deliveroo/07aaf39f-acec-4d11-9621-1fbb6125e17a | Deliveroo | Finance and Strategy Senior Associate 
+- [ ] https://jobs.ashbyhq.com/deliveroo/25e5bf28-7c2d-4151-9c53-ba88124749d8 | Deliveroo | Operations Analyst
+- [ ] https://jobs.ashbyhq.com/deliveroo/2afda56a-04d2-4589-96cd-02ff03ac2865 | Deliveroo | Operations Associate 
+- [ ] https://jobs.ashbyhq.com/deliveroo/4277053d-8c64-4af1-b4dd-b538d33a6f9c | Deliveroo | Key Accounts Partner Operations
+- [ ] https://jobs.ashbyhq.com/deliveroo/7bccbffd-2d16-4b33-b21f-e93d554f6572 | Deliveroo | Head of Business Development Deals EMEA
+- [ ] https://jobs.ashbyhq.com/deliveroo/a92369c7-9ee6-4921-a8e0-fd388ebc3439 | Deliveroo | Sales Operations Analyst - UAE National 
+- [ ] https://jobs.ashbyhq.com/deliveroo/6b194270-32fe-44c6-a54f-f4d9fefafb03 | Deliveroo | Grocery Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/aa536317-d1a3-48c0-ac39-3cc363eca8a6 | Deliveroo | Strategy & Commercial Manager - Colchester & Chelmsford
+- [ ] https://jobs.ashbyhq.com/deliveroo/ee2530a6-4273-4463-88d0-26e5518abecd | Deliveroo | Corporate Business Development Associate
+- [ ] https://jobs.ashbyhq.com/deliveroo/76ee7bd4-e015-4128-a63a-c930873201f9 | Deliveroo | Business Development Manager - Paris (CDD 6 mois)
+- [ ] https://jobs.ashbyhq.com/deliveroo/4b7f7aa0-7f1d-48c6-9389-bebb4b2903c4 | Deliveroo | Promotions Strategy Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/bd782ab6-c243-4d44-8cc4-0ed4d50163fb | Deliveroo | Business Development Manager - French Speaking
+- [ ] https://jobs.ashbyhq.com/deliveroo/0d7447ea-4e3c-41d4-93ff-ce0efa11652b | Deliveroo | Business Development Manager - Dutch/Flemish
+- [ ] https://jobs.ashbyhq.com/deliveroo/af434e7f-fafa-49a0-a7a9-99b54c47f695 | Deliveroo | Finance & Strategy Director, Merchant
+- [ ] https://jobs.ashbyhq.com/deliveroo/1dad55db-83df-479d-9a23-cfcf20d00ac4 | Deliveroo | Head of Value & Pricing, Strategy & Operations (12M Fixed Term, New Verticals)
+- [ ] https://jobs.ashbyhq.com/deliveroo/5f50a597-bc6b-4fa1-859b-c8785a8b7c26 | Deliveroo | Business Development Manager - Kuwait
+- [ ] https://jobs.ashbyhq.com/deliveroo/1a1577da-3d2b-456d-a89e-f4c9840da16e | Deliveroo | Care Operations Manager - French
+- [ ] https://jobs.ashbyhq.com/deliveroo/fb349c3b-ad79-4394-9b39-a2fad944e7ef | Deliveroo | Operations Specialist - Grocery
+- [ ] https://jobs.ashbyhq.com/deliveroo/9755a876-db4f-4548-a17c-23794aa11720 | Deliveroo | Business Development Manager - Paris
+- [ ] https://jobs.ashbyhq.com/deliveroo/4cab6283-fd7e-4939-a3d0-9fcb7ede55bf | Deliveroo | Business Development Manager - Milano FTC (12 months)
+- [ ] https://jobs.ashbyhq.com/deliveroo/d88b345c-b806-432a-884d-5984547bd729 | Deliveroo | Senior Finance & Strategy Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/130ad8c7-fe40-47d4-a618-78863ff6b734 | Deliveroo | Marketing Associate, Value Promotions and Operations - UAE National
+- [ ] https://jobs.ashbyhq.com/deliveroo/ad126bae-bcb1-43eb-8e14-1c65b49f6ce7 | Deliveroo | Head of Procurement Transformation & Optimisation
+- [ ] https://jobs.ashbyhq.com/deliveroo/e35f26cd-a195-4eff-85c3-e050a637b431 | Deliveroo | Business Development Manager - Toulouse
+- [ ] https://jobs.ashbyhq.com/deliveroo/a3e134b4-032a-4358-9e6e-45ba8c2c7126 | Deliveroo | Business Development Manager Limerick/Galway (12 Month FTC)
+- [ ] https://jobs.ashbyhq.com/deliveroo/16cdabb5-55ba-4cac-9146-792bbaf38d67 | Deliveroo | Business Development Manager Limerick/Galway
+- [ ] https://jobs.ashbyhq.com/deliveroo/9e2ee1b8-e290-42ae-9a41-6c4cca9ce237 | Deliveroo | Operations Manager, - Planning and Performance, Rider Supply
+- [ ] https://jobs.ashbyhq.com/deliveroo/3958862c-51be-4c33-8b78-b306ea72b67a | Deliveroo | Business Development Manager - Nice
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7763253003 | Remote | Benefits Operations Specialist - AMER
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7766939003 | Remote | Business Operations Manager
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7711814003 | Remote | Global Time & Attendance Product Strategy Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7766002003 | Remote | Lifecycle Operations Lead, Time & Attendance
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7747901003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://careers.hellofresh.com/global/en/job/7918322?gh_jid=7918322 | HelloFresh | Sr. Demand Planning Analyst (f/m/x)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7899201 | Wolt | Associate, Finance & Strategy, Marketing (Fixed-Term)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7963062 | Wolt | Finance & Strategy Manager, Support Operations & Quality
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7262281 | Wolt | Global Account Management, Strategy and Operations Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7866839 | Wolt | Global Revenue Strategy & Operations Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7590679 | Wolt | Manager, Central Finance & Strategy
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7965486 | Wolt | Operations Associate, Courier Supply
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7749461 | Wolt | Regional Manager, Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7953764 | Wolt | Retail Operations Excellence Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7846429 | Wolt | Revenue Strategy & Operations Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7938129 | Wolt | Senior Applied Scientist, Operations Research
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7956204 | Wolt | Senior Associate, Finance & Strategy, Marketplace
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7571486 | Wolt | Senior Manager, Growth Strategy (Marketing)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7177659 | Wolt | Store Operations Associate - Chania (WM)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6842173 | Wolt | Store Operations Associate - Cholargos
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6693768 | Wolt | Store Operations Associate - Glyfada
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6693627 | Wolt | Store Operations Associate - Marousi
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6694750 | Wolt | Store Operations Associate - Peristeri
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6694033 | Wolt | Store Operations Associate - Thessaloniki
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7994384 | Stripe | Risk Operations Analyst (Mandarin Speaking)
+- [ ] https://jobs.ashbyhq.com/deliveroo/a76a4251-aa9a-447b-b11f-d381f9319135 | Deliveroo | Business Development Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/08768e3b-7f9d-4d24-ae2b-ff91e772b259 | Deliveroo | Business Development Manager - Toulouse
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7764531003?gh_jid=7764531003 | Celonis | Client Account Lead - Strategy & Transformation (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771534003?gh_jid=7771534003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771535003?gh_jid=7771535003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://getyourguide.careers/jobs/7837878?gh_jid=7837878 | GetYourGuide | Paid Search Lead, Creative Strategy & Automation
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7771434003 | Remote | EOR Business Operations Manager
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725133003 | Remote | Global Time & Attendance Product Strategy Lead
