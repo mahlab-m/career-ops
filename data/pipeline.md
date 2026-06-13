@@ -877,3 +877,5 @@
 - [ ] https://getyourguide.careers/jobs/7837878?gh_jid=7837878 | GetYourGuide | Paid Search Lead, Creative Strategy & Automation
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7771434003 | Remote | EOR Business Operations Manager
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725133003 | Remote | Global Time & Attendance Product Strategy Lead
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725139003 | Remote | Global Time & Attendance Product Strategy Lead
