@@ -879,3 +879,10 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725133003 | Remote | Global Time & Attendance Product Strategy Lead
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7725139003 | Remote | Global Time & Attendance Product Strategy Lead
+
+- [ ] https://www.dojo.careers/jobs/4895512101/?gh_jid=4895512101 | Dojo | Operations & Support Specialist, Product Sales
+- [ ] https://jobs.ashbyhq.com/checkout.com/2e8a5c8c-35d4-437f-9e78-dfeb1fadbec2 | Checkout.com | Senior Specialist, Marketing Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/17452299-88fe-4880-9794-9c635b989292 | Airwallex | Founding Business Development Manager (SDR), DACH
+- [ ] https://jobs.ashbyhq.com/deliveroo/e0ab5106-f047-4c41-9833-b01795e1f3de | Deliveroo | Business Development Manager - Supermarchés & Retail - Paris
+- [ ] https://sumup.com/careers/positions/8592035002?gh_jid=8592035002 | SumUp | Business Development Manager – Payments & POS
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7773268003 | Doctolib | Sales Strategy Lead - Milan (x/f/m)
