@@ -892,3 +892,13 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003?gh_jid=7773716003 | Celonis | Senior Process Intelligence and Digital Transformation Consultant - AI & Process Analytics (Public Sector)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773823003 | Remote | Deal Commercial Strategy & Operations Lead
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7771355003 | Remote | Senior Manager, GTM Operational Excellence
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7997029 | Stripe | SDC Manager, GTM Accelerate
+- [ ] https://jobs.ashbyhq.com/multiverse/3c8638e5-e176-457f-a00f-479974c742bc | Multiverse | Senior Finance Operations Analyst
+- [ ] https://jobs.ashbyhq.com/deliveroo/be754969-8c93-4e73-80f2-bc20144b3a40 | Deliveroo | Manager, Go-to-market (GTM) 
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7985551 | Adyen | Strategy & Program Manager - Finance
+- [ ] https://careers.hellofresh.com/global/en/job/8007017?gh_jid=8007017 | HelloFresh | Operations Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7883211?gh_jid=7883211 | HelloFresh | Senior CRM Strategy Manager, Reactivations (all genders)
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8554475002 | Solaris | Senior Transformation and Project Manager (f/m/d)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773852003 | Remote | Deal Commercial Strategy & Operations Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773957003 | Remote | Senior Manager, GTM Operational Excellence
