@@ -886,3 +886,9 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/e0ab5106-f047-4c41-9833-b01795e1f3de | Deliveroo | Business Development Manager - Supermarchés & Retail - Paris
 - [ ] https://sumup.com/careers/positions/8592035002?gh_jid=8592035002 | SumUp | Business Development Manager – Payments & POS
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7773268003 | Doctolib | Sales Strategy Lead - Milan (x/f/m)
+
+- [ ] https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45 | Harvey | Support Operations Data Analyst
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765927003?gh_jid=7765927003 | Celonis | Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003?gh_jid=7773716003 | Celonis | Senior Process Intelligence and Digital Transformation Consultant - AI & Process Analytics (Public Sector)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773823003 | Remote | Deal Commercial Strategy & Operations Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7771355003 | Remote | Senior Manager, GTM Operational Excellence
