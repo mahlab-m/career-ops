@@ -902,3 +902,12 @@
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8554475002 | Solaris | Senior Transformation and Project Manager (f/m/d)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773852003 | Remote | Deal Commercial Strategy & Operations Lead
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773957003 | Remote | Senior Manager, GTM Operational Excellence
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8593709002 | Wayve | Technical Business Development Manager
+- [ ] https://jobs.ashbyhq.com/harvey/1545d007-43e4-4e1b-9eb4-ef06bfc890e7 | Harvey | Senior Analyst, Recruiting Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=5956522 | Stripe | Company Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7768119003 | Tide | Country Operations Lead (Fixed Term)
+- [ ] https://jobs.ashbyhq.com/deliveroo/db0a6b28-408f-4a9d-a3dc-1b21b2845e8d | Deliveroo | Senior Manager, Strategy and Ops (Consumer Pricing)
+- [ ] https://jobs.ashbyhq.com/deliveroo/0f7d42f5-b1a0-4e80-9c8e-df4cbc8ff191 | Deliveroo | Business Development Manager - Lyon (CDD 6 mois)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8010419 | Adyen | Manager, Platform Offering Strategy
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773825003 | Remote | Deal Commercial Strategy & Operations Lead
