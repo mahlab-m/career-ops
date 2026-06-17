@@ -911,3 +911,5 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/0f7d42f5-b1a0-4e80-9c8e-df4cbc8ff191 | Deliveroo | Business Development Manager - Lyon (CDD 6 mois)
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8010419 | Adyen | Manager, Platform Offering Strategy
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773825003 | Remote | Deal Commercial Strategy & Operations Lead
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7767300003 | Remote | Deal Commercial Strategy & Operations Lead
