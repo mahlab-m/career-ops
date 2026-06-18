@@ -918,3 +918,11 @@
 - [ ] https://job-boards.greenhouse.io/tide/jobs/7770027003 | Tide | Business Development Event Executive
 - [ ] https://sumup.com/careers/positions/8585779002?gh_jid=8585779002 | SumUp | Head of Tax Strategy
 - [ ] https://careers.hellofresh.com/global/en/job/7988551?gh_jid=7988551 | HelloFresh | Staff Engineer, Operations Technology (all genders)
+
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7850667 | Monzo | Operations Strategy Associate (Customer Experience) 
+- [ ] https://jobs.ashbyhq.com/multiverse/58389a21-a599-43b6-9869-9885a16e2072 | Multiverse | Senior AI Engineer - AI Transformation
+- [ ] https://jobs.ashbyhq.com/multiverse/758c98cd-fce3-49e7-b81d-a003dfe7ac4f | Multiverse | Staff AI Engineer - AI Transformation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773301003?gh_jid=7773301003 | Celonis | Client Account Lead - Strategy & Transformation (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777097003?gh_jid=7777097003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://careers.hellofresh.com/global/en/job/7745747?gh_jid=7745747 | HelloFresh | Customer Experience Strategy Lead (m,f,x) 
