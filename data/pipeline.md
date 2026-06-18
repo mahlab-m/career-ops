@@ -913,3 +913,8 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7773825003 | Remote | Deal Commercial Strategy & Operations Lead
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7767300003 | Remote | Deal Commercial Strategy & Operations Lead
+
+- [ ] https://jobs.ashbyhq.com/airwallex/f3ca42d9-5a46-4638-88d9-1cb93a3405a6 | Airwallex | Senior Associate, Revenue Operations, Asia
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7770027003 | Tide | Business Development Event Executive
+- [ ] https://sumup.com/careers/positions/8585779002?gh_jid=8585779002 | SumUp | Head of Tax Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/7988551?gh_jid=7988551 | HelloFresh | Staff Engineer, Operations Technology (all genders)
