@@ -938,3 +938,9 @@
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101 | Bitpanda | Senior Cyber Security Engineer, Security Operations
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7777915003 | Remote | Deal Commercial Strategy & Operations Lead
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8006882 | Wolt | Sales Operations Analyst, Wolt for Work (m/w/d)
+
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7775858003 | Tide | Business Development Executive
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7777339003 | Tide | Ongoing Monitoring Operations Manager
+- [ ] https://jobs.lever.co/qonto/c73e81ef-aeb0-4785-b0da-f0902f91272e | Qonto | Strategic Operations Project Manager 🇫🇷
+- [ ] https://job-boards.eu.greenhouse.io/truelayer/jobs/4899737101 | TrueLayer | Client Operations Specialist
+- [ ] https://jobs.lever.co/zopa/cc0b901b-09af-4de8-8a94-67735ca03e20 | Zopa | Senior Financial Crime Strategy Manager
