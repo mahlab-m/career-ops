@@ -926,3 +926,15 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7777097003?gh_jid=7777097003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
 - [ ] https://careers.hellofresh.com/global/en/job/7745747?gh_jid=7745747 | HelloFresh | Customer Experience Strategy Lead (m,f,x) 
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7993610 | Stripe | GTM Operations Process Architect
+- [ ] https://stripe.com/jobs/search?gh_jid=7997542 | Stripe | Operations Insights, Tax
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4287993009 | Oura | Staff Program Manager, Product Go-to-Market 
+- [ ] https://sumup.com/careers/positions/8598617002?gh_jid=8598617002 | SumUp | Head of Tax Strategy
+- [ ] https://jobs.ashbyhq.com/alan/c1910999-3e09-4d2e-8bac-e8a31eccd438 | Alan | Marketing Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7841508 | Adyen | Operational Excellence Manager - Merchant Operations
+- [ ] https://jobs.ashbyhq.com/pleo/b4e92b9e-3c46-44f8-ad28-8e430e254a44 | Pleo | RevOps Performance Analyst
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4703766101 | Bitpanda | Cyber Security Engineer, Security Operations
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101 | Bitpanda | Senior Cyber Security Engineer, Security Operations
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7777915003 | Remote | Deal Commercial Strategy & Operations Lead
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8006882 | Wolt | Sales Operations Analyst, Wolt for Work (m/w/d)
