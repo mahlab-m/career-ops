@@ -944,3 +944,7 @@
 - [ ] https://jobs.lever.co/qonto/c73e81ef-aeb0-4785-b0da-f0902f91272e | Qonto | Strategic Operations Project Manager 🇫🇷
 - [ ] https://job-boards.eu.greenhouse.io/truelayer/jobs/4899737101 | TrueLayer | Client Operations Specialist
 - [ ] https://jobs.lever.co/zopa/cc0b901b-09af-4de8-8a94-67735ca03e20 | Zopa | Senior Financial Crime Strategy Manager
+
+- [ ] https://jobs.ashbyhq.com/deliveroo/b5723f74-52f1-432d-b1cf-56a0f5859e0c | Deliveroo | Business Development Manager - Deliveroo for Work
+- [ ] https://sumup.com/careers/positions/8437657002?gh_jid=8437657002 | SumUp | Senior Leader Global Accounting Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7993121 | Adyen | Senior Commercial Strategy Manager, Financial Services & Insurance   
