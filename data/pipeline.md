@@ -948,3 +948,8 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/b5723f74-52f1-432d-b1cf-56a0f5859e0c | Deliveroo | Business Development Manager - Deliveroo for Work
 - [ ] https://sumup.com/careers/positions/8437657002?gh_jid=8437657002 | SumUp | Senior Leader Global Accounting Operations
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7993121 | Adyen | Senior Commercial Strategy Manager, Financial Services & Insurance   
+
+- [ ] https://jobs.ashbyhq.com/omnea/520fe5ea-3fb1-4dac-a4e0-e67f379835e9 | Omnea | GTM Associate
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4848233101 | Tamara | Business Development Specialist
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7645176003 | Remote | Revenue Strategy & Biz Ops Lead
