@@ -953,3 +953,9 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4848233101 | Tamara | Business Development Specialist
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7645176003 | Remote | Revenue Strategy & Biz Ops Lead
+
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7920497 | Adyen | Project Operations Specialist
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8020305 | Adyen | Senior Commercial Strategy Manager, Financial Services & Insurance   
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7642064003 | Remote | Revenue Strategy & Biz Ops Lead
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8602060002 | Solaris | Senior Card Operations Analyst 
+- [ ] https://jobs.ashbyhq.com/choco/9ec616ff-b3a0-4406-936c-60a9b5466b09 | Choco | Head of Revenue Operations
