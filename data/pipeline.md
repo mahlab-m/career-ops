@@ -961,3 +961,6 @@
 - [ ] https://jobs.ashbyhq.com/choco/9ec616ff-b3a0-4406-936c-60a9b5466b09 | Choco | Head of Revenue Operations
 
 - [ ] https://jobs.ashbyhq.com/harvey/58547cb8-044c-4657-946e-f2ed6ede0034 | Harvey | Recruiting Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/harvey/193bfe38-f303-45e0-8664-5e7220de3e1c | Harvey | Recruiting Operations Manager
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4286877009 | Oura | Lifecycle Operations Manager
