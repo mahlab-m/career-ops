@@ -964,3 +964,5 @@
 
 - [ ] https://jobs.ashbyhq.com/harvey/193bfe38-f303-45e0-8664-5e7220de3e1c | Harvey | Recruiting Operations Manager
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4286877009 | Oura | Lifecycle Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/harvey/fac2c6f4-344b-4be8-a291-b0c5373d1ff6 | Harvey | Recruiting Operations Manager
