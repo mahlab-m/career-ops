@@ -966,3 +966,12 @@
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4286877009 | Oura | Lifecycle Operations Manager
 
 - [ ] https://jobs.ashbyhq.com/harvey/fac2c6f4-344b-4be8-a291-b0c5373d1ff6 | Harvey | Recruiting Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/harvey/8ae1a13f-362b-4e7f-8456-c0fbe5d33571 | Harvey | GTM Technology Product Owner
+- [ ] https://jobs.ashbyhq.com/harvey/accc5f55-19cc-4ec4-82b8-672bd7dd2898 | Harvey | Recruiting Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/91d50b11-81b9-47b0-bcfc-606b02c2858b | Deliveroo | Rider Operations Coordinator 
+- [ ] https://traderepublic.com/en-de/about?jobId=7781222003&gh_jid=7781222003 | Trade Republic | Working Student - Corporate IT & Operations (London) 
+- [ ] https://jobs.ashbyhq.com/lovable/9196aa97-3a4a-4049-896d-9f190518532f | Multiline / Lovable | Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8007593 | Wolt | Commercial Platform Business Development Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6694341 | Wolt | Store Operations Associate - Nea Ionia
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6695079 | Wolt | Store Operations Associate - Piraeus
