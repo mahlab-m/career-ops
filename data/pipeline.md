@@ -975,3 +975,9 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8007593 | Wolt | Commercial Platform Business Development Manager
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6694341 | Wolt | Store Operations Associate - Nea Ionia
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6695079 | Wolt | Store Operations Associate - Piraeus
+
+- [ ] https://jobs.ashbyhq.com/harvey/b02d1d3d-de3a-4133-867c-da948b16ecb6 | Harvey | Recruiting Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/eb134812-9960-444b-82a4-188169942462 | Airwallex | Global Lead, Influencer/Social Media Marketing Strategy (Relocation to Singapore)
+- [ ] https://jobs.ashbyhq.com/deliveroo/15803485-4a53-4e91-af1d-14cfc1677cad | Deliveroo | Commercial & Strategy Manager - Sheffield & Lincoln
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7985544 | Adyen | Business Analyst - Operations
+- [ ] https://jobs.ashbyhq.com/mollie/e6f792da-14d3-4a60-8e33-96700f00006f | Mollie | Analytics Engineer - Revenue Operations
