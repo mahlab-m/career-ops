@@ -981,3 +981,16 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/15803485-4a53-4e91-af1d-14cfc1677cad | Deliveroo | Commercial & Strategy Manager - Sheffield & Lincoln
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7985544 | Adyen | Business Analyst - Operations
 - [ ] https://jobs.ashbyhq.com/mollie/e6f792da-14d3-4a60-8e33-96700f00006f | Mollie | Analytics Engineer - Revenue Operations
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8602768002 | Wayve | Technical Program Manager, Data Operations
+- [ ] https://jobs.ashbyhq.com/harvey/9cd97807-212d-4534-8caa-ffd5b3c0eed8 | Harvey | Recruiting Operations Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8027811 | Monzo | Senior Group Strategy Manager 
+- [ ] https://traderepublic.com/en-de/about?jobId=7782815003&gh_jid=7782815003 | Trade Republic | Office Operations Manager - Paris
+- [ ] https://jobs.ashbyhq.com/mollie/06baf630-1c65-4b77-b7fa-35c65b43447d | Mollie | Analytics Engineer - Revenue Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8027791?gh_jid=8027791 | HelloFresh | Senior Operations Planning Manager (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8027788?gh_jid=8027788 | HelloFresh | Senior Planning Manager (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8027789?gh_jid=8027789 | HelloFresh | Senior Production Planning Manager (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8022977?gh_jid=8022977 | HelloFresh | Senior Recipe Planning Manager - 12 month FTC
+- [ ] https://careers.hellofresh.com/global/en/job/8027790?gh_jid=8027790 | HelloFresh | Senior Site Planning Manager (all genders)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8027473 | Wolt | Manager, Merchant Operations
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6694429 | Wolt | Store Operations Associate - Athens (Multiple locations)
