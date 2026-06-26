@@ -994,3 +994,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8027790?gh_jid=8027790 | HelloFresh | Senior Site Planning Manager (all genders)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8027473 | Wolt | Manager, Merchant Operations
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6694429 | Wolt | Store Operations Associate - Athens (Multiple locations)
+
+- [ ] https://jobs.ashbyhq.com/harvey/9395df88-284f-4c6d-8786-f4e27536bbdf | Harvey | GTM Strategy and Operations, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/bcb57c13-eb99-4658-bfcc-fcfdbde0220d | Harvey | Recruiting Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/7bef59e5-5498-4483-9e46-37c750c6a694 | Airwallex | (Associate) Director, Commercial Risk Strategy
+- [ ] https://jobs.ashbyhq.com/multiverse/c44d44ea-24e0-46a1-9f9b-78b8eb5b1734 | Multiverse | POD Operations Specialist
+- [ ] https://n26.com/en-eu/careers/positions/8010282?gh_jid=8010282 | N26 | Regulatory Operations Analyst
+- [ ] https://jobs.ashbyhq.com/pleo/34fc4fd1-713f-4c29-b1bf-642a50be2e0b | Pleo | Director, GTM Operations
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4897216101 | Tamara | Business Development Specialist
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4895277101 | Tamara | Collections Operations Associate 
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7778957003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
