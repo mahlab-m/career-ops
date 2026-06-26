@@ -1004,3 +1004,5 @@
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4897216101 | Tamara | Business Development Specialist
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4895277101 | Tamara | Collections Operations Associate 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7778957003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7783027003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
