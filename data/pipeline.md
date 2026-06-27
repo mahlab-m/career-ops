@@ -1006,3 +1006,9 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7778957003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7783027003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
+
+- [ ] https://jobs.ashbyhq.com/synthesia/b073c9cc-3053-47e7-b4c1-7a471d4c6ffe | Synthesia | Revenue Operations Specialist - Solutions & Services
+- [ ] https://jobs.ashbyhq.com/checkout.com/d2cfbb98-19a1-4a67-a49a-9e4cc6ce531e | Checkout.com | Revenue Operations Specialist
+- [ ] https://jobs.ashbyhq.com/multiverse/5a2c95d5-893e-4169-a706-8a421e1f6031 | Multiverse | Degree Senior Operations Specialist
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7783026003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4909075101 | Bitpanda | Specialist, Payment & Risk Operations 
