@@ -1012,3 +1012,10 @@
 - [ ] https://jobs.ashbyhq.com/multiverse/5a2c95d5-893e-4169-a706-8a421e1f6031 | Multiverse | Degree Senior Operations Specialist
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7783026003 | Remote | Senior Manager, Global Payroll Strategy and Compliance
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4909075101 | Bitpanda | Specialist, Payment & Risk Operations 
+
+- [ ] https://jobs.ashbyhq.com/multiverse/f678fe12-cb69-44c0-aa70-6252777a597c | Multiverse | Head of Data Operations
+- [ ] https://jobs.ashbyhq.com/alan/b6f54b03-7683-4428-b412-a4527c54e8d6 | Alan | Revenue Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8034947?gh_jid=8034947 | HelloFresh | Head of Operations (f/m/x)
+- [ ] https://jobs.lever.co/palantir/a00e136e-7a65-4196-be22-cbd523706597 | Palantir | Site Reliability Operations Analyst
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7522465 | Wolt | Ads Operations Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6693749 | Wolt | Store Operations Associate - Ampelokipoi
