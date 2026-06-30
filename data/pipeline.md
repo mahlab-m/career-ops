@@ -1019,3 +1019,5 @@
 - [ ] https://jobs.lever.co/palantir/a00e136e-7a65-4196-be22-cbd523706597 | Palantir | Site Reliability Operations Analyst
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/7522465 | Wolt | Ads Operations Specialist
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6693749 | Wolt | Store Operations Associate - Ampelokipoi
+
+- [ ] https://careers.hellofresh.com/global/en/job/8030076?gh_jid=8030076 | HelloFresh | Senior CRM Strategy Manager, Reactivations (all genders)
