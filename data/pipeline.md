@@ -1021,3 +1021,15 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6693749 | Wolt | Store Operations Associate - Ampelokipoi
 
 - [ ] https://careers.hellofresh.com/global/en/job/8030076?gh_jid=8030076 | HelloFresh | Senior CRM Strategy Manager, Reactivations (all genders)
+
+- [ ] https://jobs.ashbyhq.com/airwallex/150a94e9-5603-46b9-a1fe-bd7415ae64b3 | Airwallex | Senior Associate, Revenue Strategy & Enablement, EMEA
+- [ ] https://jobs.ashbyhq.com/airwallex/167c2a28-268d-4df4-a00b-5470c90302c5 | Airwallex | Manager, Revenue Strategy & Enablement, EMEA 
+- [ ] https://complyadvantage.com/careers/jobs/8613225002?gh_jid=8613225002 | ComplyAdvantage | Financial Strategy Analyst
+- [ ] https://complyadvantage.com/careers/jobs/8613378002?gh_jid=8613378002 | ComplyAdvantage | Senior Financial Strategy Analyst
+- [ ] https://jobs.ashbyhq.com/deliveroo/4e3f0cca-b124-4280-a5a2-0b73ad013250 | Deliveroo | Operations Manager, Merchant Capital, Packaging & Partnerships
+- [ ] https://n26.com/en-eu/careers/positions/7921158?gh_jid=7921158 | N26 | Strategy & Operations - Associate - Payments
+- [ ] https://sumup.com/careers/positions/8613598002?gh_jid=8613598002 | SumUp | Senior Operating Partner - People Strategy 
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7953778 | Adyen | AI & Innovation Lead, Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7988505 | Adyen | Payment Risk Operations Analyst
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7788415003?gh_jid=7788415003 | Celonis | Application Product Manager - (AI System Transformations)
+- [ ] https://jobs.ashbyhq.com/alan/b244bd28-e945-4b94-b1c2-01b87e3a7716 | Alan | Finance & Strategy
