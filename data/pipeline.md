@@ -1033,3 +1033,9 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7988505 | Adyen | Payment Risk Operations Analyst
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7788415003?gh_jid=7788415003 | Celonis | Application Product Manager - (AI System Transformations)
 - [ ] https://jobs.ashbyhq.com/alan/b244bd28-e945-4b94-b1c2-01b87e3a7716 | Alan | Finance & Strategy
+
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7820051 | Adyen | AI Transformation Manager - Finance
+- [ ] https://jobs.ashbyhq.com/alan/26be11a6-6662-4366-96be-f9fe2d49dce6 | Alan | Operations Coordinator - Recruitment day 
+- [ ] https://jobs.lever.co/pigment/b0e6f446-27dd-40d2-a89a-327cf5146314 | Pigment | Business Transformation Advisory
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8034783 | Wolt | Business Development Manager - Commerce Platform
+- [ ] https://jobs.lever.co/qonto/b6fe585e-008b-4eba-9f78-930ad268ef8a | Qonto | Senior Strategic Finance Business Partner
