@@ -1039,3 +1039,20 @@
 - [ ] https://jobs.lever.co/pigment/b0e6f446-27dd-40d2-a89a-327cf5146314 | Pigment | Business Transformation Advisory
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8034783 | Wolt | Business Development Manager - Commerce Platform
 - [ ] https://jobs.lever.co/qonto/b6fe585e-008b-4eba-9f78-930ad268ef8a | Qonto | Senior Strategic Finance Business Partner
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8615214002 | Wayve | Data Scientist, Fleet Operations 
+- [ ] https://jobs.ashbyhq.com/harvey/55c35944-0806-436b-82bc-8f9dccb4fec6 | Harvey | Technical User Operations Specialist, Weekend Coverage (Tue–Sat), EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/db389182-c8c3-41a5-a88e-b973080c5330 | Harvey | Technical User Operations Specialist, Weekend Coverage (Sun-Thur), EMEA
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8043038 | Monzo | Financial Health Strategy Manager 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8018587 | Monzo | Product Operations Manager, Fixed Term Contract
+- [ ] https://jobs.ashbyhq.com/deliveroo/e54ee00a-684a-4631-86a7-f101e57cda2d | Deliveroo | People Transformation Strategist
+- [ ] https://n26.com/en-eu/careers/positions/8043584?gh_jid=8043584 | N26 | Steering & Planning Associate - Payments
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4304220009 | Oura | Staff Program Manager, Enterprise Data Transformation
+- [ ] https://jobs.ashbyhq.com/mollie/94770c5e-4d62-4477-8354-8a919859c98a | Mollie | Business Transformation Specialist
+- [ ] https://jobs.ashbyhq.com/alan/b39aafcf-ab39-463c-b10a-271de9f948fa | Alan | Operations Coordinator - Recruitment day in Bordeaux
+- [ ] https://getyourguide.careers/jobs/8043523?gh_jid=8043523 | GetYourGuide | Freelance Localization Operations Coordinator
+- [ ] https://getyourguide.careers/jobs/8016369?gh_jid=8016369 | GetYourGuide | Head of Strategy and Operations — Partnerships
+- [ ] https://getyourguide.careers/jobs/8041576?gh_jid=8041576 | GetYourGuide | Marketing Operations Project Manager
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8593568002 | Solaris | Operations Program Working Student
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8041684 | Wolt | Retail Operations Excellence Manager
+- [ ] https://jobs.lever.co/qonto/043279bd-c543-4e54-bffa-094c77f4c97b | Qonto | Operations Project Manager - Customer Care
