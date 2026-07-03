@@ -1056,3 +1056,11 @@
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8593568002 | Solaris | Operations Program Working Student
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8041684 | Wolt | Retail Operations Excellence Manager
 - [ ] https://jobs.lever.co/qonto/043279bd-c543-4e54-bffa-094c77f4c97b | Qonto | Operations Project Manager - Customer Care
+
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8043988 | Monzo | Machine Learning Manager, Operations
+- [ ] https://jobs.ashbyhq.com/deliveroo/8bb37933-23d9-4040-9bdc-55dae39d26e0 | Deliveroo | Operations Manager, Fintech & Commercial Partnerships
+- [ ] https://jobs.ashbyhq.com/deliveroo/ed12efb4-bcd1-4857-8908-f761a0fc0a3e | Deliveroo | Operations Manager, Commercial Partnerships & Merchant Solutions
+- [ ] https://jobs.lever.co/qonto/8944a7f7-97c4-4323-983c-22d2a894ab77 | Qonto | Senior Workforce Manager - Capacity Planning & BPO Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/7978795?gh_jid=7978795 | HelloFresh | Associate Director Outbound Sales Operations (all genders)
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8514915002 | Solaris | KYC Operations Working Student (f/m/d) 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8045176 | Wolt | Senior Operations Specialist, New Verticals & Drive Operations
