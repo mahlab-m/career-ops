@@ -1064,3 +1064,6 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7978795?gh_jid=7978795 | HelloFresh | Associate Director Outbound Sales Operations (all genders)
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8514915002 | Solaris | KYC Operations Working Student (f/m/d) 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8045176 | Wolt | Senior Operations Specialist, New Verticals & Drive Operations
+
+- [ ] https://careers.hellofresh.com/global/en/job/8045556?gh_jid=8045556 | HelloFresh | Werkstudent Special Operations (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8035499?gh_jid=8035499 | HelloFresh | Working Student Special Operations (all genders)
