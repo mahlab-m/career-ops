@@ -1067,3 +1067,10 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8045556?gh_jid=8045556 | HelloFresh | Werkstudent Special Operations (all genders)
 - [ ] https://careers.hellofresh.com/global/en/job/8035499?gh_jid=8035499 | HelloFresh | Working Student Special Operations (all genders)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5f748e1f-ec01-48a1-9e07-711f994d2d31 | ElevenLabs | Workplace Operations - New York
+- [ ] https://stripe.com/jobs/search?gh_jid=8044686 | Stripe | Credit Risk Strategy and Analytics
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4296156009 | Oura | Senior Director, Marketing Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8046121 | Adyen | Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce
+- [ ] https://jobs.lever.co/qonto/2a69983f-0210-43f1-8884-010725dd37f5 | Qonto | Banking Operations Manager - Juridical (German market)
+- [ ] https://careers.hellofresh.com/global/en/job/8022989?gh_jid=8022989 | HelloFresh | Planning Executive
