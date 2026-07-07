@@ -1074,3 +1074,10 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8046121 | Adyen | Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce
 - [ ] https://jobs.lever.co/qonto/2a69983f-0210-43f1-8884-010725dd37f5 | Qonto | Banking Operations Manager - Juridical (German market)
 - [ ] https://careers.hellofresh.com/global/en/job/8022989?gh_jid=8022989 | HelloFresh | Planning Executive
+
+- [ ] https://jobs.ashbyhq.com/harvey/8160ade5-68b3-49d5-8147-b7aa48034777 | Harvey | Senior Technical User Operations Specialist, EMEA
+- [ ] https://jobs.ashbyhq.com/deliveroo/08f7747e-64c9-438f-a3ff-24c80da62764 | Deliveroo | Business Development Manager - New Vertical (12 months)
+- [ ] https://jobs.ashbyhq.com/deliveroo/4118ac7e-9735-4548-a57b-1dac29f898bd | Deliveroo | Commercial Finance & Strategy Manager
+- [ ] https://sumup.com/careers/positions/8498283002?gh_jid=8498283002 | SumUp | Commercial Planning Analyst
+- [ ] https://jobs.lever.co/contentsquare/7ac91c8f-245d-4dec-a39d-9c6ae1814d18 | Contentsquare | Workplace Operations & Experience Associate
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8596685002 | Solaris | Cyber Security Engineer (Vulnerability Management & SecOperations)
