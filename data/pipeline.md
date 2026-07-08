@@ -1081,3 +1081,16 @@
 - [ ] https://sumup.com/careers/positions/8498283002?gh_jid=8498283002 | SumUp | Commercial Planning Analyst
 - [ ] https://jobs.lever.co/contentsquare/7ac91c8f-245d-4dec-a39d-9c6ae1814d18 | Contentsquare | Workplace Operations & Experience Associate
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8596685002 | Solaris | Cyber Security Engineer (Vulnerability Management & SecOperations)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613 | ElevenLabs | Billing Operations Manager
+- [ ] https://jobs.ashbyhq.com/omnea/5c8dfae9-91e2-4924-9190-e206e925e84b | Omnea | GTM Enablement & Program Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8039729 | Stripe | Fraud Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/harvey/913be7c3-a8a2-4f27-b7ff-7e7342beb1a1 | Harvey | Senior Technical User Operations Specialist, EMEA
+- [ ] https://jobs.ashbyhq.com/deliveroo/27cf201b-fc51-4fcf-9951-71fa7a19a29e | Deliveroo | Business Development Manager - Paris
+- [ ] https://jobs.ashbyhq.com/deliveroo/47987e3e-bda2-439a-9c9e-790a09394b64 | Deliveroo | Consumer Strategy Manager 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798592003?gh_jid=7798592003 | Celonis | Application Product Manager - AI System Transformations
+- [ ] https://jobs.ashbyhq.com/leapsome/c0666f0f-a4b4-4275-9853-b5285ec08870 | Leapsome | GTM Enablement Manager (d/f/m)
+- [ ] https://jobs.lever.co/blablacar/ea72b9f5-83d1-41f2-83f1-4f2d5031d9bb | BlaBlaCar | Localization Operations Specialist - CDD 4 Months
+- [ ] https://getyourguide.careers/jobs/8048163?gh_jid=8048163 | GetYourGuide | Senior Operations Analyst 
+- [ ] https://careers.hellofresh.com/global/en/job/7963135?gh_jid=7963135 | HelloFresh | Director, Planning Value Stream
+- [ ] https://boards.greenhouse.io/careem/jobs/8578380002?gh_jid=8578380002 | Careem | Operations Assistant - Partner Training
