@@ -1097,3 +1097,11 @@
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7798590003?gh_jid=7798590003 | Celonis | Application Product Manager - AI System Transformations
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8554461002 | Solaris | Head of Transformation & Projects
+
+- [ ] https://jobs.ashbyhq.com/harvey/9a616046-7f0a-44fe-b244-51db6c743220 | Harvey | User Operations Manager, London
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/4309341004 | Mirakl | Enablement Manager, Sales & AI transformation
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7799417003 | Doctolib | Senior Customer Operations Analyst (x/f/m)
+- [ ] https://jobs.ashbyhq.com/deliveroo/1c5380db-628b-4554-968c-eee9710748b8 | Deliveroo | Strategy & Operations Manager - Courier & Logistics
+- [ ] https://jobs.ashbyhq.com/deliveroo/b1f02624-0709-4f76-87cd-d29b885b50ec | Deliveroo | Senior Strategy & Operations Manager - Courier & Logistics (10 month FTC)
+- [ ] https://jobs.ashbyhq.com/deliveroo/d0b68690-6b2e-4fba-bca0-b2eb54a38eb6 | Deliveroo | Business Development Manager - Dubai
+- [ ] https://jobs.ashbyhq.com/deliveroo/e4ee53e6-57bc-414d-ac89-be2135bb9d82 | Deliveroo | Business Development Manager - Dubai 
