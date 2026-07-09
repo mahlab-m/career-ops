@@ -1094,3 +1094,6 @@
 - [ ] https://getyourguide.careers/jobs/8048163?gh_jid=8048163 | GetYourGuide | Senior Operations Analyst 
 - [ ] https://careers.hellofresh.com/global/en/job/7963135?gh_jid=7963135 | HelloFresh | Director, Planning Value Stream
 - [ ] https://boards.greenhouse.io/careem/jobs/8578380002?gh_jid=8578380002 | Careem | Operations Assistant - Partner Training
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798590003?gh_jid=7798590003 | Celonis | Application Product Manager - AI System Transformations
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8554461002 | Solaris | Head of Transformation & Projects
