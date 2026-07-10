@@ -1105,3 +1105,8 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/b1f02624-0709-4f76-87cd-d29b885b50ec | Deliveroo | Senior Strategy & Operations Manager - Courier & Logistics (10 month FTC)
 - [ ] https://jobs.ashbyhq.com/deliveroo/d0b68690-6b2e-4fba-bca0-b2eb54a38eb6 | Deliveroo | Business Development Manager - Dubai
 - [ ] https://jobs.ashbyhq.com/deliveroo/e4ee53e6-57bc-414d-ac89-be2135bb9d82 | Deliveroo | Business Development Manager - Dubai 
+
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/6113645004 | Mirakl | Product Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8035217?gh_jid=8035217 | HelloFresh | [DACH HQ] Working Student Supply Planning
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7799283003 | Remote | GTM Product Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/a18a981f-51f8-441d-a6af-13f1795996f9 | Deliveroo | Rider Onboarding Operations Representative
