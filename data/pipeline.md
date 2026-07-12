@@ -1110,3 +1110,6 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8035217?gh_jid=8035217 | HelloFresh | [DACH HQ] Working Student Supply Planning
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7799283003 | Remote | GTM Product Manager
 - [ ] https://jobs.ashbyhq.com/deliveroo/a18a981f-51f8-441d-a6af-13f1795996f9 | Deliveroo | Rider Onboarding Operations Representative
+
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5333063008 | OpenFX | Head of Business Operations
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5333071008 | OpenFX | Head of Trade Operations
