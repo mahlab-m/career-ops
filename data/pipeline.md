@@ -1113,3 +1113,7 @@
 
 - [ ] https://job-boards.greenhouse.io/openfx/jobs/5333063008 | OpenFX | Head of Business Operations
 - [ ] https://job-boards.greenhouse.io/openfx/jobs/5333071008 | OpenFX | Head of Trade Operations
+
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4309937009 | Oura | Senior Business Systems Analyst, Enterprise Planning (Pigment)
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4917643101 | Tamara | Collection Operations Analyst
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8053785 | Adyen | Head of Operations Analytics
