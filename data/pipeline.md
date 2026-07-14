@@ -1117,3 +1117,12 @@
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4309937009 | Oura | Senior Business Systems Analyst, Enterprise Planning (Pigment)
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4917643101 | Tamara | Collection Operations Analyst
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8053785 | Adyen | Head of Operations Analytics
+
+- [ ] https://jobs.ashbyhq.com/harvey/6080d202-434c-402a-83b6-ac4b0816296a | Harvey | Corporate Business Development Manager, Data
+- [ ] https://stripe.com/jobs/search?gh_jid=8055659 | Stripe | Risk Operations Program Manager
+- [ ] https://n26.com/en-eu/careers/positions/8053326?gh_jid=8053326 | N26 | Banking Operations - Claims Specialist German market
+- [ ] https://n26.com/en-eu/careers/positions/8053334?gh_jid=8053334 | N26 | Banking Operations - Claims Specialist Italian market
+- [ ] https://n26.com/en-eu/careers/positions/8053226?gh_jid=8053226 | N26 | Banking Operations Specialist - Account & Customer Data (Fluent German)
+- [ ] https://careers.hellofresh.com/global/en/job/8064177?gh_jid=8064177 | HelloFresh | Head of Warehouse Operations (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8064793?gh_jid=8064793 | HelloFresh | Senior Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/c9530b3b-1716-4395-9731-d8f306b9f39d | Deliveroo | Commercial Strategy Associate
