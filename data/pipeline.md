@@ -1126,3 +1126,14 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8064177?gh_jid=8064177 | HelloFresh | Head of Warehouse Operations (f/m/x)
 - [ ] https://careers.hellofresh.com/global/en/job/8064793?gh_jid=8064793 | HelloFresh | Senior Operations Manager
 - [ ] https://jobs.ashbyhq.com/deliveroo/c9530b3b-1716-4395-9731-d8f306b9f39d | Deliveroo | Commercial Strategy Associate
+
+- [ ] https://jobs.ashbyhq.com/omnea/3c359c5d-99de-47c6-b73d-bcd47e60af52 | Omnea | Chief of Staff, Special Projects
+- [ ] https://stripe.com/jobs/search?gh_jid=8065643 | Stripe | Head of Marketing Operations
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/8066856 | GoCardless | Security Operations Analyst
+- [ ] https://jobs.ashbyhq.com/checkout.com/8f7f8aa5-6f56-4dfa-aff9-c6176048095e | Checkout.com | Enterprise Business Development Analyst
+- [ ] https://n26.com/en-eu/careers/positions/8053216?gh_jid=8053216 | N26 | Banking Operations Specialist - Account & Customer Data (Fluent Italian and Spanish)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7793643003 | Doctolib | Senior AI Specialist (Operations) (x/f/m)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7752947003 | Doctolib | Senior AI Specialist - Sales Operations (x/f/m)
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5292885008 | OpenFX | Compliance Operations Lead
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8064346 | Wolt | Retail Expansion Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8053111 | Wolt | Working Student - Retail Sales Operations
