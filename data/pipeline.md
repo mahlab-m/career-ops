@@ -1137,3 +1137,6 @@
 - [ ] https://job-boards.greenhouse.io/openfx/jobs/5292885008 | OpenFX | Compliance Operations Lead
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8064346 | Wolt | Retail Expansion Manager
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8053111 | Wolt | Working Student - Retail Sales Operations
+
+- [ ] https://jobs.ashbyhq.com/deliveroo/1e3e5acf-7a96-4ede-849d-9cecc5798f40 | Deliveroo | Business Development Manager - Paris - CDD
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7993119 | Adyen | Senior Vertical Strategy Manager, Hospitality
