@@ -1140,3 +1140,11 @@
 
 - [ ] https://jobs.ashbyhq.com/deliveroo/1e3e5acf-7a96-4ede-849d-9cecc5798f40 | Deliveroo | Business Development Manager - Paris - CDD
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7993119 | Adyen | Senior Vertical Strategy Manager, Hospitality
+
+- [ ] https://jobs.ashbyhq.com/checkout.com/341d50f9-933d-45c2-b251-7a4de201c992 | Checkout.com | Analyst II, Risk Operations (Japanese speaker)
+- [ ] https://jobs.ashbyhq.com/deliveroo/281024bc-f267-483c-8118-5b69c11ed3d5 | Deliveroo | Analyst, Regional Security Operations Center
+- [ ] https://jobs.ashbyhq.com/deliveroo/3551fbef-2744-4f72-bac1-d16d7a238ce6 | Deliveroo | Senior Strategy & Operations Manager 
+- [ ] https://jobs.ashbyhq.com/lovable/137430f8-bc5c-4c79-a8fb-08bb528fa6b2 | Multiline / Lovable | Corporate Development Lead
+- [ ] https://getyourguide.careers/jobs/8066995?gh_jid=8066995 | GetYourGuide | Senior Sales Operations Manager
+- [ ] https://getyourguide.careers/jobs/8066983?gh_jid=8066983 | GetYourGuide | Senior Strategy Manager
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8060100 | Wolt | Store Operations Associate - Stavroupoli
