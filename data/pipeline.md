@@ -1148,3 +1148,10 @@
 - [ ] https://getyourguide.careers/jobs/8066995?gh_jid=8066995 | GetYourGuide | Senior Sales Operations Manager
 - [ ] https://getyourguide.careers/jobs/8066983?gh_jid=8066983 | GetYourGuide | Senior Strategy Manager
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8060100 | Wolt | Store Operations Associate - Stavroupoli
+
+- [ ] https://jobs.ashbyhq.com/airwallex/6585fb9d-138c-4cb6-b871-7672b253965a | Airwallex | Manager, Revenue Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/d0ee1c45-2b64-4abe-ad5c-75e0efd8d91e | Airwallex | Manager, Revenue Strategy & Operations, UK & Europe
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/a7ac4933-ecb5-43c9-b5e9-d188e89f8114 | iwoca | Business Development Executive
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8018041 | Adyen | Senior Vertical Strategy Manager, F&B
+- [ ] https://jobs.lever.co/spotify/a094768f-03ff-4361-9418-ab6834f871fb | Spotify | Head, Markets Strategy & Operations APAC
+- [ ] https://stripe.com/jobs/search?gh_jid=8060391 | Stripe | Strategy & Ops, Intercept
