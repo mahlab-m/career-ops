@@ -1155,3 +1155,11 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8018041 | Adyen | Senior Vertical Strategy Manager, F&B
 - [ ] https://jobs.lever.co/spotify/a094768f-03ff-4361-9418-ab6834f871fb | Spotify | Head, Markets Strategy & Operations APAC
 - [ ] https://stripe.com/jobs/search?gh_jid=8060391 | Stripe | Strategy & Ops, Intercept
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8044391 | Stripe | Strategy and Operations Lead, Deal Pricing
+- [ ] https://jobs.ashbyhq.com/harvey/e2166814-1a5a-4f20-b077-9e994146c7d1 | Harvey | Strategy Associate
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8076898 | Monzo | FinCrime and Fraud Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/f895f4ce-a2af-4bc5-94b4-ebc4efddc510 | Airwallex | Senior Manager, Merchant Risk Operations, APAC
+- [ ] https://complyadvantage.com/careers/jobs/8642361002?gh_jid=8642361002 | ComplyAdvantage | GTM Planning and Analysis Lead
+- [ ] https://jobs.ashbyhq.com/DeepL/5daf5fcb-b165-45bd-91ca-7cfc09b9110f | DeepL | Outbound Business Development Representitive | EMEA - Italian Speaking
+- [ ] https://jobs.ashbyhq.com/DeepL/7827cc1e-4cd4-4b5d-a266-1aed45b1bca0 | DeepL | Snr Marketing Operations Manager / GTM Engineer
