@@ -1163,3 +1163,19 @@
 - [ ] https://complyadvantage.com/careers/jobs/8642361002?gh_jid=8642361002 | ComplyAdvantage | GTM Planning and Analysis Lead
 - [ ] https://jobs.ashbyhq.com/DeepL/5daf5fcb-b165-45bd-91ca-7cfc09b9110f | DeepL | Outbound Business Development Representitive | EMEA - Italian Speaking
 - [ ] https://jobs.ashbyhq.com/DeepL/7827cc1e-4cd4-4b5d-a266-1aed45b1bca0 | DeepL | Snr Marketing Operations Manager / GTM Engineer
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8039423 | Stripe | Operations Program Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8053517 | Stripe | Privacy Operations Program Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8076935 | Monzo | FinCrime & Fraud Operations Investigator   
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8059557 | Monzo | Product Operations Lead - Monzo Mobile
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7622277 | Monzo | Staff Product Designer, Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/b3a8fc74-ec1b-4abf-9742-bbac0d6e3e6b | Airwallex | IT Operations Support Lead
+- [ ] https://n26.com/en-eu/careers/positions/7996650?gh_jid=7996650 | N26 | Senior Product Manager - Operations Automation & Enablement (OAE)
+- [ ] https://jobs.ashbyhq.com/deliveroo/ec686a5b-4c5d-4114-9ac2-556ff9a1c35d | Deliveroo | Strategy and Operations| Senior Manager - New Partner Experience (NPX)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7597783 | Adyen | Content Operations Manager
+- [ ] https://jobs.ashbyhq.com/mollie/1bb9f4e2-bc29-4050-afe2-c16796971ef5 | Mollie | Analytics Engineering Manager - RevOps
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8016369 | GetYourGuide | Head of Strategy and Operations — Partnerships
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066995 | GetYourGuide | Senior Sales Operations Manager
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066983 | GetYourGuide | Senior Strategy Manager
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8645128002 | Solaris | Seizures Operations Working Student
+- [ ] https://boards.greenhouse.io/careem/jobs/8640594002?gh_jid=8640594002 | Careem | Senior Shops Operations Lead
