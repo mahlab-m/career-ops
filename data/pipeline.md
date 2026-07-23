@@ -1179,3 +1179,7 @@
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066983 | GetYourGuide | Senior Strategy Manager
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8645128002 | Solaris | Seizures Operations Working Student
 - [ ] https://boards.greenhouse.io/careem/jobs/8640594002?gh_jid=8640594002 | Careem | Senior Shops Operations Lead
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1c42850d-77e7-4c0d-b3ca-de219a612a1a | ElevenLabs | GTM Enablement - Global Lead
+- [ ] https://n26.com/en-eu/careers/positions/7996996?gh_jid=7996996 | N26 | Senior Product Manager - Operations Automation & Enablement (OAE)
+- [ ] https://careers.hellofresh.com/global/en/job/7694661?gh_jid=7694661 | HelloFresh | Senior Manager, Global Price & Discount Strategy
