@@ -1183,3 +1183,10 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/1c42850d-77e7-4c0d-b3ca-de219a612a1a | ElevenLabs | GTM Enablement - Global Lead
 - [ ] https://n26.com/en-eu/careers/positions/7996996?gh_jid=7996996 | N26 | Senior Product Manager - Operations Automation & Enablement (OAE)
 - [ ] https://careers.hellofresh.com/global/en/job/7694661?gh_jid=7694661 | HelloFresh | Senior Manager, Global Price & Discount Strategy
+
+- [ ] https://jobs.ashbyhq.com/harvey/57d9d213-71d9-44a7-bbd2-281f302d5d6c | Harvey | User Operations Team Lead, London
+- [ ] https://sumup.com/careers/positions/8596505002?gh_jid=8596505002 | SumUp | AI Experience Lead - Operations
+- [ ] https://sumup.com/careers/positions/8630996002?gh_jid=8630996002 | SumUp | CRM Manager - Operations
+- [ ] https://sumup.com/careers/positions/8630995002?gh_jid=8630995002 | SumUp | CRM Manager - Strategy 
+- [ ] https://jobs.ashbyhq.com/deliveroo/389b6680-6ff5-4659-b0af-1995e26b3474 | Deliveroo | Senior Integrated Marketing Strategy & Planning Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8074262?gh_jid=8074262 | HelloFresh | Senior Planning Manager
