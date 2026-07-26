@@ -1190,3 +1190,5 @@
 - [ ] https://sumup.com/careers/positions/8630995002?gh_jid=8630995002 | SumUp | CRM Manager - Strategy 
 - [ ] https://jobs.ashbyhq.com/deliveroo/389b6680-6ff5-4659-b0af-1995e26b3474 | Deliveroo | Senior Integrated Marketing Strategy & Planning Manager
 - [ ] https://careers.hellofresh.com/global/en/job/8074262?gh_jid=8074262 | HelloFresh | Senior Planning Manager
+
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8083680 | Wolt | Operations Associate, Courier Onboarding
