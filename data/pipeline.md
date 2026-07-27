@@ -1192,3 +1192,9 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8074262?gh_jid=8074262 | HelloFresh | Senior Planning Manager
 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8083680 | Wolt | Operations Associate, Courier Onboarding
+
+- [ ] https://jobs.ashbyhq.com/airwallex/6872cf44-07a5-4377-a7bb-f81c67bbab61 | Airwallex | Senior Manager, Strategy & Operations CEO Office
+- [ ] https://jobs.ashbyhq.com/deliveroo/a8b2c8d7-60bd-4178-bb4f-e9a52348bb29 | Deliveroo | Strategy & Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8074260?gh_jid=8074260 | HelloFresh | Planning Manager
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4934566101 | Tamara | Collections Operations Lead
+- [ ] https://stripe.com/jobs/search?gh_jid=8081423 | Stripe | Product Strategy & Operations 
