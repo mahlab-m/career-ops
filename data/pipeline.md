@@ -1198,3 +1198,9 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8074260?gh_jid=8074260 | HelloFresh | Planning Manager
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4934566101 | Tamara | Collections Operations Lead
 - [ ] https://stripe.com/jobs/search?gh_jid=8081423 | Stripe | Product Strategy & Operations 
+
+- [ ] https://www.dojo.careers/jobs/4939445101/?gh_jid=4939445101 | Dojo | Outsourcing and Operations Manager
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/76ddf6c5-5ed2-4b01-bb40-1f096a399aa2 | iwoca | Commercial Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/moss/9201245b-9e9a-4281-80b4-3f90a2b9df01 | Moss | Associate Business Development (Partnerships) Manager - GER
+- [ ] https://sumup.com/careers/positions/8653465002?gh_jid=8653465002 | SumUp | Head of Tax Strategy
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7816945003 | Remote | Senior IT Operations Engineer
