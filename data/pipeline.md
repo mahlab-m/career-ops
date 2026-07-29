@@ -1204,3 +1204,17 @@
 - [ ] https://jobs.ashbyhq.com/moss/9201245b-9e9a-4281-80b4-3f90a2b9df01 | Moss | Associate Business Development (Partnerships) Manager - GER
 - [ ] https://sumup.com/careers/positions/8653465002?gh_jid=8653465002 | SumUp | Head of Tax Strategy
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7816945003 | Remote | Senior IT Operations Engineer
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/490897d3-5c62-46d8-b26a-806ed60c7940 | ElevenLabs | Workplace Operations - Warsaw
+- [ ] https://stripe.com/jobs/search?gh_jid=7811937 | Stripe | Risk Strategist, Platform Risk Strategy
+- [ ] https://jobs.ashbyhq.com/apron/2b4f4d1b-070b-4155-8964-ddfd03ae757b | Apron | Revenue Operations Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8094175 | Monzo | Payment Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/ccb1fbf7-561d-4213-8211-6ec0e54e0711 | Deliveroo | Senior Associate, GTM  
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820048003?gh_jid=7820048003 | Celonis | Client Account Lead - Strategy & Transformation (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820049003?gh_jid=7820049003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820123003?gh_jid=7820123003 | Celonis | GTM Program Manager
+- [ ] https://sumup.com/careers/positions/8653644002?gh_jid=8653644002 | SumUp | Head of Tax Strategy
+- [ ] https://jobs.ashbyhq.com/n8n/dbd4904a-6ad3-4aac-9451-a71ed39c2563 | n8n | Strategy & Operations Manager - Partnerships
+- [ ] https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795 | Palantir | Workplace Operations Analyst
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7819051003 | Remote | Senior IT Operations Engineer
+- [ ] https://jobs.ashbyhq.com/wayflyer/afd938ad-18db-456c-8f4c-681f18fa863c | Wayflyer | Credit Strategy Principal 
