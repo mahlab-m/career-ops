@@ -1218,3 +1218,13 @@
 - [ ] https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795 | Palantir | Workplace Operations Analyst
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7819051003 | Remote | Senior IT Operations Engineer
 - [ ] https://jobs.ashbyhq.com/wayflyer/afd938ad-18db-456c-8f4c-681f18fa863c | Wayflyer | Credit Strategy Principal 
+
+- [ ] https://jobs.ashbyhq.com/harvey/5cb453a8-664e-48a6-98b4-a44ee12bf59f | Harvey | Technical User Operations Specialist – EMEA (Wed–Sun)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7821236003 | Tide | Business Development Executive - French Speaking
+- [ ] https://jobs.ashbyhq.com/deliveroo/4021781c-9faf-4a99-8c6b-89bb638eb6f8 | Deliveroo | Finance & Strategy Manager – Support Operations & Quality
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820050003?gh_jid=7820050003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4339725009 | Oura |  Director of Sales Operations
+- [ ] https://sumup.com/careers/positions/8125743002?gh_jid=8125743002 | SumUp | Business Development Manager - Leinster
+- [ ] https://careers.hellofresh.com/global/en/job/8074258?gh_jid=8074258 | HelloFresh | Planning Executive
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/6694813 | Wolt | Store Operations Associate - Heraklion (Crete)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7821221003 | Doctolib | Strategy Lead Key Account (x/f/m)
