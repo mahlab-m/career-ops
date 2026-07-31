@@ -1228,3 +1228,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8074258?gh_jid=8074258 | HelloFresh | Planning Executive
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/6694813 | Wolt | Store Operations Associate - Heraklion (Crete)
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7821221003 | Doctolib | Strategy Lead Key Account (x/f/m)
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8094087 | Stripe | Privacy Operations Program Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b70ef87c-ca51-44e0-8af2-9d874d6634cc | ElevenLabs | Head of GTM Enablement - Global Lead
+- [ ] https://jobs.ashbyhq.com/airwallex/af1cca64-8fc4-4d7f-abed-a07cb5152b60 | Airwallex | Manager, Financial Operations (Reconciliation)
+- [ ] https://jobs.ashbyhq.com/checkout.com/82ec732c-ffb1-4c60-825e-a2c6203ad1a8 | Checkout.com | Head of Strategic Planning
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/5707ce1e-9098-4851-978e-001c2eebaf34 | iwoca | Growth Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/deliveroo/4413a037-267e-45ee-b519-7eaba9cd616c | Deliveroo | Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/9d50be7f-6e12-4b89-b3c5-1bef564a4e51 | Deliveroo | Value and Promotional Strategy Manager, UKI
+- [ ] https://sumup.com/careers/positions/8648929002?gh_jid=8648929002 | SumUp | Team Lead - Consumer for Operations (Talent Pool)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8096926 | Wolt | Strategy & Operations Manager - B2B
