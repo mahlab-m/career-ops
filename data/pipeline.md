@@ -1238,3 +1238,14 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/9d50be7f-6e12-4b89-b3c5-1bef564a4e51 | Deliveroo | Value and Promotional Strategy Manager, UKI
 - [ ] https://sumup.com/careers/positions/8648929002?gh_jid=8648929002 | SumUp | Team Lead - Consumer for Operations (Talent Pool)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8096926 | Wolt | Strategy & Operations Manager - B2B
+
+- [ ] https://jobs.ashbyhq.com/omnea/77119e04-a6e0-43f6-87cd-af5fbe814386 | Omnea | Legal Operations Manager (3-6m Contract)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8103509 | Monzo | Lead Machine Learning Scientist, Customer Operations
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8103461 | Monzo | Senior Machine Learning Scientist, Customer Operations
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4314676009 | Oura | Senior Manager, Global P2P Accounting Operations
+- [ ] https://sumup.com/careers/positions/8658514002?gh_jid=8658514002 | SumUp | KYC Operations Agent with Dutch
+- [ ] https://sumup.com/careers/positions/8658510002?gh_jid=8658510002 | SumUp | KYC Operations Agent with German
+- [ ] https://sumup.com/careers/positions/8637379002?gh_jid=8637379002 | SumUp | Product Operations Specialist
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/532f201f-426a-42aa-a7b0-35ba6db0e4bc | iwoca | Product Strategy Analyst 
+- [ ] https://careers.hellofresh.com/global/en/job/8092438?gh_jid=8092438 | HelloFresh | IT Operations Engineer, Intelligent Platforms Alliance
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4926460101 | Raisin | (Senior) Custody Operations Manager (f/m/d)
