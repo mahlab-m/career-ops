@@ -1249,3 +1249,14 @@
 - [ ] https://jobs.ashbyhq.com/iwoca.co.uk/532f201f-426a-42aa-a7b0-35ba6db0e4bc | iwoca | Product Strategy Analyst 
 - [ ] https://careers.hellofresh.com/global/en/job/8092438?gh_jid=8092438 | HelloFresh | IT Operations Engineer, Intelligent Platforms Alliance
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4926460101 | Raisin | (Senior) Custody Operations Manager (f/m/d)
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7974211 | Stripe | Risk Operations Analyst, Financial Crimes
+- [ ] https://jobs.ashbyhq.com/checkout.com/2fcb5327-577d-4929-bb2a-6bef43262178 | Checkout.com | Senior Manager, Pricing Strategy
+- [ ] https://jobs.ashbyhq.com/deliveroo/33d5f7a4-c9b0-4d03-a25c-0b80dccb35e7 | Deliveroo | Operations Associate - Retail
+- [ ] https://jobs.ashbyhq.com/deliveroo/27e13a1b-ff84-4cfc-8182-f452084ceed8 | Deliveroo | UKI Promotions & Value Strategy Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer)! - Scale Team
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8101733 | Wolt | Operations Analyst, Pricing & Efficiency
+- [ ] https://jobs.lever.co/pigment/c168d590-cf29-42d2-897d-12eb3fd87a38 | Pigment | Business Development Manager DACH
+- [ ] https://jobs.lever.co/pigment/f4501782-56ae-4373-8ca2-355cb050acf2 | Pigment | Learning Operations Manager
