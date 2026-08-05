@@ -1260,3 +1260,6 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8101733 | Wolt | Operations Analyst, Pricing & Efficiency
 - [ ] https://jobs.lever.co/pigment/c168d590-cf29-42d2-897d-12eb3fd87a38 | Pigment | Business Development Manager DACH
 - [ ] https://jobs.lever.co/pigment/f4501782-56ae-4373-8ca2-355cb050acf2 | Pigment | Learning Operations Manager
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8109426 | Stripe | Operations Program Manager, Tax
+- [ ] https://jobs.ashbyhq.com/n8n/4e0f0f7b-3924-47d9-a50e-3cb2900b7b82 | n8n | Senior FP&A Manager GTM
