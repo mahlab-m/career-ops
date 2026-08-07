@@ -1263,3 +1263,6 @@
 
 - [ ] https://stripe.com/jobs/search?gh_jid=8109426 | Stripe | Operations Program Manager, Tax
 - [ ] https://jobs.ashbyhq.com/n8n/4e0f0f7b-3924-47d9-a50e-3cb2900b7b82 | n8n | Senior FP&A Manager GTM
+
+- [ ] https://jobs.ashbyhq.com/relay/fcc2191c-c61d-463a-afdd-32a5ac6ffcda | Relay Technologies | Senior Business Development Executive
+- [ ] https://jobs.ashbyhq.com/pleo/7fcc18fb-cd45-41e3-8e7b-34233e7d1528 | Pleo | Director, Finance Business Partnering / GTM
