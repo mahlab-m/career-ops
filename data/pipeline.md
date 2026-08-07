@@ -1266,3 +1266,11 @@
 
 - [ ] https://jobs.ashbyhq.com/relay/fcc2191c-c61d-463a-afdd-32a5ac6ffcda | Relay Technologies | Senior Business Development Executive
 - [ ] https://jobs.ashbyhq.com/pleo/7fcc18fb-cd45-41e3-8e7b-34233e7d1528 | Pleo | Director, Finance Business Partnering / GTM
+
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8113842 | Monzo | Senior Audit Transformation Lead
+- [ ] https://jobs.ashbyhq.com/airwallex/f3cb600d-1e4d-4150-a519-94ca59668d74 | Airwallex | Head of Onboarding & FinCrime Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/b8796b93-6cf4-4621-9db2-2db949ef0200 | Airwallex | Head of Risk Operations
+- [ ] https://n26.com/en-eu/careers/positions/8105087?gh_jid=8105087 | N26 | Planning Analyst
+- [ ] https://jobs.ashbyhq.com/deliveroo/e63c8aee-231b-4f41-9768-a64d58b3e588 | Deliveroo | Business Development Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8096274?gh_jid=8096274 | HelloFresh | Indirect Procurement Manager – Operations (All genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8105337?gh_jid=8105337 | HelloFresh | Senior Product Manager II, Menu Planning (all genders)  
