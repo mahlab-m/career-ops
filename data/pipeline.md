@@ -1274,3 +1274,6 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/e63c8aee-231b-4f41-9768-a64d58b3e588 | Deliveroo | Business Development Manager
 - [ ] https://careers.hellofresh.com/global/en/job/8096274?gh_jid=8096274 | HelloFresh | Indirect Procurement Manager – Operations (All genders)
 - [ ] https://careers.hellofresh.com/global/en/job/8105337?gh_jid=8105337 | HelloFresh | Senior Product Manager II, Menu Planning (all genders)  
+
+- [ ] https://jobs.ashbyhq.com/airwallex/656f2976-7bf2-4c2c-bad2-e197597a56cc | Airwallex | Head of Risk Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/a71a91be-2847-4d47-ab2c-5927ffa2a0ab | Airwallex | Head of Onboarding & FinCrime Operations
