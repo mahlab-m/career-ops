@@ -1277,3 +1277,7 @@
 
 - [ ] https://jobs.ashbyhq.com/airwallex/656f2976-7bf2-4c2c-bad2-e197597a56cc | Airwallex | Head of Risk Operations
 - [ ] https://jobs.ashbyhq.com/airwallex/a71a91be-2847-4d47-ab2c-5927ffa2a0ab | Airwallex | Head of Onboarding & FinCrime Operations
+
+- [ ] https://jobs.ashbyhq.com/checkout.com/b00cc793-f4c8-4859-935c-d5eb0c4d0a07 | Checkout.com | Senior Specialist, Issuing Operations 
+- [ ] https://jobs.ashbyhq.com/deliveroo/3cef44c1-85bf-4544-b8cd-ddf54f87edb5 | Deliveroo | Business Development Manager - Montpellier - CDI
+- [ ] https://jobs.ashbyhq.com/forto/e40de005-a532-4e3a-b381-1b9fe895612b | Forto | Operations Specialist - Poland (f/m/d)
