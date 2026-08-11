@@ -1281,3 +1281,10 @@
 - [ ] https://jobs.ashbyhq.com/checkout.com/b00cc793-f4c8-4859-935c-d5eb0c4d0a07 | Checkout.com | Senior Specialist, Issuing Operations 
 - [ ] https://jobs.ashbyhq.com/deliveroo/3cef44c1-85bf-4544-b8cd-ddf54f87edb5 | Deliveroo | Business Development Manager - Montpellier - CDI
 - [ ] https://jobs.ashbyhq.com/forto/e40de005-a532-4e3a-b381-1b9fe895612b | Forto | Operations Specialist - Poland (f/m/d)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e0fdb2f5-54b4-4dff-813d-2c328d990e4c | ElevenLabs | Chief of Staff GTM - France
+- [ ] https://stripe.com/jobs/search?gh_jid=8042309 | Stripe | Program Manager, GTM Strategic Programs
+- [ ] https://complyadvantage.com/careers/jobs/8695826002?gh_jid=8695826002 | ComplyAdvantage | Senior Financial Strategy Analyst  - 3 Month FTC
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8101509 | Adyen | Strategy & Program Manager, Scaled Account Management
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4945588101 | Raisin | AFC Operations Manager (m/f/d)
+- [ ] https://careers.hellofresh.com/global/en/job/8120152?gh_jid=8120152 | HelloFresh | Werkstudent - Partnerships & Influencer Operations (all genders)
