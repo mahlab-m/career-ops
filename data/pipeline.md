@@ -1288,3 +1288,9 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8101509 | Adyen | Strategy & Program Manager, Scaled Account Management
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4945588101 | Raisin | AFC Operations Manager (m/f/d)
 - [ ] https://careers.hellofresh.com/global/en/job/8120152?gh_jid=8120152 | HelloFresh | Werkstudent - Partnerships & Influencer Operations (all genders)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6797aaec-8471-4af2-ae20-534d7089f734 | ElevenLabs | GTM Chief of Staff - Middle East
+- [ ] https://jobs.ashbyhq.com/deliveroo/3af07dea-47cf-4ec4-9963-b032c4984bb4 | Deliveroo | Business Development Manager 
+- [ ] https://sumup.com/careers/positions/8690965002?gh_jid=8690965002 | SumUp | IT Operations Lead EU
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7827537003?gh_jid=7827537003 | Celonis | GTM Program Manager
+- [ ] https://jobs.ashbyhq.com/pleo/c9142b94-d7c2-4e09-bc3e-3e8e7b8e05bd | Pleo | Lead Security Operations Engineer
