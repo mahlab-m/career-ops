@@ -1294,3 +1294,13 @@
 - [ ] https://sumup.com/careers/positions/8690965002?gh_jid=8690965002 | SumUp | IT Operations Lead EU
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7827537003?gh_jid=7827537003 | Celonis | GTM Program Manager
 - [ ] https://jobs.ashbyhq.com/pleo/c9142b94-d7c2-4e09-bc3e-3e8e7b8e05bd | Pleo | Lead Security Operations Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5385653008 | Anthropic | Commercial Operations Program Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8007639 | Stripe | Strategy & Transformation Advisor (Growth & Monetization specialization)
+- [ ] https://stripe.com/jobs/search?gh_jid=8120185 | Stripe | Workplace Operations Manager - Dublin
+- [ ] https://jobs.ashbyhq.com/airwallex/d575970a-3030-4045-b305-65eee0063c8a | Airwallex | Senior Manager, Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/0848848a-6c8b-4bfc-8a1c-24d109b2a125 | Airwallex | Senior Manager, Strategy & Operations (6-month FTC)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7864044003 | Doctolib | Sales Operations Lead (x/f/m)
+- [ ] https://jobs.ashbyhq.com/pleo/ec0ccfe9-8f21-404a-afba-079573f9ae89 | Pleo | Lead Security Operations Engineer
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4938722101 | Raisin | Working Student Deposit Operations (m/f/d)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7821429003 | Remote | CX Operations Manager, Tooling
