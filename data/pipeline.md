@@ -1304,3 +1304,14 @@
 - [ ] https://jobs.ashbyhq.com/pleo/ec0ccfe9-8f21-404a-afba-079573f9ae89 | Pleo | Lead Security Operations Engineer
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4938722101 | Raisin | Working Student Deposit Operations (m/f/d)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7821429003 | Remote | CX Operations Manager, Tooling
+
+- [ ] https://jobs.ashbyhq.com/checkout.com/84c7658b-a02b-43b0-bdde-a05e77b1deb6 | Checkout.com | Team Leader, Fraud Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/7fcdd08a-659e-404b-954b-2c887ad9ed90 | Checkout.com | Associate, Strategic Planning
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/c8ddeca9-855f-4b90-ad5b-9882c76c7af2 | iwoca | Senior Back-end Engineer - Customer Operations Platform
+- [ ] https://sumup.com/careers/positions/8690955002?gh_jid=8690955002 | SumUp | Commercial Planning Senior Associate
+- [ ] https://sumup.com/careers/positions/8705983002?gh_jid=8705983002 | SumUp | KYC Operations Agent with English
+- [ ] https://sumup.com/careers/positions/8705989002?gh_jid=8705989002 | SumUp | KYC Operations Agent with Spanish
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8124355 | GetYourGuide | Revenue Operations Manager – Inside Sales
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8130260 | GetYourGuide | Senior Data Analyst (Sales & RevOps) 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8129640 | Wolt | Senior Manager, Strategy & Operations, New Verticals – Retail (South and Central)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7828866 | Wolt | Strategy & Operations Manager, Global Support
