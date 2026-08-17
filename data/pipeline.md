@@ -1315,3 +1315,9 @@
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8130260 | GetYourGuide | Senior Data Analyst (Sales & RevOps) 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8129640 | Wolt | Senior Manager, Strategy & Operations, New Verticals – Retail (South and Central)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/7828866 | Wolt | Strategy & Operations Manager, Global Support
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250426008 | Anthropic | Head of Treasury Strategy & Transformation
+- [ ] https://stripe.com/jobs/search?gh_jid=8127890 | Stripe | Program Manager, Performance and Talent Planning
+- [ ] https://jobs.ashbyhq.com/airwallex/d5d5457a-1cec-4050-ae77-7593ebb2f3f2 | Airwallex | Senior Manager, Regulatory Operations, APAC 
+- [ ] https://jobs.ashbyhq.com/airwallex/93bed03b-b6ea-47b6-b351-c19d1d9c188a | Airwallex | GTM Partnerships Manager (Corp Sec & Professional Services), SME & Growth
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8113927 | Adyen | Senior Strategy & Business Ops Manager
