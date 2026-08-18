@@ -1321,3 +1321,7 @@
 - [ ] https://jobs.ashbyhq.com/airwallex/d5d5457a-1cec-4050-ae77-7593ebb2f3f2 | Airwallex | Senior Manager, Regulatory Operations, APAC 
 - [ ] https://jobs.ashbyhq.com/airwallex/93bed03b-b6ea-47b6-b351-c19d1d9c188a | Airwallex | GTM Partnerships Manager (Corp Sec & Professional Services), SME & Growth
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8113927 | Adyen | Senior Strategy & Business Ops Manager
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5389773008 | Anthropic | Lead, Data Center Security Delivery (Construction to Operations)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7893689003 | Doctolib | Strategy Lead (x/f/m)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7886137003 | Remote | Manager, Payroll Operations - APAC
