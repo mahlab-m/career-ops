@@ -1325,3 +1325,11 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5389773008 | Anthropic | Lead, Data Center Security Delivery (Construction to Operations)
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7893689003 | Doctolib | Strategy Lead (x/f/m)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7886137003 | Remote | Manager, Payroll Operations - APAC
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a0389dc2-77d8-439b-960b-2acb8712991e | ElevenLabs | Enterprise Deployment - Chief of Staff
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8141335 | Monzo | Chief of Staff, Group CFO 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8121572 | Monzo | Chief of Staff, Product
+- [ ] https://jobs.ashbyhq.com/deliveroo/5a8a73a5-d220-48d8-a1eb-acc69fbaa61b | Deliveroo | Strategy & Operations Manager – Emerging Fraud & Abuse
+- [ ] https://jobs.ashbyhq.com/deliveroo/88f94481-67d3-4e2a-bfa9-cb5eaf833e33 | Deliveroo | Strategy & Operations Manager - Payments Risk & Fraud
+- [ ] https://jobs.lever.co/zopa/65546592-b45f-40c8-a1cd-a567ef840e73 | Zopa | Marketing Operations Lead
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7890816003 | Remote | Manager, Payroll Operations - APAC
