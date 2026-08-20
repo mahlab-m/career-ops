@@ -1333,3 +1333,13 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/88f94481-67d3-4e2a-bfa9-cb5eaf833e33 | Deliveroo | Strategy & Operations Manager - Payments Risk & Fraud
 - [ ] https://jobs.lever.co/zopa/65546592-b45f-40c8-a1cd-a567ef840e73 | Zopa | Marketing Operations Lead
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7890816003 | Remote | Manager, Payroll Operations - APAC
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8165254002 | Wayve | Head of Fleet Operations (UK)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390964008 | Anthropic | Technical Program Manager, Revenue Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/69e77801-efff-411c-889e-900d8b3b3ab5 | Checkout.com | Manager, Marketing AI Transformation
+- [ ] https://jobs.ashbyhq.com/checkout.com/76517825-1e0b-47fd-b091-4542eac73f33 | Checkout.com | Senior Associate, Finance Transformation
+- [ ] https://n26.com/en-eu/careers/positions/8127501?gh_jid=8127501 | N26 | Steering & Planning Associate
+- [ ] https://jobs.ashbyhq.com/deliveroo/1540d274-f96c-4672-881c-d70917c51b9f | Deliveroo | Business Development Manager - Paris (CDD 6 mois)
+- [ ] https://jobs.ashbyhq.com/DeepL/f232dbed-d15d-4263-b032-d1caf7636ec1 | DeepL | Senior Analyst - GTM Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/8055149?gh_jid=8055149 | HelloFresh | Loyalty Program Strategy Lead (all genders)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7890817003 | Remote | Manager, Payroll Operations - APAC
