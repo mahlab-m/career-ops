@@ -1343,3 +1343,12 @@
 - [ ] https://jobs.ashbyhq.com/DeepL/f232dbed-d15d-4263-b032-d1caf7636ec1 | DeepL | Senior Analyst - GTM Strategy
 - [ ] https://careers.hellofresh.com/global/en/job/8055149?gh_jid=8055149 | HelloFresh | Loyalty Program Strategy Lead (all genders)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7890817003 | Remote | Manager, Payroll Operations - APAC
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398280008 | Anthropic | Data Center Operations Lead - Partner Site Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397445008 | Anthropic | Data Center Supply Planning Lead
+- [ ] https://helsing.ai/jobs/4957296101?gh_jid=4957296101 | Helsing | Talent Operations Coordinator - 12-month FTC
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8738292002 | Wayve | Director of Fleet Operations Execution
+- [ ] https://n26.com/en-eu/careers/positions/8143662?gh_jid=8143662 | N26 | Srategy & Operations Associate - Customer Identity
+- [ ] https://n26.com/en-eu/careers/positions/8146844?gh_jid=8146844 | N26 | Strategy & Operations Associate - Customer Identity
+- [ ] https://jobs.ashbyhq.com/deliveroo/4623076b-a78d-47a1-8958-2c06b28f2a9e | Deliveroo | Business Development Manager - Dubai
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7915883003 | Remote | GTM Product Manager - Marketing Operations 
