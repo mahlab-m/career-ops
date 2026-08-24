@@ -1352,3 +1352,16 @@
 - [ ] https://n26.com/en-eu/careers/positions/8146844?gh_jid=8146844 | N26 | Strategy & Operations Associate - Customer Identity
 - [ ] https://jobs.ashbyhq.com/deliveroo/4623076b-a78d-47a1-8958-2c06b28f2a9e | Deliveroo | Business Development Manager - Dubai
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7915883003 | Remote | GTM Product Manager - Marketing Operations 
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399164008 | Anthropic | Environmental Health & Safety Manager, Data Center Construction and Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399162008 | Anthropic | Product Engineer - Manufacturing Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399160008 | Anthropic | Repairs Program Lead - Data Center Operations
+- [ ] https://jobs.ashbyhq.com/harvey/953b710f-3c48-4409-ad30-6416da8ed043 | Harvey | GTM Systems Administrator
+- [ ] https://jobs.ashbyhq.com/airwallex/d2157a58-a089-4033-93a7-76af2200b100 | Airwallex | Manager, Marketing Operations
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/15fe04de-fe59-4827-975e-719c688082b0 | iwoca | Full-stack Engineer - Operations Engineering Team
+- [ ] https://n26.com/en-eu/careers/positions/8141767?gh_jid=8141767 | N26 | Banking Operations - OCC FR Specialist (Part-time)
+- [ ] https://jobs.ashbyhq.com/deliveroo/7dba2230-2b7e-43e3-b4e7-481e5a3602d0 | Deliveroo | Business Development Manager - Abu Dhabi 
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4379564009 | Oura | Senior Support Operations Lead
+- [ ] https://jobs.ashbyhq.com/lovable/10d863c5-9a53-422b-907e-f0618064da24 | Multiline / Lovable | Growth Creative Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8139868?gh_jid=8139868 | HelloFresh | Transport Operations Manager (all genders)
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8742559002 | Cabify | Revenue Operations & Commercial Scalability Sr Manager
