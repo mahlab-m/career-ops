@@ -1365,3 +1365,13 @@
 - [ ] https://jobs.ashbyhq.com/lovable/10d863c5-9a53-422b-907e-f0618064da24 | Multiline / Lovable | Growth Creative Operations
 - [ ] https://careers.hellofresh.com/global/en/job/8139868?gh_jid=8139868 | HelloFresh | Transport Operations Manager (all genders)
 - [ ] https://job-boards.greenhouse.io/cabify/jobs/8742559002 | Cabify | Revenue Operations & Commercial Scalability Sr Manager
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673 | ElevenLabs | Revenue Strategy & Operations - EMEA
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7 | ElevenLabs | Revenue Strategy & Operations - APAC
+- [ ] https://jobs.ashbyhq.com/airwallex/d0079d54-4ee2-4995-b722-48b0fd3deed3 | Airwallex | Associate Director, Strategic Finance
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7862926003 | Tide | Senior Platform Operations Specialist
+- [ ] https://sumup.com/careers/positions/8745560002?gh_jid=8745560002 | SumUp | Commercial Planning Senior Associate
+- [ ] https://jobs.lever.co/farfetch/e320e8f2-0f57-4601-a8c6-06e3d98dcd83 | Farfetch | Interim Corporate Strategy & PMO Manager
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7971471003 | Doctolib | Go To Market Strategy Hospitals (x/f/m)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8152695 | GetYourGuide | Brand Strategy Lead
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8143621 | Wolt | Senior Manager, Strategy & Operations, 1P EMEA
