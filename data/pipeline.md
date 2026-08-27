@@ -1375,3 +1375,11 @@
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7971471003 | Doctolib | Go To Market Strategy Hospitals (x/f/m)
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8152695 | GetYourGuide | Brand Strategy Lead
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8143621 | Wolt | Senior Manager, Strategy & Operations, 1P EMEA
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390976008 | Anthropic | Head of GTM Programs
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7978146003 | Tide | Senior Operations Manager
+- [ ] https://jobs.ashbyhq.com/checkout.com/cc0a084c-2d4a-4577-8309-dda3d8ec18b8 | Checkout.com | Manager, AI Transformation (Legal, Risk and Compliance)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8156719 | GetYourGuide | UX Researcher, Programs & Operations
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978015003 | Remote | Manager, Payroll Operations - Australia/ New Zealand
+- [ ] https://jobs.ashbyhq.com/deliveroo/f4328c39-c09a-4c28-832a-e626d789bc60 | Deliveroo | Finance & Strategy Director, Merchant
