@@ -1383,3 +1383,19 @@
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8156719 | GetYourGuide | UX Researcher, Programs & Operations
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978015003 | Remote | Manager, Payroll Operations - Australia/ New Zealand
 - [ ] https://jobs.ashbyhq.com/deliveroo/f4328c39-c09a-4c28-832a-e626d789bc60 | Deliveroo | Finance & Strategy Director, Merchant
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5393268008 | Anthropic | Finance & Strategy GTM, EMEA
+- [ ] https://jobs.ashbyhq.com/omnea/3ee3d842-e07c-4d6b-b379-b9df7586c94f | Omnea | Chief of Staff - Product 
+- [ ] https://stripe.com/jobs/search?gh_jid=8155580 | Stripe | Strategic Business Performance, Central Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/d02b9e71-25cc-42e3-baeb-ace314ef250f | Airwallex | Senior Associate, Strategy & Operations, CEO Office
+- [ ] https://jobs.ashbyhq.com/airwallex/8e12a614-48e4-4c03-abf7-ea1c5f95e724 | Airwallex | Senior Manager, Strategy & Operations, CEO Office
+- [ ] https://jobs.ashbyhq.com/checkout.com/b8fd9bcf-c58c-47fe-8399-c8bf7edd79d5 | Checkout.com | Legal Operations Specialist 
+- [ ] https://jobs.ashbyhq.com/deliveroo/78fe2a75-c07f-42c9-99cd-915c476fa283 | Deliveroo | Strategy & Operations Manager, Customer Experience
+- [ ] https://n26.com/en-eu/careers/positions/8156161?gh_jid=8156161 | N26 | AFC Operations Excellence Specialist
+- [ ] https://n26.com/en-eu/careers/positions/8156159?gh_jid=8156159 | N26 | AFC Operations Team Lead Italy (Fixed-Term Contract)
+- [ ] https://sumup.com/careers/positions/8742320002?gh_jid=8742320002 | SumUp | Payment Operations Specialist
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8129943 | GetYourGuide | UX Researcher, Programs & Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8146772?gh_jid=8146772 | HelloFresh |  (Senior) Director UX, Operations
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978012003 | Remote | Manager, Payroll Operations - Australia/ New Zealand
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978968003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://jobs.lever.co/contentsquare/2b8567fd-5dbd-49ea-8e0a-a63da2b51298 | Contentsquare | Business Planning Analyst
