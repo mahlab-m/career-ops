@@ -1411,3 +1411,5 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8164000 | Wolt | Operations Associate, Courier Supply
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8138570 | Wolt | Strategy and Operations Manager, Ads and Promotions
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8156073 | Wolt | Strategy & Operations Manager, EMEA Growth & Engagement
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978967003 | Remote | Onboarding Operations Specialist - APAC
