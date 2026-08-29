@@ -1399,3 +1399,15 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978012003 | Remote | Manager, Payroll Operations - Australia/ New Zealand
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978968003 | Remote | Onboarding Operations Specialist - APAC
 - [ ] https://jobs.lever.co/contentsquare/2b8567fd-5dbd-49ea-8e0a-a63da2b51298 | Contentsquare | Business Planning Analyst
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409108008 | Anthropic | Finance & Strategy GTM, EMEA
+- [ ] https://jobs.ashbyhq.com/omnea/cad3c348-68c6-47e9-bd23-14d9d16858f4 | Omnea | Revenue Operations Associate
+- [ ] https://jobs.ashbyhq.com/relay/3604842a-4961-4318-ac0f-2cc74af59f4b | Relay Technologies | Operations Manager - London Sort Centre
+- [ ] https://jobs.ashbyhq.com/airwallex/6529f460-20e1-43f7-b0ba-bb42c8e3940b | Airwallex | Senior Associate, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7980213003 | Tide | Werkstudent:in (m/w/d) – Operations & Office Management
+- [ ] https://traderepublic.com/en-de/about?jobId=7980551003&gh_jid=7980551003 | Trade Republic | Process Operations Working Student (f/d/m)
+- [ ] https://jobs.ashbyhq.com/deliveroo/caf5fc3a-937c-4c33-977b-29073dcea247 | Deliveroo | Senior Regional Growth & Strategy Manager
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978964003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8164000 | Wolt | Operations Associate, Courier Supply
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8138570 | Wolt | Strategy and Operations Manager, Ads and Promotions
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8156073 | Wolt | Strategy & Operations Manager, EMEA Growth & Engagement
