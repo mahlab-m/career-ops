@@ -1416,3 +1416,13 @@
 
 - [ ] https://stripe.com/jobs/search?gh_jid=8147961 | Stripe | Program Manager, GTM Planning
 - [ ] https://jobs.lever.co/sonarsource/8490348a-8202-4422-9bd6-c6904982ed50 | SonarSource | Engineering Manager - Cloud Platform & Operations
+
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7983019003 | Tide | Business Operations Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/3b069ba8-b7dc-4e99-8313-fb4b003203e7 | Deliveroo | Senior Data Scientist - Business Operations
+- [ ] https://sumup.com/careers/positions/8712765002?gh_jid=8712765002 | SumUp | KYC EDD Operations Agent (English)
+- [ ] https://sumup.com/careers/positions/8712769002?gh_jid=8712769002 | SumUp | KYC EDD Operations Agent (German)
+- [ ] https://jobs.ashbyhq.com/mollie/71964e4e-4a86-465d-a800-13baaca08b3c | Mollie | Business Development Manager - Denmark 
+- [ ] https://careers.hellofresh.com/global/en/job/8119557?gh_jid=8119557 | HelloFresh | Senior Procurement Operations Manager - Factor Europe (all genders)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983159003 | Remote | Manager, Payroll Operations - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7974892003 | Remote | Manager, Payroll Operations - Eastern Europe
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8166941 | Wolt | Consumer Growth Strategy Manager, EMEA
