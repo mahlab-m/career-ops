@@ -1413,3 +1413,6 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8156073 | Wolt | Strategy & Operations Manager, EMEA Growth & Engagement
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7978967003 | Remote | Onboarding Operations Specialist - APAC
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8147961 | Stripe | Program Manager, GTM Planning
+- [ ] https://jobs.lever.co/sonarsource/8490348a-8202-4422-9bd6-c6904982ed50 | SonarSource | Engineering Manager - Cloud Platform & Operations
