@@ -1426,3 +1426,16 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983159003 | Remote | Manager, Payroll Operations - APAC
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7974892003 | Remote | Manager, Payroll Operations - Eastern Europe
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8166941 | Wolt | Consumer Growth Strategy Manager, EMEA
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8168554 | Stripe | Strategic Capacity Planning Specialist
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7984265003 | Tide | Treasury Operations Manager
+- [ ] https://jobs.lever.co/spotify/8a9cc53c-48c0-4d43-8287-d81ab09e74fa | Spotify | Data Scientist, Company Planning & Execution
+- [ ] https://jobs.lever.co/farfetch/ee831684-3b68-4f8b-9d73-c4c51a65b399 | Farfetch | Merchandise Planning & Analytics Senior Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/8172825?gh_jid=8172825 | HelloFresh | Hub Manager – Last Mile Operations (v/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8119559?gh_jid=8119559 | HelloFresh | Senior Procurement Operations Manager - Factor Europe (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8173323?gh_jid=8173323 | HelloFresh | Senior Product Strategy Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8168972?gh_jid=8168972 | HelloFresh | Team Lead Supply Chain Planning
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983161003 | Remote | Manager, Payroll Operations - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7984177003 | Remote | Onboarding Operations Specialist - APAC
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101 | Bitpanda | Senior SOC Analyst, Security Operations
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5190462008 | OpenFX | Product Operations - LatAm
