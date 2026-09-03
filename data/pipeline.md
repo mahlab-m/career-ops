@@ -1439,3 +1439,10 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7984177003 | Remote | Onboarding Operations Specialist - APAC
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101 | Bitpanda | Senior SOC Analyst, Security Operations
 - [ ] https://job-boards.greenhouse.io/openfx/jobs/5190462008 | OpenFX | Product Operations - LatAm
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8172493 | Stripe | Incident Response Manager - Abuse Operations 
+- [ ] https://job-boards.eu.greenhouse.io/bvnk/jobs/4966953101 | BVNK | Senior Business Operations & Strategy Manager
+- [ ] https://n26.com/en-eu/careers/positions/8177452?gh_jid=8177452 | N26 | Marketing Operations Manager
+- [ ] https://jobs.ashbyhq.com/alan/647ba040-b2bf-444b-b64d-5c01f6390e64 | Alan | Operations Coordinator
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7985252003 | Doctolib | Senior AI Specialist (Operations) (x/f/m)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983156003 | Remote | Manager, Payroll Operations - APAC
