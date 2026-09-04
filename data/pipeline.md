@@ -1446,3 +1446,13 @@
 - [ ] https://jobs.ashbyhq.com/alan/647ba040-b2bf-444b-b64d-5c01f6390e64 | Alan | Operations Coordinator
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7985252003 | Doctolib | Senior AI Specialist (Operations) (x/f/m)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983156003 | Remote | Manager, Payroll Operations - APAC
+
+- [ ] https://jobs.ashbyhq.com/harvey/eb29cd1a-6015-49a0-b6a9-259f10a0a4b1 | Harvey | Global Operations Program Manager
+- [ ] https://jobs.ashbyhq.com/deliveroo/0eabd2f9-ab30-4599-819a-281007272958 | Deliveroo | Strategy & Operations Manager, Subscription Value Prop & New Benefits
+- [ ] https://jobs.ashbyhq.com/alan/8ba7ad30-ee9d-4278-8f03-2b1626bba8d2 | Alan | Sales Planning & Strategy
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/6182493004 | Mirakl | Revenue Operations Analyst, Paris
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7986187003 | Doctolib | Senior Lead Product Strategy (x/f/m)
+- [ ] https://jobs.lever.co/pigment/e6f34c1d-c0c2-4c89-a8a7-050ec047cf86 | Pigment | Customer Success Operations Manager
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983160003 | Remote | Manager, Payroll Operations - APAC
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986360003 | Remote | Onboarding Operations Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8177035 | Wolt | Asc. Operations Manager, Supply Acquisition & Activation
