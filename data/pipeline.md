@@ -1456,3 +1456,6 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7983160003 | Remote | Manager, Payroll Operations - APAC
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986360003 | Remote | Onboarding Operations Specialist
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8177035 | Wolt | Asc. Operations Manager, Supply Acquisition & Activation
+
+- [ ] https://jobs.ashbyhq.com/harvey/cc432807-dda4-4baa-84ce-905b0362e664 | Harvey | Transformation Associate
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986361003 | Remote | Onboarding Operations Specialist
