@@ -1459,3 +1459,5 @@
 
 - [ ] https://jobs.ashbyhq.com/harvey/cc432807-dda4-4baa-84ce-905b0362e664 | Harvey | Transformation Associate
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986361003 | Remote | Onboarding Operations Specialist
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986362003 | Remote | Onboarding Operations Specialist
