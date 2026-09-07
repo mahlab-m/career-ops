@@ -1461,3 +1461,10 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986361003 | Remote | Onboarding Operations Specialist
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7986362003 | Remote | Onboarding Operations Specialist
+
+- [ ] https://jobs.ashbyhq.com/marshmallow/80fb4a0a-0aae-42a4-8958-d584d7229b43 | Marshmallow | Operations Associate
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988112003?gh_jid=7988112003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988114003?gh_jid=7988114003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+- [ ] https://jobs.lever.co/pigment/bf10bc02-3a6f-4b40-82ed-9aba611c6575 | Pigment | Business Development Manager NEMEA
+- [ ] https://careers.hellofresh.com/global/en/job/8168946?gh_jid=8168946 | HelloFresh | Senior Manager Global Price & Discount Strategy (all genders)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7981711003 | Remote | Onboarding Operations Specialist
