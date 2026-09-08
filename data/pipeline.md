@@ -1468,3 +1468,13 @@
 - [ ] https://jobs.lever.co/pigment/bf10bc02-3a6f-4b40-82ed-9aba611c6575 | Pigment | Business Development Manager NEMEA
 - [ ] https://careers.hellofresh.com/global/en/job/8168946?gh_jid=8168946 | HelloFresh | Senior Manager Global Price & Discount Strategy (all genders)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7981711003 | Remote | Onboarding Operations Specialist
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8175832 | Stripe | Fraud Operations Manager
+- [ ] https://jobs.ashbyhq.com/multiverse/abf7e412-03e4-4586-86f3-a8d4f7e70a49 | Multiverse | Delivery Manager - Operations 
+- [ ] https://complyadvantage.com/careers/jobs/8785819002?gh_jid=8785819002 | ComplyAdvantage | Global Director, Marketing Operations 
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4397529009 | Oura | Logistics Specialist, Inventory & Inbound Operations
+- [ ] https://sumup.com/careers/positions/8785724002?gh_jid=8785724002 | SumUp | Business Development Manager - North Dublin/Meath
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8043096 | Adyen | Project Operations Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8179382?gh_jid=8179382 | HelloFresh | Senior Director, Health & Safety Operations Europe
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7988927003 | Remote | Manager, Payroll Operations - APAC
+- [ ] https://jobs.ashbyhq.com/choco/b61d2dbb-94e6-45fb-850b-abc0642aca6e | Choco | Workplace Operations & Culture Manager
