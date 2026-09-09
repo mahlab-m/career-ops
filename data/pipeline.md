@@ -1478,3 +1478,12 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8179382?gh_jid=8179382 | HelloFresh | Senior Director, Health & Safety Operations Europe
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7988927003 | Remote | Manager, Payroll Operations - APAC
 - [ ] https://jobs.ashbyhq.com/choco/b61d2dbb-94e6-45fb-850b-abc0642aca6e | Choco | Workplace Operations & Culture Manager
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8172495 | Stripe | Marketing Operations Program Manager, EMEA Events
+- [ ] https://stripe.com/jobs/search?gh_jid=8172497 | Stripe | Security Incident Response Manager, Abuse Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=8168552 | Stripe | Vice Chair Office, Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/0b1b7462-8cf3-4d67-a24f-fd8a902797da | Checkout.com | Manager, Operations and Strategy (CEO Office)
+- [ ] https://jobs.ashbyhq.com/deliveroo/83e9e7d4-949e-4107-89c5-d3bf6d158afb | Deliveroo | Sales Operations Analyst - UAE National
+- [ ] https://jobs.ashbyhq.com/deliveroo/2f150334-e915-42ee-b35f-f0576d4c8168 | Deliveroo | Commercial & Strategy Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885761003?gh_jid=7885761003 | Celonis | Senior Application Product Manager - Oracle Transformation Solutions
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7989307003 | Remote | Manager, Payroll Operations - Sub Saharan
