@@ -1487,3 +1487,10 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/2f150334-e915-42ee-b35f-f0576d4c8168 | Deliveroo | Commercial & Strategy Manager
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7885761003?gh_jid=7885761003 | Celonis | Senior Application Product Manager - Oracle Transformation Solutions
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7989307003 | Remote | Manager, Payroll Operations - Sub Saharan
+
+- [ ] https://jobs.ashbyhq.com/cohere/cfbcd878-ed1c-4cdb-a02b-729d86bf2178 | Cohere | Talent Partner, GTM
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8173669 | Monzo | Operations Strategy & Commercial Lead, 12 month FTC
+- [ ] https://n26.com/en-eu/careers/positions/7913103?gh_jid=7913103 | N26 | Strategy & Operations Manager - Core Banking
+- [ ] https://careers.hellofresh.com/global/en/job/8190679?gh_jid=8190679 | HelloFresh | Customer Experience Strategy Lead (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8185807?gh_jid=8185807 | HelloFresh | Lead Product Strategy 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8188093 | Wolt | Operations Associate, Courier Community
