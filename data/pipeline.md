@@ -1494,3 +1494,10 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8190679?gh_jid=8190679 | HelloFresh | Customer Experience Strategy Lead (all genders)
 - [ ] https://careers.hellofresh.com/global/en/job/8185807?gh_jid=8185807 | HelloFresh | Lead Product Strategy 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8188093 | Wolt | Operations Associate, Courier Community
+
+- [ ] https://n26.com/en-eu/careers/positions/8190710?gh_jid=8190710 | N26 | Strategy & Operations Manager - Core Banking
+- [ ] https://jobs.ashbyhq.com/alan/63576e2f-c6e7-4c17-a32d-2c9f029bc23c | Alan | Operations Coordinator - Lyon
+- [ ] https://jobs.ashbyhq.com/deliveroo/672e4b05-ec90-443e-aee1-4a4d412e0096 | Deliveroo | Senior Manager, Commercial Enablement (Strategy & Operations)
+- [ ] https://jobs.ashbyhq.com/deliveroo/c3d5ae73-63ba-462c-87e5-0ddc6177fda4 | Deliveroo | Rider Onboarding Operations Representative
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/6186238004 | Mirakl | Revenue Operations Analyst (Contract 3months), Paris
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8073763 | Wolt | Lead, Global ESG Reporting Strategy
