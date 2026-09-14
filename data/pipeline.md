@@ -1501,3 +1501,13 @@
 - [ ] https://jobs.ashbyhq.com/deliveroo/c3d5ae73-63ba-462c-87e5-0ddc6177fda4 | Deliveroo | Rider Onboarding Operations Representative
 - [ ] https://job-boards.greenhouse.io/mirakl/jobs/6186238004 | Mirakl | Revenue Operations Analyst (Contract 3months), Paris
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8073763 | Wolt | Lead, Global ESG Reporting Strategy
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8195483 | Stripe | GTM Strategy & Operations Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=8171095 | Stripe | Strategy & Operations, Infrastructure
+- [ ] https://jobs.ashbyhq.com/deliveroo/9585db49-368d-4794-a9e7-ac093e4f3c16 | Deliveroo | Senior Regional Operations Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7991057003?gh_jid=7991057003 | Celonis | Executive Briefing & Solutions Strategy Lead (EBC)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7990109003 | Doctolib | Corporate Development Lead (x/f/m)
+- [ ] https://jobs.ashbyhq.com/pleo/b77e813a-51c1-40f9-a2f9-539ce0536517 | Pleo | Senior Operations and Collections Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8184886 | Wolt | Partner Operations Associate
+- [ ] https://boards.greenhouse.io/careem/jobs/8789147002?gh_jid=8789147002 | Careem | Senior Strategy and Care Transformation Manager  
