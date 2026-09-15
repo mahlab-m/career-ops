@@ -1511,3 +1511,8 @@
 - [ ] https://jobs.ashbyhq.com/pleo/b77e813a-51c1-40f9-a2f9-539ce0536517 | Pleo | Senior Operations and Collections Specialist
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8184886 | Wolt | Partner Operations Associate
 - [ ] https://boards.greenhouse.io/careem/jobs/8789147002?gh_jid=8789147002 | Careem | Senior Strategy and Care Transformation Manager  
+
+- [ ] https://jobs.ashbyhq.com/airwallex/0a7e949f-563e-4c0f-be57-904575ec1024 | Airwallex | Director, GTM Partnerships, SME & growth
+- [ ] https://complyadvantage.com/careers/jobs/8785705002?gh_jid=8785705002 | ComplyAdvantage | Manager- Business Development
+- [ ] https://jobs.ashbyhq.com/n8n/62309aac-598b-4cb0-bc1b-e0dad9cda130 | n8n | GTM Data Analyst
+- [ ] https://jobs.ashbyhq.com/wayflyer/e0c2e7c6-53a1-4ad6-9b75-724ee8109fe8 | Wayflyer | Operations Manager
