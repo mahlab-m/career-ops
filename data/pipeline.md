@@ -1516,3 +1516,15 @@
 - [ ] https://complyadvantage.com/careers/jobs/8785705002?gh_jid=8785705002 | ComplyAdvantage | Manager- Business Development
 - [ ] https://jobs.ashbyhq.com/n8n/62309aac-598b-4cb0-bc1b-e0dad9cda130 | n8n | GTM Data Analyst
 - [ ] https://jobs.ashbyhq.com/wayflyer/e0c2e7c6-53a1-4ad6-9b75-724ee8109fe8 | Wayflyer | Operations Manager
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8176256 | Stripe | Marketing Operations Program Manager, APAC 
+- [ ] https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352 | N26 | Fraud Analyst – Operations
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4406320009 | Oura | Senior Counsel, Global Legal Strategy
+- [ ] https://sumup.com/careers/positions/8769011002?gh_jid=8769011002 | SumUp | KYC EDD Operations Agent (German)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7856976003?gh_jid=7856976003 | Celonis | Senior Design Engineer, Design Operations: AI-Powered Design Platform
+- [ ] https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241 | HelloFresh | Operational Excellence & Transformation Manager
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4977400101 | Tamara | Dispute Operations Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/7303949 | Wolt | Regional Strategy & Operations, Consumer
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8203721 | Wolt | Strategy & Operations Manager, Restaurant Growth
+- [ ] https://jobs.lever.co/360learning/9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12 | 360Learning | Head of GTM Systems & AI
+- [ ] https://jobs.lever.co/360learning/0b34aa41-aad2-4f40-a8c4-1346c6ff0be1 | 360Learning | Head of GTM Systems & AI (m/f/d)
