@@ -1528,3 +1528,11 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8203721 | Wolt | Strategy & Operations Manager, Restaurant Growth
 - [ ] https://jobs.lever.co/360learning/9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12 | 360Learning | Head of GTM Systems & AI
 - [ ] https://jobs.lever.co/360learning/0b34aa41-aad2-4f40-a8c4-1346c6ff0be1 | 360Learning | Head of GTM Systems & AI (m/f/d)
+
+- [ ] https://jobs.ashbyhq.com/paddle/e802f2b7-f0df-4354-a2a1-1c322e2706fd | Paddle | Senior AI Engineer (GTM) 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7856979003?gh_jid=7856979003 | Celonis | Senior Design Engineer, Design Operations: AI-Powered Design Platform
+- [ ] https://jobs.ashbyhq.com/alan/80e5879d-932b-4f13-bb8a-95e281cb919e | Alan | Sales Planning & Strategy
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7995589003 | Doctolib | Stage - Corporate Development Analyst (x/f/m) - janvier 2027
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7989983003 | Doctolib | Stage - Sales Strategy Analyst (x/f/m) - janvier 2027
+- [ ] https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0 | 360Learning | Head of GTM Systems & AI
+- [ ] https://jobs.ashbyhq.com/wayflyer/37f76daf-0f83-4ec8-be9f-3ddd833458e3 | Wayflyer | Technical Revenue Operations Analyst
