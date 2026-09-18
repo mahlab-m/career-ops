@@ -1536,3 +1536,12 @@
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/7989983003 | Doctolib | Stage - Sales Strategy Analyst (x/f/m) - janvier 2027
 - [ ] https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0 | 360Learning | Head of GTM Systems & AI
 - [ ] https://jobs.ashbyhq.com/wayflyer/37f76daf-0f83-4ec8-be9f-3ddd833458e3 | Wayflyer | Technical Revenue Operations Analyst
+
+- [ ] https://helsing.ai/jobs/4979778101?gh_jid=4979778101 | Helsing | UAS Flight Operations - Germany
+- [ ] https://jobs.ashbyhq.com/airwallex/ab0f0d30-cd79-4463-b95d-d308484335e9 | Airwallex | Senior Manager, Financial Crime Operations, GC & SEA
+- [ ] https://sumup.com/careers/positions/8615309002?gh_jid=8615309002 | SumUp | Business Development Team Lead (m/w/d)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7997660003?gh_jid=7997660003 | Celonis | Head of GTM Strategy and Planning
+- [ ] https://job-boards.greenhouse.io/bird/jobs/7999441003 | MessageBird | General Expression of Interest: Operations
+- [ ] https://jobs.ashbyhq.com/alan/e3275173-2bcf-47fb-85bc-681ef6a671df | Alan | Sales Planning & Strategy
+- [ ] https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8 | 360Learning | Head of GTM Systems & AI
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4980055101 | Raisin | Team Lead Deposit Operations - Synchronised Model (m/f/d)
