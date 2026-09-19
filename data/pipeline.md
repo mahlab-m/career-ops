@@ -1545,3 +1545,5 @@
 - [ ] https://jobs.ashbyhq.com/alan/e3275173-2bcf-47fb-85bc-681ef6a671df | Alan | Sales Planning & Strategy
 - [ ] https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8 | 360Learning | Head of GTM Systems & AI
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4980055101 | Raisin | Team Lead Deposit Operations - Synchronised Model (m/f/d)
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7997661003?gh_jid=7997661003 | Celonis | Head of GTM Strategy and Planning
