@@ -1547,3 +1547,10 @@
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4980055101 | Raisin | Team Lead Deposit Operations - Synchronised Model (m/f/d)
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7997661003?gh_jid=7997661003 | Celonis | Head of GTM Strategy and Planning
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426627008 | Anthropic | Head of APAC GTM Enablement
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8815521002 | Wayve | Fleet Operations Trainer - DE
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8827823002 | Wayve | Operations Manager
+- [ ] https://www.dojo.careers/jobs/4981409101/?gh_jid=4981409101 | Dojo | Marketing Operations Lead
+- [ ] https://jobs.ashbyhq.com/deliveroo/29c3a5d6-2ce9-429c-9889-91a5bf95daf4 | Deliveroo | Operations Associate - Grocery
+- [ ] https://jobs.ashbyhq.com/alan/b94d3365-df7c-42ba-9fd8-b3258caf7baa | Alan | Sales Planning & Strategy
