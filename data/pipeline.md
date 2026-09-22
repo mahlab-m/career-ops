@@ -1554,3 +1554,11 @@
 - [ ] https://www.dojo.careers/jobs/4981409101/?gh_jid=4981409101 | Dojo | Marketing Operations Lead
 - [ ] https://jobs.ashbyhq.com/deliveroo/29c3a5d6-2ce9-429c-9889-91a5bf95daf4 | Deliveroo | Operations Associate - Grocery
 - [ ] https://jobs.ashbyhq.com/alan/b94d3365-df7c-42ba-9fd8-b3258caf7baa | Alan | Sales Planning & Strategy
+
+- [ ] https://jobs.ashbyhq.com/relay/ce292d3b-4885-40c0-b940-b3b9091b81fb | Relay Technologies | Sales Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8175824 | Stripe | Risk Operations Analyst - SSO 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8222576 | Monzo | Staff Technical Program Manager, Operations
+- [ ] https://jobs.ashbyhq.com/airwallex/67822c40-c428-47a7-b93c-eafb8c1ec033 | Airwallex | Senior Manager, Merchant Risk Operations, APAC [Relocation to Singapore]
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8002207003 | Tide | Business Development Executive
+- [ ] https://jobs.ashbyhq.com/alan/d8d6bc20-09e1-4623-a067-25c4659a6010 | Alan | Sales Planning & Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/8223325?gh_jid=8223325 | HelloFresh | Schichtleiter Warehouse Operations (all genders)
