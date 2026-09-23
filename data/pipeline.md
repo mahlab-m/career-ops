@@ -1562,3 +1562,17 @@
 - [ ] https://job-boards.greenhouse.io/tide/jobs/8002207003 | Tide | Business Development Executive
 - [ ] https://jobs.ashbyhq.com/alan/d8d6bc20-09e1-4623-a067-25c4659a6010 | Alan | Sales Planning & Strategy
 - [ ] https://careers.hellofresh.com/global/en/job/8223325?gh_jid=8223325 | HelloFresh | Schichtleiter Warehouse Operations (all genders)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432020008 | Anthropic | Capacity Deployment Lead - Data Center Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=8213951 | Stripe | Credit Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8186445 | Stripe | Integration Reliability Engineer, Technical Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=8209641 | Stripe | Program Manager, Risk Operations GTM Enablement
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8225870 | Monzo | Senior FinCrime Operations Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8225843 | Monzo | Senior Fraud Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/24fea988-ce39-4cba-8fb2-107e4912e030 | Airwallex | Manager, Revenue Strategy & Operations (SEA)
+- [ ] https://jobs.ashbyhq.com/thought-machine/b4698f2a-8e6e-4d70-b2b7-b23faba08bdd | Thought Machine | Strategy Associate 
+- [ ] https://jobs.ashbyhq.com/thought-machine/05022aaf-a0eb-4f93-83f5-8557760332ad | Thought Machine | Strategy Lead
+- [ ] https://n26.com/en-eu/careers/positions/8201489?gh_jid=8201489 | N26 | AFC Operations Team Lead
+- [ ] https://jobs.lever.co/360learning/d43b0717-83da-40bc-9e3a-9e924abefcf0 | 360Learning | Revenue Strategy & Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8210829?gh_jid=8210829 | HelloFresh | Culinary Operations Working Student (all genders)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8219943 | Wolt | Senior Specialist, Market Planning
