@@ -1576,3 +1576,10 @@
 - [ ] https://jobs.lever.co/360learning/d43b0717-83da-40bc-9e3a-9e924abefcf0 | 360Learning | Revenue Strategy & Operations Manager
 - [ ] https://careers.hellofresh.com/global/en/job/8210829?gh_jid=8210829 | HelloFresh | Culinary Operations Working Student (all genders)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8219943 | Wolt | Senior Specialist, Market Planning
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8016504 | Stripe | Sourcer, GTM 
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8231337 | Monzo | Strategic Innovation Lead, Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924 | HelloFresh | Supply Chain Planning Working Student (all genders)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/8002922003 | Remote | GTM Product Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8230151 | Wolt | Operations Associate, Fleet Compliance
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8230146 | Wolt | Specialist, Catalog Operations EMEA
