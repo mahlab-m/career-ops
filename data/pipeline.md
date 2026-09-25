@@ -1583,3 +1583,11 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/8002922003 | Remote | GTM Product Specialist
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8230151 | Wolt | Operations Associate, Fleet Compliance
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8230146 | Wolt | Specialist, Catalog Operations EMEA
+
+- [ ] https://helsing.ai/jobs/4982899101?gh_jid=4982899101 | Helsing | Workplace Planning Lead
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8822896002 | Wayve | Associate Talent Partner, Fleet Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5433843008 | Anthropic | Finance & Strategy, Deal Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=8230564 | Stripe | GTM Sourcer (Fixed Term Contract)
+- [ ] https://jobs.ashbyhq.com/pleo/9e57f45b-bc33-4fa5-81a8-59427e8cd39f | Pleo | Revenue Operations Analyst (CX)
+- [ ] https://careers.hellofresh.com/global/en/job/8200853?gh_jid=8200853 | HelloFresh | Associate Director of IT Operations 
+- [ ] https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996 | HelloFresh | Operations Manager
