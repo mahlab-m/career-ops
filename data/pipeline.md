@@ -1591,3 +1591,5 @@
 - [ ] https://jobs.ashbyhq.com/pleo/9e57f45b-bc33-4fa5-81a8-59427e8cd39f | Pleo | Revenue Operations Analyst (CX)
 - [ ] https://careers.hellofresh.com/global/en/job/8200853?gh_jid=8200853 | HelloFresh | Associate Director of IT Operations 
 - [ ] https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996 | HelloFresh | Operations Manager
+
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/8006305003 | Remote | Manager Onboarding Operations AMER
