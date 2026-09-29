@@ -1593,3 +1593,6 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996 | HelloFresh | Operations Manager
 
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/8006305003 | Remote | Manager Onboarding Operations AMER
+
+- [ ] https://jobs.ashbyhq.com/synthesia/f28a5957-82c1-4a40-9d2f-2d0afe849339 | Synthesia | Senior Deal Strategy Specialist
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8227743 | Wolt | Business Development Manager, Sevenrooms
