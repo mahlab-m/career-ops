@@ -1596,3 +1596,8 @@
 
 - [ ] https://jobs.ashbyhq.com/synthesia/f28a5957-82c1-4a40-9d2f-2d0afe849339 | Synthesia | Senior Deal Strategy Specialist
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8227743 | Wolt | Business Development Manager, Sevenrooms
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437933008 | Anthropic | Finance & Strategy, Deal Strategy
+- [ ] https://stripe.com/jobs/search?gh_jid=8209633 | Stripe | Program Manager, Deal Operations
+- [ ] https://n26.com/en-eu/careers/positions/8237187?gh_jid=8237187 | N26 | Banking Operations Associate – Claims
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4987560101 | Raisin | Working Student Deposit Operations (m/f/d)
