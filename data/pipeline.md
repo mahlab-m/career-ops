@@ -1601,3 +1601,7 @@
 - [ ] https://stripe.com/jobs/search?gh_jid=8209633 | Stripe | Program Manager, Deal Operations
 - [ ] https://n26.com/en-eu/careers/positions/8237187?gh_jid=8237187 | N26 | Banking Operations Associate – Claims
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4987560101 | Raisin | Working Student Deposit Operations (m/f/d)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439804008 | Anthropic | Network Deployment and Maintenance Lead - Data Center Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=8230276 | Stripe | Strategy and Operations Analyst, Customer Success
+- [ ] https://jobs.ashbyhq.com/checkout.com/cd3a8e8b-049c-43db-a3ee-41e3f415e56a | Checkout.com | Engineer I, FinanceTechnology (Adaptive Planning)
