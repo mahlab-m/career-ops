@@ -1605,3 +1605,11 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439804008 | Anthropic | Network Deployment and Maintenance Lead - Data Center Operations
 - [ ] https://stripe.com/jobs/search?gh_jid=8230276 | Stripe | Strategy and Operations Analyst, Customer Success
 - [ ] https://jobs.ashbyhq.com/checkout.com/cd3a8e8b-049c-43db-a3ee-41e3f415e56a | Checkout.com | Engineer I, FinanceTechnology (Adaptive Planning)
+
+- [ ] https://jobs.ashbyhq.com/relay/206f9496-a768-4c40-a789-21f39e6cf7d0 | Relay Technologies | Operations Manager, Operative Acquisition
+- [ ] https://jobs.ashbyhq.com/checkout.com/20905115-1461-46db-9662-9fc84abefbde | Checkout.com | Chief of Staff
+- [ ] https://jobs.ashbyhq.com/quantexa/09a8ab54-c558-4df2-b515-43d488996aad | Quantexa | Talent Partner - GTM
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/127fe3de-3a55-433b-837a-ac3f8fcb4d1a | iwoca | Product Strategy Analyst - New Customers
+- [ ] https://n26.com/en-eu/careers/positions/8239608?gh_jid=8239608 | N26 | Senior Associate Audit & Operations
+- [ ] https://jobs.lever.co/pigment/7ba2a885-458f-42b0-a23f-f2e1507fab58 | Pigment | Senior Sales Operations Manager, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439844008 | Anthropic | Revenue Strategy & Operations
