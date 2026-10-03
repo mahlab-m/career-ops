@@ -1613,3 +1613,5 @@
 - [ ] https://n26.com/en-eu/careers/positions/8239608?gh_jid=8239608 | N26 | Senior Associate Audit & Operations
 - [ ] https://jobs.lever.co/pigment/7ba2a885-458f-42b0-a23f-f2e1507fab58 | Pigment | Senior Sales Operations Manager, EMEA
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439844008 | Anthropic | Revenue Strategy & Operations
+
+- [ ] https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302 | N26 | Strategy & Operations: Customer Risk Lifecycle
