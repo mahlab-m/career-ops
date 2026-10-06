@@ -1615,3 +1615,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439844008 | Anthropic | Revenue Strategy & Operations
 
 - [ ] https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302 | N26 | Strategy & Operations: Customer Risk Lifecycle
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/191bba6f-c66d-4ac0-8ddd-300b272046e0 | ElevenLabs | Legal Operations Lead 
+- [ ] https://jobs.ashbyhq.com/airwallex/3e0aad67-2857-4ca7-8cfb-42aa4a8d628a | Airwallex | Director, Strategy & Operations - CEO Office
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8011273003 | Tide | Treasury Lead, Debt Planning & Management
+- [ ] https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715 | N26 | Strategy & Operations Associate: Customer Risk Lifecycle
