@@ -1620,3 +1620,16 @@
 - [ ] https://jobs.ashbyhq.com/airwallex/3e0aad67-2857-4ca7-8cfb-42aa4a8d628a | Airwallex | Director, Strategy & Operations - CEO Office
 - [ ] https://job-boards.greenhouse.io/tide/jobs/8011273003 | Tide | Treasury Lead, Debt Planning & Management
 - [ ] https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715 | N26 | Strategy & Operations Associate: Customer Risk Lifecycle
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8257185 | Stripe | Community Operations Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=8158086 | Stripe | GTM Recruiting Manager
+- [ ] https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13 | Harvey | Sr. Technical Program Manager, GTM Technology
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8220713 | Monzo | Director of Group Operations Strategy & Development 
+- [ ] https://jobs.ashbyhq.com/multiverse/2b4791fd-67af-4624-862a-020e07148b38 | Multiverse | Senior People Partner - GTM
+- [ ] https://jobs.ashbyhq.com/quantexa/98910e04-5740-4027-b4c9-09ac28892028 | Quantexa | Senior Business Operations Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003 | Celonis | Director, Business Transformation and Value Consulting
+- [ ] https://jobs.ashbyhq.com/alan/387c0471-c32e-459e-a489-cebcf4ede7a8 | Alan | Sales Planning & Strategy
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4998206101 | Raisin | AFC Operations Manager - Transaction Monitoring  (m/f/d)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8255738 | GetYourGuide | Care Strategy Lead
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4996407101 | Bitpanda | Associate, Financial Operations 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8096930 | Wolt | Business Development Manager  - B2B
