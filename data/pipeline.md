@@ -1633,3 +1633,19 @@
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8255738 | GetYourGuide | Care Strategy Lead
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4996407101 | Bitpanda | Associate, Financial Operations 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8096930 | Wolt | Business Development Manager  - B2B
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394780008 | Anthropic | Administrative Business Partner, GTM - London  
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8105912 | Monzo | Senior Strategy and Operations Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/1b9e9b6d-1f1c-43c6-bd97-25598fc5adb5 | Airwallex | Senior Manager, Regulatory Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015816003?gh_jid=8015816003 | Celonis | Director, Business Transformation & Process Intelligence Consulting - Nordics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015653003?gh_jid=8015653003 | Celonis | Senior Business Transformation & Process Optimisation Consultant - Aviation/Logistics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015655003?gh_jid=8015655003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics
+- [ ] https://jobs.ashbyhq.com/mollie/e9aa62bf-2c18-44c4-beb0-6a8e6ea257db | Mollie | Security Operations Engineer II
+- [ ] https://jobs.ashbyhq.com/alan/da7082d2-1416-4af0-b62e-afb6daa2bc66 | Alan | Sales Planning & Strategy
+- [ ] https://jobs.lever.co/zopa/fe7036ec-e6f1-493a-872d-018fc60e179d | Zopa | Fraud Operations Specialist - Fraud Onboarding
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8248756 | GetYourGuide | Senior Manager, Business Operations & Strategy (Optimization)
+- [ ] https://careers.hellofresh.com/global/en/job/8248995?gh_jid=8248995 | HelloFresh | Associate Director, Paid Strategy (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8263077?gh_jid=8263077 | HelloFresh | Planning Manager (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8263170?gh_jid=8263170 | HelloFresh | Production Planning Manager (all genders)
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4997564101 | Raisin | Chief of Staff, Strategic Growth & Partnerships (UK)
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8874522002 | Cabify | Revenue Operations Manager
