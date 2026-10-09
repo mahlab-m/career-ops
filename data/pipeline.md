@@ -1649,3 +1649,15 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8263170?gh_jid=8263170 | HelloFresh | Production Planning Manager (all genders)
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4997564101 | Raisin | Chief of Staff, Strategic Growth & Partnerships (UK)
 - [ ] https://job-boards.greenhouse.io/cabify/jobs/8874522002 | Cabify | Revenue Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/harvey/2619ade0-b568-44b5-9931-0c8b064d43ea | Harvey |  GTM Strategy and Operations, APAC
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015818003?gh_jid=8015818003 | Celonis | Director, Business Transformation & Process Intelligence Consulting - Nordics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+- [ ] https://jobs.ashbyhq.com/forto/b058a4f6-6eb2-41b8-ac34-3f45b4af7da2 | Forto | Operations Specialist (f/m/d) - Poland
+- [ ] https://jobs.ashbyhq.com/forto/fadf8264-e268-4dbc-bd5a-a1d48da80fd4 | Forto | Operations Specialist (f/m/d) - Export
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8258162 | Adyen | Global Warehouse Strategy Manager
+- [ ] https://jobs.ashbyhq.com/mollie/f6aacfdb-946a-4149-839a-fb398f05e319 | Mollie | Business Development Manager - Sweden 
+- [ ] https://jobs.ashbyhq.com/mollie/2e25199b-bd05-4594-aade-ee6a2112c648 | Mollie | Business Development Manager
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4998476101 | Raisin | Working Student Deposit Integration Operations (m/f/d) 
+- [ ] https://careers.hellofresh.com/global/en/job/8263157?gh_jid=8263157 | HelloFresh | Planning Manager (all genders)
