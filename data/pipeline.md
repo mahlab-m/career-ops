@@ -1661,3 +1661,12 @@
 - [ ] https://jobs.ashbyhq.com/mollie/2e25199b-bd05-4594-aade-ee6a2112c648 | Mollie | Business Development Manager
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4998476101 | Raisin | Working Student Deposit Integration Operations (m/f/d) 
 - [ ] https://careers.hellofresh.com/global/en/job/8263157?gh_jid=8263157 | HelloFresh | Planning Manager (all genders)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448886008 | Anthropic | Finance & Strategy, Deal Strategy - APAC
+- [ ] https://stripe.com/jobs/search?gh_jid=8250483 | Stripe | Marketing Operations Manager, AMER Events
+- [ ] https://jobs.ashbyhq.com/checkout.com/2d6dbdba-52e1-4c88-a403-b854df0465b8 | Checkout.com | Associate, Talent Operations
+- [ ] https://jobs.ashbyhq.com/multiverse/1249b265-70af-421b-b9da-dc768dc30a00 | Multiverse | Strategy Associate
+- [ ] https://sumup.com/careers/positions/8870663002?gh_jid=8870663002 | SumUp | Business Development Manager – Payments & POS
+- [ ] https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859 | HelloFresh | Menu Planning Working Student (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8258137?gh_jid=8258137 | HelloFresh | Senior CRM Manager - Transformation (all genders)
+- [ ] https://jobs.lever.co/qonto/1e94f0a4-2e70-40c5-9564-4b31c837f177 | Qonto | Lead Banking Operations - Cards
