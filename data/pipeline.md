@@ -1673,3 +1673,6 @@
 
 - [ ] https://jobs.ashbyhq.com/omnea/20cf61fd-57af-4ae4-beba-566cb66ac2e8 | Omnea | Head of Talent, GTM
 - [ ] https://sumup.com/careers/positions/8859748002?gh_jid=8859748002 | SumUp | KYC Operations Agent with German
+
+- [ ] https://jobs.ashbyhq.com/harvey/4167f471-715b-413b-86c5-0596aae42eb8 | Harvey | GTM Lead System Administrator
+- [ ] https://job-boards.greenhouse.io/catawiki/jobs/8275943 | Catawiki | Commercial Operations Project Manager (Trust Operations Excellence)
