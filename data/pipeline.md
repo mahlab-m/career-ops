@@ -1670,3 +1670,6 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859 | HelloFresh | Menu Planning Working Student (all genders)
 - [ ] https://careers.hellofresh.com/global/en/job/8258137?gh_jid=8258137 | HelloFresh | Senior CRM Manager - Transformation (all genders)
 - [ ] https://jobs.lever.co/qonto/1e94f0a4-2e70-40c5-9564-4b31c837f177 | Qonto | Lead Banking Operations - Cards
+
+- [ ] https://jobs.ashbyhq.com/omnea/20cf61fd-57af-4ae4-beba-566cb66ac2e8 | Omnea | Head of Talent, GTM
+- [ ] https://sumup.com/careers/positions/8859748002?gh_jid=8859748002 | SumUp | KYC Operations Agent with German
