@@ -1676,3 +1676,12 @@
 
 - [ ] https://jobs.ashbyhq.com/harvey/4167f471-715b-413b-86c5-0596aae42eb8 | Harvey | GTM Lead System Administrator
 - [ ] https://job-boards.greenhouse.io/catawiki/jobs/8275943 | Catawiki | Commercial Operations Project Manager (Trust Operations Excellence)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4aaebda4-53be-424c-8246-cde77ff853bb | ElevenLabs | Company Operations Lead
+- [ ] https://stripe.com/jobs/search?gh_jid=8096121 | Stripe | Public Sector Operations Lead, UK
+- [ ] https://stripe.com/jobs/search?gh_jid=8079783 | Stripe | Strategy & Analytics Business Partner Analyst
+- [ ] https://jobs.ashbyhq.com/marshmallow/5f22a7c3-d4b4-428b-8d17-237e3c50cd37 | Marshmallow | Senior Operations Manager, Car Finance
+- [ ] https://jobs.ashbyhq.com/deliveroo/defa12d0-d1cc-4858-b754-29ccc7fff901 | Deliveroo | Operations Associate - Grocery
+- [ ] https://jobs.lever.co/farfetch/8f9080a7-1c17-40ad-a03a-083495b2bcca | Farfetch | Business Operations Principal, Catalogue and Selection
+- [ ] https://jobs.lever.co/qonto/bbf11e0e-b63a-4f48-928b-393b5c905f4e | Qonto | Operations Tooling Manager
+- [ ] https://jobs.ashbyhq.com/pleo/dbfe3f31-f3d2-4db8-972d-2d55d8564703 | Pleo | Billing Operations Analyst (Maternity Cover)
