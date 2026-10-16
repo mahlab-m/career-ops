@@ -1685,3 +1685,12 @@
 - [ ] https://jobs.lever.co/farfetch/8f9080a7-1c17-40ad-a03a-083495b2bcca | Farfetch | Business Operations Principal, Catalogue and Selection
 - [ ] https://jobs.lever.co/qonto/bbf11e0e-b63a-4f48-928b-393b5c905f4e | Qonto | Operations Tooling Manager
 - [ ] https://jobs.ashbyhq.com/pleo/dbfe3f31-f3d2-4db8-972d-2d55d8564703 | Pleo | Billing Operations Analyst (Maternity Cover)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/14c7802d-8e72-46b0-833c-3f0835363e48 | ElevenLabs | GTM Enablement - Sales Execution & North America Lead
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7a235499-7cee-48f5-9fe4-3f4764b91865 | ElevenLabs | GTM Enablement - Product
+- [ ] https://jobs.ashbyhq.com/airwallex/b955a044-d70b-4cd7-8b86-1822bcc426f4 | Airwallex | GTM Partnerships Manager (Corp Sec & Accounting Firms), SME & Growth
+- [ ] https://jobs.ashbyhq.com/checkout.com/8126cf98-2f56-4bca-8a16-cfb4ca70eadb | Checkout.com | Associate, Strategic Finance Analytics
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8281120 | Adyen | GTM Systems Manager
+- [ ] https://jobs.ashbyhq.com/alan/c9a3e365-c5dd-411f-ad65-afb92579e6c6 | Alan | Sales Planning & Strategy
+- [ ] https://jobs.ashbyhq.com/pleo/ee4e6ac1-4492-462c-be32-2bf00e5907ac | Pleo | GTM Enablement Specialist
+- [ ] https://jobs.ashbyhq.com/lovable/3b4a9b39-b1b9-4ec3-8f43-57f26c16ee66 | Multiline / Lovable | Partner Operations Manager
