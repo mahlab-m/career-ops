@@ -1694,3 +1694,5 @@
 - [ ] https://jobs.ashbyhq.com/alan/c9a3e365-c5dd-411f-ad65-afb92579e6c6 | Alan | Sales Planning & Strategy
 - [ ] https://jobs.ashbyhq.com/pleo/ee4e6ac1-4492-462c-be32-2bf00e5907ac | Pleo | GTM Enablement Specialist
 - [ ] https://jobs.ashbyhq.com/lovable/3b4a9b39-b1b9-4ec3-8f43-57f26c16ee66 | Multiline / Lovable | Partner Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/alan/4a103b58-cd6d-499b-bc12-5ff7840fe499 | Alan | Sales Planning & Strategy
