@@ -1696,3 +1696,11 @@
 - [ ] https://jobs.ashbyhq.com/lovable/3b4a9b39-b1b9-4ec3-8f43-57f26c16ee66 | Multiline / Lovable | Partner Operations Manager
 
 - [ ] https://jobs.ashbyhq.com/alan/4a103b58-cd6d-499b-bc12-5ff7840fe499 | Alan | Sales Planning & Strategy
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390992008 | Anthropic | Head of GTM Programs EMEA
+- [ ] https://jobs.ashbyhq.com/omnea/6c70160b-e17a-4e81-b82c-6a1a015159cb | Omnea | AI Transformation Strategist
+- [ ] https://jobs.ashbyhq.com/checkout.com/8e8af9d7-d3e8-43b2-8048-f5de7ca50bcf | Checkout.com | 2027 NextGen Commercial Operations Programme
+- [ ] https://jobs.ashbyhq.com/checkout.com/3cdcddfe-bd30-4a0d-87e6-1ba4ffbe700f | Checkout.com | 2027 NextGen Talent Operations Programme
+- [ ] https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575 | Forto | Air Freight Operations Specialist (f/m/d)
+- [ ] https://jobs.ashbyhq.com/forto/9daa12be-1543-468a-83f7-d3876cb52971 | Forto | Operations Specialist - Inbound
+- [ ] https://jobs.lever.co/qonto/ae334a18-8cd7-4062-a877-24bccfd88f7a | Qonto | Lead Banking Operations - Debt Collection
