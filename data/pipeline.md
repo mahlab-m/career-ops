@@ -1704,3 +1704,9 @@
 - [ ] https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575 | Forto | Air Freight Operations Specialist (f/m/d)
 - [ ] https://jobs.ashbyhq.com/forto/9daa12be-1543-468a-83f7-d3876cb52971 | Forto | Operations Specialist - Inbound
 - [ ] https://jobs.lever.co/qonto/ae334a18-8cd7-4062-a877-24bccfd88f7a | Qonto | Lead Banking Operations - Debt Collection
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454518008 | Anthropic | GTM Programs Manager, GTM Initiatives 
+- [ ] https://job-boards.eu.greenhouse.io/bvnk/jobs/5010660101 | BVNK | Security Operations & Risk Automation Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003 | Celonis | AI and Value Transformation Consultant
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/8034473003 | Doctolib | Localization Operations Manager (x/f/m)
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8874221002 | Solaris | Team Lead KYB Operations 
