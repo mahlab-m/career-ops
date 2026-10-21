@@ -1710,3 +1710,12 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003 | Celonis | AI and Value Transformation Consultant
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/8034473003 | Doctolib | Localization Operations Manager (x/f/m)
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8874221002 | Solaris | Team Lead KYB Operations 
+
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8305634 | Monzo | Strategy & Commercial Manager
+- [ ] https://jobs.ashbyhq.com/checkout.com/44e30a4a-c67d-4125-bb38-77118693d641 | Checkout.com | Manager, Operations and Strategy (CEO Office)
+- [ ] https://jobs.ashbyhq.com/multiverse/9aef77c9-0b58-4947-8004-fc9ce809c70a | Multiverse | GTM Engineer
+- [ ] https://complyadvantage.com/careers/jobs/8902109002?gh_jid=8902109002 | ComplyAdvantage | GTM Engineer
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/8034474003 | Doctolib | Localization Operations Manager (x/f/m)
+- [ ] https://jobs.ashbyhq.com/pleo/c79cde07-aace-4b77-a704-247e541b721a | Pleo | Marketing Operations Manager
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8303200 | GetYourGuide | Senior Analyst, FP&A Revenue Planning
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101 | Bitpanda | Senior SOC Analyst, Security Operations
