@@ -1719,3 +1719,9 @@
 - [ ] https://jobs.ashbyhq.com/pleo/c79cde07-aace-4b77-a704-247e541b721a | Pleo | Marketing Operations Manager
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8303200 | GetYourGuide | Senior Analyst, FP&A Revenue Planning
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101 | Bitpanda | Senior SOC Analyst, Security Operations
+
+- [ ] https://sumup.com/careers/positions/8909054002?gh_jid=8909054002 | SumUp | Senior Manager Tax Planning & Strategy
+- [ ] https://sumup.com/careers/positions/8907478002?gh_jid=8907478002 | SumUp | (Senior) Sales Operations Manager
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/8040014003 | Doctolib |  Revenue Operations Lead (x/f/m)
+- [ ] https://jobs.ashbyhq.com/pleo/5042ee63-a41a-412b-bbd9-7c423ea41e4c | Pleo | Marketing Operations Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8007876?gh_jid=8007876 | HelloFresh | Creative Strategy Lead, New Social Growth Platforms (all genders)
