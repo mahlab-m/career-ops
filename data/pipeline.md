@@ -1725,3 +1725,10 @@
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/8040014003 | Doctolib |  Revenue Operations Lead (x/f/m)
 - [ ] https://jobs.ashbyhq.com/pleo/5042ee63-a41a-412b-bbd9-7c423ea41e4c | Pleo | Marketing Operations Manager
 - [ ] https://careers.hellofresh.com/global/en/job/8007876?gh_jid=8007876 | HelloFresh | Creative Strategy Lead, New Social Growth Platforms (all genders)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462718008 | Anthropic | Data Center Facility Operations Lead - Commissioning & Delivery
+- [ ] https://jobs.ashbyhq.com/elevenlabs/820e5023-c637-4b36-91a9-f732f235998e | ElevenLabs | GTM Enablement - Partner Program
+- [ ] https://jobs.ashbyhq.com/elevenlabs/24710bb7-62de-48d4-82c5-748c0d8aade2 | ElevenLabs | GTM Enablement - Global Onboarding & Operations
+- [ ] https://jobs.ashbyhq.com/checkout.com/32ff4513-ca0e-4fb1-b4df-05e216c08f93 | Checkout.com | Partner Engagements Manager, Compliance Strategy
+- [ ] https://sumup.com/careers/positions/8909052002?gh_jid=8909052002 | SumUp | Senior Manager Tax Planning & Strategy
+- [ ] https://jobs.lever.co/spotify/66184cac-4d6c-46f6-868c-bac0c184fd22 | Spotify | Revenue Operations Manager - Spotify Technology
