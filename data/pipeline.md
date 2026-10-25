@@ -1732,3 +1732,5 @@
 - [ ] https://jobs.ashbyhq.com/checkout.com/32ff4513-ca0e-4fb1-b4df-05e216c08f93 | Checkout.com | Partner Engagements Manager, Compliance Strategy
 - [ ] https://sumup.com/careers/positions/8909052002?gh_jid=8909052002 | SumUp | Senior Manager Tax Planning & Strategy
 - [ ] https://jobs.lever.co/spotify/66184cac-4d6c-46f6-868c-bac0c184fd22 | Spotify | Revenue Operations Manager - Spotify Technology
+
+- [ ] https://job-boards.greenhouse.io/catawiki/jobs/8300469 | Catawiki | Commercial Operations Project Manager (Trust Operations Excellence)
