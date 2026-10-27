@@ -1734,3 +1734,10 @@
 - [ ] https://jobs.lever.co/spotify/66184cac-4d6c-46f6-868c-bac0c184fd22 | Spotify | Revenue Operations Manager - Spotify Technology
 
 - [ ] https://job-boards.greenhouse.io/catawiki/jobs/8300469 | Catawiki | Commercial Operations Project Manager (Trust Operations Excellence)
+
+- [ ] https://jobs.ashbyhq.com/harvey/4d0741ce-847d-4b4c-ae11-71fba872a04d | Harvey | Recruiting Operations Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/airwallex/3a6bede7-8b5a-4077-8f4c-11f701c94a54 | Airwallex | Senior Associate, Consumer Fraud Risk Operations
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4455228009 | Oura | Senior Manager, Finance Transformation
+- [ ] https://jobs.ashbyhq.com/pleo/2e97058b-71ce-4ba9-8eb3-2462ce369521 | Pleo | Sales Operations Business Partner (CX)
+- [ ] https://jobs.lever.co/sonarsource/579af7e0-5f74-4ca6-bcf4-b70a12afaae8 | SonarSource | Director, Global Field Operations
+- [ ] https://jobs.lever.co/sonarsource/6331329c-0df1-4453-a390-17895c09f888 | SonarSource | Director, GTM Productivity & Revenue Enablement
