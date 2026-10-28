@@ -1741,3 +1741,11 @@
 - [ ] https://jobs.ashbyhq.com/pleo/2e97058b-71ce-4ba9-8eb3-2462ce369521 | Pleo | Sales Operations Business Partner (CX)
 - [ ] https://jobs.lever.co/sonarsource/579af7e0-5f74-4ca6-bcf4-b70a12afaae8 | SonarSource | Director, Global Field Operations
 - [ ] https://jobs.lever.co/sonarsource/6331329c-0df1-4453-a390-17895c09f888 | SonarSource | Director, GTM Productivity & Revenue Enablement
+
+- [ ] https://jobs.ashbyhq.com/harvey/00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1 | Harvey | Recruiting Operations Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/checkout.com/e76a5c62-874c-466b-b0e0-36851ab2e9af | Checkout.com | Representative, Business Development
+- [ ] https://jobs.ashbyhq.com/checkout.com/48deab5d-6c3e-4bb6-afb8-750a1aaf1ef4 | Checkout.com | Operations Administrator
+- [ ] https://sumup.com/careers/positions/8543373002?gh_jid=8543373002 | SumUp | Vendor Operations Performance Analyst
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/8045999003 | Doctolib | Stage - Strategy & Operations (x/f/m) - mars 2027
+- [ ] https://jobs.ashbyhq.com/lovable/827c066d-222d-4729-b0a7-968fa7edad03 | Multiline / Lovable | Recruiting Operations Specialist | Contract
+- [ ] https://careers.hellofresh.com/global/en/job/8327273?gh_jid=8327273 | HelloFresh | Planning Executive
