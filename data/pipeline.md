@@ -1749,3 +1749,12 @@
 - [ ] https://job-boards.greenhouse.io/doctolib/jobs/8045999003 | Doctolib | Stage - Strategy & Operations (x/f/m) - mars 2027
 - [ ] https://jobs.ashbyhq.com/lovable/827c066d-222d-4729-b0a7-968fa7edad03 | Multiline / Lovable | Recruiting Operations Specialist | Contract
 - [ ] https://careers.hellofresh.com/global/en/job/8327273?gh_jid=8327273 | HelloFresh | Planning Executive
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8329719 | Stripe | Marketing Strategy & Operations Business Partner
+- [ ] https://stripe.com/jobs/search?gh_jid=8311067 | Stripe | Program Manager, Go-to-Market Experience and Productivity
+- [ ] https://jobs.ashbyhq.com/harvey/400a2ac7-4e79-492b-b742-a0c3315b0c16 | Harvey | Transformation Advisory Lead, Strategy & Economics, EMEA
+- [ ] https://jobs.ashbyhq.com/checkout.com/7d3cee8c-4bd6-436a-aad9-ece8e834efe5 | Checkout.com | Strategy and Operations Lead, CEO Office
+- [ ] https://jobs.ashbyhq.com/multiverse/0fb8abfd-c4dd-49ce-8c09-f961adf492ea | Multiverse | Operations Specialist - Enablement
+- [ ] https://jobs.lever.co/zopa/4c6d6363-6243-45bc-b18a-3f4666e98c1c | Zopa | Head of Fraud Operations
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8330376 | GetYourGuide | FP&A Revenue Planning Manager
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/5009668101 | Raisin | Head of Operations (f/m/d)
