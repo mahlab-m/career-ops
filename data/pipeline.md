@@ -1758,3 +1758,11 @@
 - [ ] https://jobs.lever.co/zopa/4c6d6363-6243-45bc-b18a-3f4666e98c1c | Zopa | Head of Fraud Operations
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8330376 | GetYourGuide | FP&A Revenue Planning Manager
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/5009668101 | Raisin | Head of Operations (f/m/d)
+
+- [ ] https://jobs.ashbyhq.com/airwallex/0c466f77-19ee-47d5-bc88-7200f27fbe02 | Airwallex | Senior Manager, Operations Global Quality Assurance (KYC/TM/ Fraud Risk)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742457003?gh_jid=7742457003 | Celonis | AI and Value Transformation Consultant - Defence & Government - SC cleared
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742453003?gh_jid=7742453003 | Celonis | AI & Value Transformation Consultant (Supply Chain & Manufacturing)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8067893003?gh_jid=8067893003 | Celonis | Applied Value Engineer - AI and Value Transformation Consultant
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/5017767101 | Raisin | B2B Partner Operations Manager (m/f/d)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8334636 | Wolt | Associate Operations Manager, Supply Acquisition & Activation
+- [ ] https://jobs.lever.co/veepee/00eef24d-a5a2-4480-9ab9-7e68043f91cf | Veepee | Media Operations - Prácticas (H/M/X)
