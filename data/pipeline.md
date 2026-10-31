@@ -1766,3 +1766,16 @@
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/5017767101 | Raisin | B2B Partner Operations Manager (m/f/d)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8334636 | Wolt | Associate Operations Manager, Supply Acquisition & Activation
 - [ ] https://jobs.lever.co/veepee/00eef24d-a5a2-4480-9ab9-7e68043f91cf | Veepee | Media Operations - Prácticas (H/M/X)
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8283786 | Stripe | Marketing Operations Program Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8234710 | Stripe | Startup Products Strategy & Operations, Insights & Analytics
+- [ ] https://stripe.com/jobs/search?gh_jid=8248415 | Stripe | Startup Products Strategy & Operations, Product Strategy
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24 | ElevenLabs | Trust Strategy & Operations
+- [ ] https://jobs.lever.co/contentsquare/68d23d76-f1e5-4284-b6c5-04a4a3f512b4 | Contentsquare | Customer Success Operations Senior Analyst
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8330372 | GetYourGuide | Senior Manager, Business Operations & Strategy Manager (Categories)
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8829910002 | Cabify | Fleet Operations Leader
+- [ ] https://careers.hellofresh.com/global/en/job/8334134?gh_jid=8334134 | HelloFresh | Associate Director, Corporate Strategy & Development (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8305457?gh_jid=8305457 | HelloFresh | Senior Manager, Corporate Strategy & Development (all genders)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8334723 | Wolt | Associate Operations Manager, Supply Acquisition & Activation
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8334374 | Wolt | Strategy & Operations Manager, Digital Ordering EMEA
+- [ ] https://jobs.lever.co/pigment/978b4a91-5c8c-4081-aaec-8efa35fe604c | Pigment | Business Transformation Advisory - Paris
