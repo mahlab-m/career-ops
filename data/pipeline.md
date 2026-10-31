@@ -1779,3 +1779,6 @@
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8334723 | Wolt | Associate Operations Manager, Supply Acquisition & Activation
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8334374 | Wolt | Strategy & Operations Manager, Digital Ordering EMEA
 - [ ] https://jobs.lever.co/pigment/978b4a91-5c8c-4081-aaec-8efa35fe604c | Pigment | Business Transformation Advisory - Paris
+
+- [ ] https://careers.hellofresh.com/global/en/job/8337085?gh_jid=8337085 | HelloFresh | Associate Director, Corporate Strategy & Development (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8337006?gh_jid=8337006 | HelloFresh | Senior Manager, Corporate Strategy & Development (all genders)
