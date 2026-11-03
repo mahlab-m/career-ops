@@ -1782,3 +1782,8 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8337085?gh_jid=8337085 | HelloFresh | Associate Director, Corporate Strategy & Development (all genders)
 - [ ] https://careers.hellofresh.com/global/en/job/8337006?gh_jid=8337006 | HelloFresh | Senior Manager, Corporate Strategy & Development (all genders)
+
+- [ ] https://jobs.ashbyhq.com/checkout.com/b263a95d-edd9-4208-bf45-be2add3debc3 | Checkout.com | Business Development Enablement Manager
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4476646009 | Oura | Manager, GTM FP&A
+- [ ] https://careers.hellofresh.com/global/en/job/8300674?gh_jid=8300674 | HelloFresh | Engineering Manager, Operations Technology (All Genders)
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8336365 | Wolt | Strategy & Business Operations Manager, Wolt Drive
