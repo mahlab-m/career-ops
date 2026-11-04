@@ -1787,3 +1787,13 @@
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4476646009 | Oura | Manager, GTM FP&A
 - [ ] https://careers.hellofresh.com/global/en/job/8300674?gh_jid=8300674 | HelloFresh | Engineering Manager, Operations Technology (All Genders)
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8336365 | Wolt | Strategy & Business Operations Manager, Wolt Drive
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638 | ElevenLabs | People Partner GTM
+- [ ] https://jobs.ashbyhq.com/airwallex/b8f4838a-256c-4ccd-b255-ea5b96560f6d | Airwallex | Senior Manager, Revenue Strategy & Enablement, EMEA 
+- [ ] https://jobs.ashbyhq.com/airwallex/dacd648d-b33c-4a59-9573-271bbd5c3420 | Airwallex | GTM Partnerships Manager, SME & Growth
+- [ ] https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101 | BVNK | Senior Business Operations & Strategy Manager
+- [ ] https://jobs.lever.co/spotify/a3c9129a-2160-4f3b-a2b5-d07868074aa1 | Spotify | Markets Strategy & Operations Manager, SEA
+- [ ] https://jobs.lever.co/contentsquare/56947a5b-c346-425c-95a0-02a975a262b2 | Contentsquare | Senior Field Operations Partner
+- [ ] https://jobs.ashbyhq.com/pleo/13a96e9a-2a4b-43ef-b4eb-d417b48c4da8 | Pleo | Technical Program Manager, Revenue Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8168960?gh_jid=8168960 | HelloFresh | Associate Director, Global Customer Experience & Compensation Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/8195646?gh_jid=8195646 | HelloFresh | Director, Global Customer Experience & Compensation Strategy
