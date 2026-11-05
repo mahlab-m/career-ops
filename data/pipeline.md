@@ -1797,3 +1797,15 @@
 - [ ] https://jobs.ashbyhq.com/pleo/13a96e9a-2a4b-43ef-b4eb-d417b48c4da8 | Pleo | Technical Program Manager, Revenue Operations
 - [ ] https://careers.hellofresh.com/global/en/job/8168960?gh_jid=8168960 | HelloFresh | Associate Director, Global Customer Experience & Compensation Strategy
 - [ ] https://careers.hellofresh.com/global/en/job/8195646?gh_jid=8195646 | HelloFresh | Director, Global Customer Experience & Compensation Strategy
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5449880008 | Anthropic | Google Cloud GTM Partnerships Lead, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/cf7e31c1-d44a-4453-977c-c8270ad274bf | Harvey | GTM Systems Administrator, EMEA
+- [ ] https://stripe.com/jobs/search?gh_jid=8326579 | Stripe | Strategy and Analytics Business Partner
+- [ ] https://jobs.ashbyhq.com/airwallex/9dd3a91c-529e-4472-b11a-ac1ec7ed43d1 | Airwallex | GTM Partnerships Manager, SME & Growth
+- [ ] https://n26.com/en-eu/careers/positions/8345862?gh_jid=8345862 | N26 | Business Strategy Associate - Lending
+- [ ] https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134 | N26 | Senior Manager Complaints Operations & Service Delivery
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8196236003?gh_jid=8196236003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://careers.hellofresh.com/global/en/job/8173191?gh_jid=8173191 | HelloFresh | Associate Director, Global Customer Experience & Compensation Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/8195648?gh_jid=8195648 | HelloFresh | Director, Global Customer Experience & Compensation Strategy
+- [ ] https://careers.hellofresh.com/global/en/job/8352132?gh_jid=8352132 | HelloFresh |  Strategy Manager - All genders
+- [ ] https://jobs.lever.co/contentsquare/08ae7691-e58e-4366-9cff-1bff679f9316 | Contentsquare | Senior Field Operations Partner
