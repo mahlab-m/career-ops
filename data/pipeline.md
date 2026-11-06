@@ -1809,3 +1809,11 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8195648?gh_jid=8195648 | HelloFresh | Director, Global Customer Experience & Compensation Strategy
 - [ ] https://careers.hellofresh.com/global/en/job/8352132?gh_jid=8352132 | HelloFresh |  Strategy Manager - All genders
 - [ ] https://jobs.lever.co/contentsquare/08ae7691-e58e-4366-9cff-1bff679f9316 | Contentsquare | Senior Field Operations Partner
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8354566 | Stripe | AMER Data Analyst - Sales Strategy and Operations
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8354936 | Monzo | Partner Strategy & Delivery Lead
+- [ ] https://jobs.ashbyhq.com/airwallex/9f801f1b-3cd4-4749-91e5-a0aa80423f65 | Airwallex | Director, Corporate Development & Investor Relations 
+- [ ] https://n26.com/en-eu/careers/positions/8355016?gh_jid=8355016 | N26 | Business Strategy Associate - Lending
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/8885031002 | Cabify | Mobility Media Operations Lead
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4647006101 | Bitpanda | AML Operations Associate
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5028621101 | Bitpanda | Specialist, Trading & Asset Operations
