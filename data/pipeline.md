@@ -1817,3 +1817,23 @@
 - [ ] https://job-boards.greenhouse.io/cabify/jobs/8885031002 | Cabify | Mobility Media Operations Lead
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4647006101 | Bitpanda | AML Operations Associate
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5028621101 | Bitpanda | Specialist, Trading & Asset Operations
+
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/191bba6f-c66d-4ac0-8ddd-300b272046e0 | ElevenLabs | Legal Operations Lead 
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613 | ElevenLabs | Billing Operations Manager
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638 | ElevenLabs | People Partner GTM
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb | ElevenLabs | Company Operations Lead
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24 | ElevenLabs | Trust Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e | ElevenLabs | GTM Enablement - Partner Program
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/24710bb7-62de-48d4-82c5-748c0d8aade2 | ElevenLabs | GTM Enablement - Global Onboarding & Operations
+- [ ] https://jobs.ashbyhq.com/Omnea/77119e04-a6e0-43f6-87cd-af5fbe814386 | Omnea | Legal Operations Manager (3-6m Contract)
+- [ ] https://jobs.ashbyhq.com/Omnea/3c359c5d-99de-47c6-b73d-bcd47e60af52 | Omnea | Chief of Staff, Special Projects
+- [ ] https://jobs.ashbyhq.com/Omnea/cad3c348-68c6-47e9-bd23-14d9d16858f4 | Omnea | Revenue Operations Associate
+- [ ] https://jobs.ashbyhq.com/Omnea/6c70160b-e17a-4e81-b82c-6a1a015159cb | Omnea | AI Transformation Strategist
+- [ ] https://jobs.ashbyhq.com/airwallex/3c1dff61-21a1-47be-a017-e8c3fa0f20bf | Airwallex | Chief of Staff, CFO
+- [ ] https://jobs.ashbyhq.com/checkout.com/9fd5c343-1605-4c8f-b15f-76510421fefc | Checkout.com | Manager, Procurement Operations & Transformation
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4484450009 | Oura | Senior Logistics Manager, Americas Retail Operations
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8334748 | Adyen | Strategy and Program Manager
+- [ ] https://jobs.lever.co/zopa/b7d8674f-2dfb-4951-a86a-bb9199a01c8f | Zopa | Security Operations Analyst
+- [ ] https://jobs.lever.co/palantir/2da72708-a7b0-4178-9cb2-6b009eb6e07f | Palantir | Site Reliability Operations Analyst
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4643990101 | Bitpanda | AML Operations Associate
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8355816 | Wolt | Retail Operations Specialist
