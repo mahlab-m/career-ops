@@ -1837,3 +1837,14 @@
 - [ ] https://jobs.lever.co/palantir/2da72708-a7b0-4178-9cb2-6b009eb6e07f | Palantir | Site Reliability Operations Analyst
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4643990101 | Bitpanda | AML Operations Associate
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8355816 | Wolt | Retail Operations Specialist
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8315943 | Stripe | Product Operations Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8355249 | Monzo | Partner Strategy and Delivery Manager
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8359155 | Monzo | VAIB Strategy Analyst
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8356252 | Monzo | VAIB Strategy Manager
+- [ ] https://jobs.ashbyhq.com/relay/17dff4df-3014-4359-a47e-88c89f310553 | Relay Technologies | Staff Fraud Strategy Analyst
+- [ ] https://jobs.ashbyhq.com/relay/dd4a6cfa-2d32-40fb-93f5-f6719ec19578 | Relay Technologies | Senior Fraud Strategy Analyst
+- [ ] https://complyadvantage.com/careers/jobs/8928689002?gh_jid=8928689002 | ComplyAdvantage | Revenue Operations Administrator
+- [ ] https://jobs.lever.co/spotify/a4651332-6400-40e8-8c22-5491e7a34161 | Spotify | Analyst, Royalty Operations
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101 | Bitpanda | CRM Operations & Braze Specialist  
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8366783 | Wolt | Senior Manager, Customer Support, Deliveroo Operations
