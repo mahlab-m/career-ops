@@ -1848,3 +1848,14 @@
 - [ ] https://jobs.lever.co/spotify/a4651332-6400-40e8-8c22-5491e7a34161 | Spotify | Analyst, Royalty Operations
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101 | Bitpanda | CRM Operations & Braze Specialist  
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8366783 | Wolt | Senior Manager, Customer Support, Deliveroo Operations
+
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48 | ElevenLabs | GTM Enablement - Sales Execution & North America Lead
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865 | ElevenLabs | GTM Enablement - Product
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/90cc8a34-1707-4aef-b509-94f94389d149 | ElevenLabs | GTM Systems Architect - APAC 
+- [ ] https://jobs.ashbyhq.com/airwallex/9654e217-b0b8-4b3c-a5f2-1f607291ec68 | Airwallex | Manager, Strategy & Operations, Regulatory & Compliance
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8200280003 | Tide | Security Operations Responder
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200162003?gh_jid=8200162003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200164003?gh_jid=8200164003 | Celonis | Senior Process Intelligence and Supply Chain Transformation Consultant
+- [ ] https://jobs.ashbyhq.com/alan/97568b51-f376-4ff1-9096-6ad927177153 | Alan | Sales Planning & Strategy
+- [ ] https://jobs.ashbyhq.com/alan/e0a85d37-b95b-463f-b39d-940404efbb52 | Alan | Marketing Operations
+- [ ] https://jobs.ashbyhq.com/pleo/802d0cbd-7b13-4c4a-8d54-0b1783bf0341 | Pleo | Fraud Operations Analyst
