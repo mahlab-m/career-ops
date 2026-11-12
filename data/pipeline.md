@@ -1859,3 +1859,14 @@
 - [ ] https://jobs.ashbyhq.com/alan/97568b51-f376-4ff1-9096-6ad927177153 | Alan | Sales Planning & Strategy
 - [ ] https://jobs.ashbyhq.com/alan/e0a85d37-b95b-463f-b39d-940404efbb52 | Alan | Marketing Operations
 - [ ] https://jobs.ashbyhq.com/pleo/802d0cbd-7b13-4c4a-8d54-0b1783bf0341 | Pleo | Fraud Operations Analyst
+
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/6dbba891-4f9a-45de-98b4-c1049cde0fb9 | iwoca | Strategy Analyst - Operations Strategy & CRM
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201662003?gh_jid=8201662003 | Celonis | Lead Process Intelligence & Supply Chain Transformation Consultant - Life Sciences
+- [ ] https://jobs.ashbyhq.com/alan/a1da6916-8113-43f7-9c65-f970033ca14e | Alan | Sales Planning & Strategy
+- [ ] https://jobs.ashbyhq.com/alan/8c26a037-fd9a-454d-90bf-528b967c07bd | Alan | Marketing Operations
+- [ ] https://jobs.lever.co/contentsquare/6447b9b9-1de4-4855-a109-81536e57c3c9 | Contentsquare | PRO & Operations Administrator (KSA & UAE)
+- [ ] https://careers.hellofresh.com/global/en/job/8378461?gh_jid=8378461 | HelloFresh | Lead Creative Strategy, New Social Platforms (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8345791?gh_jid=8345791 | HelloFresh | Senior CRM Strategy Manager, Leads Capture (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8378790?gh_jid=8378790 | HelloFresh | Senior Supply Chain Operations Manager- Factor Europe (all genders)
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8899705002 | Solaris | Card Operations Working Student 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8372485 | Wolt | Strategy & Operations Manager, Pricing & Affordability
