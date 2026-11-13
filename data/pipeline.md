@@ -1870,3 +1870,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8378790?gh_jid=8378790 | HelloFresh | Senior Supply Chain Operations Manager- Factor Europe (all genders)
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8899705002 | Solaris | Card Operations Working Student 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8372485 | Wolt | Strategy & Operations Manager, Pricing & Affordability
+
+- [ ] https://jobs.ashbyhq.com/harvey/4751c460-60ea-4291-9591-c865615417aa | Harvey | Attorney, Evaluation Operations (Contract)
+- [ ] https://jobs.ashbyhq.com/harvey/6c31b819-c3aa-470b-85ec-3b4c399d2a2f | Harvey | GTM Enablement Partner, APAC
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201989003?gh_jid=8201989003 | Celonis | Lead AI & Value Transformation Consultant - CPG
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202451003?gh_jid=8202451003 | Celonis | Senior Business Transformation Consultant - Automotive & Manufacturing
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202426003?gh_jid=8202426003 | Celonis | Senior Business Transformation Consultant Iberia & Latam
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202459003?gh_jid=8202459003 | Celonis | Senior Transformation Consultant - FSI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003 | Celonis | Working Student Legal Operations and Technology
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8345927 | Adyen | Partnerships Growth & Operations Lead
+- [ ] https://careers.hellofresh.com/global/en/job/8364894?gh_jid=8364894 | HelloFresh | Logistics Operations Specialist (Maternity Cover)  - all genders
