@@ -1880,3 +1880,9 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003 | Celonis | Working Student Legal Operations and Technology
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8345927 | Adyen | Partnerships Growth & Operations Lead
 - [ ] https://careers.hellofresh.com/global/en/job/8364894?gh_jid=8364894 | HelloFresh | Logistics Operations Specialist (Maternity Cover)  - all genders
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8282171 | Stripe | Integration Reliability Engineer, Technical Operations
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8385203 | Monzo | Interim Director of Financial Operations & Control 
+- [ ] https://job-boards.greenhouse.io/behavox/jobs/8386500 | Behavox | Senior Strategic Finance Analyst (SaaS)
+- [ ] https://careers.hellofresh.com/global/en/job/8045694?gh_jid=8045694 | HelloFresh | R&D Operations Chef (all genders)
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101 | Bitpanda | Business Operations Specialist
