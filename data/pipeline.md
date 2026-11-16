@@ -1886,3 +1886,5 @@
 - [ ] https://job-boards.greenhouse.io/behavox/jobs/8386500 | Behavox | Senior Strategic Finance Analyst (SaaS)
 - [ ] https://careers.hellofresh.com/global/en/job/8045694?gh_jid=8045694 | HelloFresh | R&D Operations Chef (all genders)
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101 | Bitpanda | Business Operations Specialist
+
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/5034365101 | Tamara | Business Development Specialist
