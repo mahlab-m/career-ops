@@ -1888,3 +1888,11 @@
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101 | Bitpanda | Business Operations Specialist
 
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/5034365101 | Tamara | Business Development Specialist
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8393939 | Stripe | Product Manager, Finance Operations
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8392439 | Monzo | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/harvey/d61a55d8-2480-40be-928d-e9f476ea76ce | Harvey | Senior AI Enablement Engineer, GTM
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036740101 | Bitpanda | Senior Specialist, Business Operations (Crypto)
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036744101 | Bitpanda | Senior Specialist, Business Operations (Fusion)
+- [ ] https://jobs.lever.co/blablacar/e239510e-b6fc-4992-a302-e7e30eaa6373 | BlaBlaCar | Strategy & Business Analyst
