@@ -1896,3 +1896,9 @@
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036740101 | Bitpanda | Senior Specialist, Business Operations (Crypto)
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036744101 | Bitpanda | Senior Specialist, Business Operations (Fusion)
 - [ ] https://jobs.lever.co/blablacar/e239510e-b6fc-4992-a302-e7e30eaa6373 | BlaBlaCar | Strategy & Business Analyst
+
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/b3dd0a00-6223-405b-9064-8619e98fa6e6 | ElevenLabs | Marketplace Operations
+- [ ] https://jobs.ashbyhq.com/harvey/0eeba998-e84a-4f37-a8f5-2ddd7399bd50 | Harvey | GTM Strategy & Operations, EMEA
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8393065 | Monzo | Financial Operations Analyst, 12 Month Fixed Term Contract
+- [ ] https://jobs.ashbyhq.com/airwallex/5be30df5-08e7-4e86-b019-b9873cea67a5 | Airwallex | Manager, Revenue Strategy & Operations, DACH
+- [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4953669101 | Raisin | Working Student - Business Analyst, Growth & Operations (m/f/d) – Dutch Market
