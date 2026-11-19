@@ -1902,3 +1902,12 @@
 - [ ] https://job-boards.greenhouse.io/monzo/jobs/8393065 | Monzo | Financial Operations Analyst, 12 Month Fixed Term Contract
 - [ ] https://jobs.ashbyhq.com/airwallex/5be30df5-08e7-4e86-b019-b9873cea67a5 | Airwallex | Manager, Revenue Strategy & Operations, DACH
 - [ ] https://job-boards.eu.greenhouse.io/raisin/jobs/4953669101 | Raisin | Working Student - Business Analyst, Growth & Operations (m/f/d) – Dutch Market
+
+- [ ] https://jobs.ashbyhq.com/harvey/c440afde-e272-4580-99c5-d11cc4b720cc | Harvey | GTM Technology Product Owner - Quote to Cash
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8204666003 | Tide | Senior Operations Responder
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8204664003 | Tide | Senior Security Operations Responder
+- [ ] https://jobs.ashbyhq.com/airwallex/3c249883-acf0-4aa1-b325-496eab0ef155 | Airwallex | Manager, Operations Strategy (Consumer Insights)
+- [ ] https://sumup.com/careers/positions/8938518002?gh_jid=8938518002 | SumUp | Program Manager - KYC Operations
+- [ ] https://jobs.ashbyhq.com/pleo/288ae3a8-269f-49f7-abd3-462a1e3485f6 | Pleo | GTM Enablement Associate
+- [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8917134002 | Solaris | Team Lead Card Operations (12 months contract)
+- [ ] https://jobs.lever.co/pigment/16e24656-66af-40f3-97c6-71c05cf6b1e8 | Pigment | GTM Systems Engineer (Salesforce)
