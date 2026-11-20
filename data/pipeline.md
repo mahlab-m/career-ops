@@ -1911,3 +1911,11 @@
 - [ ] https://jobs.ashbyhq.com/pleo/288ae3a8-269f-49f7-abd3-462a1e3485f6 | Pleo | GTM Enablement Associate
 - [ ] https://job-boards.greenhouse.io/solarisbank/jobs/8917134002 | Solaris | Team Lead Card Operations (12 months contract)
 - [ ] https://jobs.lever.co/pigment/16e24656-66af-40f3-97c6-71c05cf6b1e8 | Pigment | GTM Systems Engineer (Salesforce)
+
+- [ ] https://helsing.ai/jobs/5042223101?gh_jid=5042223101 | Helsing | Senior Systems Engineer - Flight & Mission Planning
+- [ ] https://stripe.com/jobs/search?gh_jid=8384782 | Stripe | Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing
+- [ ] https://job-boards.eu.greenhouse.io/bvnk/jobs/5042075101 | BVNK | Senior Product Manager - Fiat Payment Operations
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8209101003 | Tide | Senior Security Operations Responder
+- [ ] https://jobs.ashbyhq.com/wayflyer/c46d6c57-7eaf-489f-91be-f9d66a57fcc4 | Wayflyer | Manager, Business Development 
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8400446 | Wolt | Partner Operations Associate
+- [ ] https://jobs.lever.co/pigment/6e871269-5b29-47ae-a1a4-2de8523af2de | Pigment | Marketing Operations Manager
