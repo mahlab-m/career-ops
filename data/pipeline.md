@@ -1919,3 +1919,9 @@
 - [ ] https://jobs.ashbyhq.com/wayflyer/c46d6c57-7eaf-489f-91be-f9d66a57fcc4 | Wayflyer | Manager, Business Development 
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8400446 | Wolt | Partner Operations Associate
 - [ ] https://jobs.lever.co/pigment/6e871269-5b29-47ae-a1a4-2de8523af2de | Pigment | Marketing Operations Manager
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490492008 | Anthropic | Research Operations, External Artifacts
+- [ ] https://stripe.com/jobs/search?gh_jid=8287910 | Stripe | AI Transformation Lead, Marketing
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003 | Celonis | Strategy & Operations Working Student
+- [ ] https://jobs.lever.co/farfetch/d20d0a53-80c4-422c-9d0c-ac9ec72afa39 | Farfetch | Merchandise Planning & Analytics Analyst
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8406208 | Wolt | Senior Manager, Revenue Operations, DashOS EMEA
