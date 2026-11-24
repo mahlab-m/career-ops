@@ -1925,3 +1925,10 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003 | Celonis | Strategy & Operations Working Student
 - [ ] https://jobs.lever.co/farfetch/d20d0a53-80c4-422c-9d0c-ac9ec72afa39 | Farfetch | Merchandise Planning & Analytics Analyst
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8406208 | Wolt | Senior Manager, Revenue Operations, DashOS EMEA
+
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8411444 | Monzo | Strategy & Operations Manager
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4515547009 | Oura | Procurement Operations Manager
+- [ ] https://jobs.ashbyhq.com/alan/1c434d56-b847-428c-8f17-6c3a66b0346d | Alan | Sales Planning & Strategy
+- [ ] https://job-boards.greenhouse.io/mirakl/jobs/6234338004 | Mirakl | Business Development & Demand Generation Specialist
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5043362101 | Bitpanda | Senior Manager - Global Markets Operations
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8411197 | Wolt | Merchant Operations Associate
