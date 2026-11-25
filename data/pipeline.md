@@ -1932,3 +1932,8 @@
 - [ ] https://job-boards.greenhouse.io/mirakl/jobs/6234338004 | Mirakl | Business Development & Demand Generation Specialist
 - [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/5043362101 | Bitpanda | Senior Manager - Global Markets Operations
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8411197 | Wolt | Merchant Operations Associate
+
+- [ ] https://jobs.lever.co/spotify/529a1618-32b9-4619-b727-ae28ddf0dc61 | Spotify | Demand Generation & Campaign Operations Manager
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8276792 | Adyen | Tech Strategy & Program Manager
+- [ ] https://sumup.com/careers/positions/8938520002?gh_jid=8938520002 | SumUp | Senior Sales Operations Manager
+- [ ] https://jobs.ashbyhq.com/alan/b02d8536-9f3e-4e6c-b8ca-41b77bdea4c5 | Alan | Sales Planning & Strategy
