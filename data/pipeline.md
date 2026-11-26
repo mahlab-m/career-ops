@@ -1937,3 +1937,9 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8276792 | Adyen | Tech Strategy & Program Manager
 - [ ] https://sumup.com/careers/positions/8938520002?gh_jid=8938520002 | SumUp | Senior Sales Operations Manager
 - [ ] https://jobs.ashbyhq.com/alan/b02d8536-9f3e-4e6c-b8ca-41b77bdea4c5 | Alan | Sales Planning & Strategy
+
+- [ ] https://jobs.ashbyhq.com/airwallex/dee7e0e0-b719-4871-94f6-222756c28342 | Airwallex | Senior Manager, Global Onboarding Operations 
+- [ ] https://jobs.ashbyhq.com/checkout.com/91070181-d070-45c9-9367-5d85b002ca37 | Checkout.com | Manager, Strategic Planning
+- [ ] https://jobs.ashbyhq.com/thought-machine/bdf724a1-838f-413f-854d-8faa7b75816f | Thought Machine | Senior Corporate Development & IR Manager
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/355933f8-2f65-4fce-b113-9c11c6b651a7 | iwoca | Credit Strategy Analyst 
+- [ ] https://jobs.ashbyhq.com/alan/64f3f069-16e4-49d1-b5db-2df126359ee1 | Alan | Marketing Operations
