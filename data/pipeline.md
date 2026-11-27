@@ -1943,3 +1943,8 @@
 - [ ] https://jobs.ashbyhq.com/thought-machine/bdf724a1-838f-413f-854d-8faa7b75816f | Thought Machine | Senior Corporate Development & IR Manager
 - [ ] https://jobs.ashbyhq.com/iwoca.co.uk/355933f8-2f65-4fce-b113-9c11c6b651a7 | iwoca | Credit Strategy Analyst 
 - [ ] https://jobs.ashbyhq.com/alan/64f3f069-16e4-49d1-b5db-2df126359ee1 | Alan | Marketing Operations
+
+- [ ] https://jobs.ashbyhq.com/iwoca.co.uk/5e8b752b-b710-45b4-9ec9-c5bcab144745 | iwoca | Ops Strategy Manager - DE 
+- [ ] https://jobs.ashbyhq.com/alan/a3b05798-5fac-4188-8bd7-675cc2969a2c | Alan | Marketing Operations
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8419084 | Wolt | Consumer Growth, Strategy Manager CEE
+- [ ] https://job-boards.greenhouse.io/wolt/jobs/8419444 | Wolt | Senior Manager, Revenue Operations, DashOS EMEA
