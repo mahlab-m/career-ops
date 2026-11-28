@@ -1948,3 +1948,6 @@
 - [ ] https://jobs.ashbyhq.com/alan/a3b05798-5fac-4188-8bd7-675cc2969a2c | Alan | Marketing Operations
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8419084 | Wolt | Consumer Growth, Strategy Manager CEE
 - [ ] https://job-boards.greenhouse.io/wolt/jobs/8419444 | Wolt | Senior Manager, Revenue Operations, DashOS EMEA
+
+- [ ] https://jobs.ashbyhq.com/harvey/bc479bb5-445f-4e9f-a0bc-d2e1bab03947 | Harvey | Manager, GTM Platform Engineering
+- [ ] https://jobs.ashbyhq.com/relay/5b14609f-e023-4cd9-8858-1dcebb57dc1a | Relay Technologies | Talent Lead, Operations & Business
